@@ -4,6 +4,8 @@ description: Pages for tracking discoveries from the Supernova Hunters citizen s
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://SupernovaHunters.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SNHuntersPS1
+github_username: SupernovaHunters
+zooniverse_username: https://www.zooniverse.org/projects/dwright04/supernova-hunters
 
 # Build settings
 markdown: kramdown
