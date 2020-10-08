@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "October Discoveries"
-date:   2020-10-06 00:00:00 -0000
+date:   2020-10-06 01:00:00 -0000
 categories: discoveries
 ---
 
