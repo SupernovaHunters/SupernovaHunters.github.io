@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: [Supernova Hunters](https://www.zooniverse.org/projects/dwright04/supernova-hunters)
-description: Results from the Supernova Hunters citizen science project.
+title: Supernova Hunters
+description: Results from the [Supernova Hunters]((https://www.zooniverse.org/projects/dwright04/supernova-hunters)) citizen science project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://SupernovaHunters.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SNHuntersPS1
