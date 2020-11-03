@@ -11,9 +11,15 @@ categories: discoveries
 score: 0.942745  
 *'Michele T. Mazzucato'* **'B L Goodwin'** **'Virgilio Gonano'** **'Jared Gott'** 'Valmir Martins de Morais' 'Henryk Krawczyk' 'Andres Eloy Martinez Rojas' 'Khushi Arora' 'Lily Lau W.W.' 'Ashok Ghosh' 'x303' 'Shaney Sze' 
 
+49741536
 <img src="https://panoptes-uploads.zooniverse.org/production/subject_location/56d6b6b7-120d-42a0-901f-d78f53f18247.jpeg" width="200"/>
 <img src="https://panoptes-uploads.zooniverse.org/production/subject_location/c1bb12c3-3ef8-4c19-8973-6b3f3f2c770f.jpeg" width="200"/>
 <img src="https://panoptes-uploads.zooniverse.org/production/subject_location/4a11cdbd-b88e-45ca-b357-e302bc030e5b.jpeg" width="200"/>
+
+49741537
+<img src="https://panoptes-uploads.zooniverse.org/production/subject_location/78524b93-5407-4534-a0a5-9cbb91616ce3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/production/subject_location/366f296d-4a68-4bbe-af3e-fbdec7e07899.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/production/subject_location/d79a8244-1b7a-43cf-b50b-04ebc8812a20.jpeg" width="200"/>
 
 ----------
 ## 04 Oct 2020
