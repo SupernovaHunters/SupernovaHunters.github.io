@@ -1,15 +1,48 @@
 ---
 layout: post
 title:  "Discoveries January 2021 "
-date:   2021-01-10 03:15:18 
+date:   2021-01-10 04:50:45 
 categories: discoveries
 ---
 
 
 ----------
+### [AT 2021ok](https://wis-tns.weizmann.ac.il/object/2021ok)
+score: 0.934212
+
+discovery date: 10 Jan 2021
+
+*'Sabine Vollenhofer-Schrumpf'* **'Tiffany Shaw-Diaz'** **'KRISH J. MOTLA'** **'Henryk Krawczyk'** 'David Maetschke' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Celso Pessanha Machado' 'Leo Oxford' 'Дмитрий Дуда' 'Nik Whitehead' 'Michał Biesiada' 
+
+55290222
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d6854820-f78d-4542-909b-60200f838b16.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/78f17e1c-a2b3-4961-a16f-a722e399843f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f66f3976-88de-4079-ad2d-91c030cdeb78.jpeg" width="200"/>
+
+55290223
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8adbee0a-e390-41c0-9fd0-d455a4fea163.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/99c62a5b-c44e-4cb4-ab4a-0d97d3487471.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/97cd63d2-63b6-4711-9f12-dd882a82beda.jpeg" width="200"/>
+
+55290224
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7e1819f0-1505-4647-882b-92850632ffef.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/96dc82ce-f7da-4628-b4fe-29085ff12dbe.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cce001d0-ec5d-4300-af21-e95c007c1cf2.jpeg" width="200"/>
+
+55290225
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8c8c45a5-90b1-42df-9977-5379995ebe1b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/92eba5e2-6f19-43c2-aa23-b3fa3af4a550.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/69764296-1272-4444-8e26-1aa3c4fd44e1.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021pc](https://wis-tns.weizmann.ac.il/object/2021pc)
-aka. PS21ef
+aka. **PS21ef**
+
 score: 0.934455
+
 discovery date: 10 Jan 2021
 
 ***'David Maetschke'*** **'Ashok Ghosh'** **'WillMusgrove'** 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Leo Oxford' 'Michał Biesiada' 
@@ -40,6 +73,7 @@ discovery date: 10 Jan 2021
 ----------
 ### [AT 2020adfb](https://wis-tns.weizmann.ac.il/object/2020adfb)
 score: 0.924249
+
 discovery date: 10 Jan 2021
 
 *'David Maetschke'* **'KRISH J. MOTLA'** **'Sovan acharya'** **'Celso Pessanha Machado'** 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Leo Oxford' 'Michał Biesiada' 
@@ -70,6 +104,7 @@ discovery date: 10 Jan 2021
 ----------
 ### [AT 2020aeoy](https://wis-tns.weizmann.ac.il/object/2020aeoy)
 score: 0.95252
+
 discovery date: 10 Jan 2021
 
 *'Michele T. Mazzucato'* **'ARKA GHOSH'** **'B L Goodwin'** **'David Maetschke'** 'Henryk Krawczyk' 'Virgilio Gonano' 'Dr. Subhash C. Arya' 'Celso Pessanha Machado' 'Leo Oxford' 'Nik Whitehead' 
@@ -100,6 +135,7 @@ discovery date: 10 Jan 2021
 ----------
 ### [AT 2021nb](https://wis-tns.weizmann.ac.il/object/2021nb)
 score: 0.952842
+
 discovery date: 10 Jan 2021
 
 *'David Maetschke'* **'Nik Whitehead'** **'Ashok Ghosh'** **'Henryk Krawczyk'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Leo Oxford' 
@@ -130,6 +166,7 @@ discovery date: 10 Jan 2021
 ----------
 ### [AT 2021rx](https://wis-tns.weizmann.ac.il/object/2021rx)
 score: 0.977538
+
 discovery date: 10 Jan 2021
 
 ***'David Maetschke'*** **'Ashok Ghosh'** **'Nik Whitehead'** 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Sovan acharya' 'Leo Oxford' 
@@ -160,6 +197,7 @@ discovery date: 10 Jan 2021
 ----------
 ### [AT 2021fc](https://wis-tns.weizmann.ac.il/object/2021fc)
 score: 0.932303
+
 discovery date: 10 Jan 2021
 
 *'Henryk Krawczyk'* **'Chloe K. H.'** **'WillMusgrove'** **'B L Goodwin'** 'Michele T. Mazzucato' 'David Maetschke' 'Virgilio Gonano' 'ARKA GHOSH' 'Ashok Ghosh' 'Leo Oxford' 
@@ -195,6 +233,7 @@ discovery date: 10 Jan 2021
 ----------
 ### [AT 2020nmz](https://wis-tns.weizmann.ac.il/object/2020nmz)
 score: 0.929001
+
 discovery date: 09 Jan 2021
 
 *'x303'* **'Christopher Tanner'** **'Andres Eloy Martinez Rojas'** **'Henryk Krawczyk'** 'David Maetschke' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Zac Pujic' 'Michał Biesiada' 'Ashok Ghosh' 'Celso Pessanha Machado' 
@@ -230,6 +269,7 @@ discovery date: 09 Jan 2021
 ----------
 ### [AT 2020aazx](https://wis-tns.weizmann.ac.il/object/2020aazx)
 score: 0.926906
+
 discovery date: 09 Jan 2021
 
 *'David Maetschke'* **'Chloe K. H.'** **'Bruce pawson'** **'ARKA GHOSH'** 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Michał Biesiada' 'B L Goodwin' 'Ashok Ghosh' 
@@ -260,6 +300,7 @@ discovery date: 09 Jan 2021
 ----------
 ### [AT 2021nj](https://wis-tns.weizmann.ac.il/object/2021nj)
 score: 0.932533
+
 discovery date: 09 Jan 2021
 
 ***'David Maetschke'*** **'B L Goodwin'** **'Henryk Krawczyk'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Michał Biesiada' 'Chloe K. H.' 'Zac Pujic' 
@@ -289,8 +330,10 @@ discovery date: 09 Jan 2021
 
 ----------
 ### [AT 2021sx](https://wis-tns.weizmann.ac.il/object/2021sx)
-aka. PS21dh
+aka. **PS21dh**
+
 score: 0.930871
+
 discovery date: 09 Jan 2021
 
 ***'David Maetschke'*** **'Henryk Krawczyk'** **'Chloe K. H.'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Michał Biesiada' 
@@ -320,8 +363,10 @@ discovery date: 09 Jan 2021
 
 ----------
 ### [AT 2020zqi](https://wis-tns.weizmann.ac.il/object/2020zqi)
-aka. PS21eb
+aka. **PS21eb**
+
 score: 0.963796
+
 discovery date: 09 Jan 2021
 
 *'Elisabeth Baeten'* **'Rosemary Billington'** **'Henryk Krawczyk'** **'Dipashri Acharya'** 'KRISH J. MOTLA' 'Virgilio Gonano' 'Fabian Andrews' 'Ashok Ghosh' 
@@ -346,8 +391,10 @@ discovery date: 09 Jan 2021
 
 ----------
 ### [AT 2021fv](https://wis-tns.weizmann.ac.il/object/2021fv)
-aka. PS21dr
+aka. **PS21dr**
+
 score: 0.940821
+
 discovery date: 09 Jan 2021
 
 ***'Henryk Krawczyk'*** **'David Maetschke'** **'Chloe K. H.'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Michał Biesiada' 'Zac Pujic' 'B L Goodwin' 
@@ -368,6 +415,7 @@ discovery date: 09 Jan 2021
 ----------
 ### [AT 2020aaqa](https://wis-tns.weizmann.ac.il/object/2020aaqa)
 score: 0.932303
+
 discovery date: 09 Jan 2021
 
 *'Henryk Krawczyk'* **'Zac Pujic'** **'B L Goodwin'** **'David Maetschke'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Chloe K. H.' 'Celso Pessanha Machado' 'Michał Biesiada' 
@@ -402,8 +450,10 @@ discovery date: 09 Jan 2021
 
 ----------
 ### [AT 2020acwx](https://wis-tns.weizmann.ac.il/object/2020acwx)
-aka. PS20mer
+aka. **PS20mer**
+
 score: 0.964435
+
 discovery date: 09 Jan 2021
 
 *'Chloe K. H.'* **'Zac Pujic'** **'KRISH J. MOTLA'** **'Ashok Ghosh'** 'Ollie Spencer' 'Virgilio Gonano' 'Anton Zahorodnii' 'B L Goodwin' 
@@ -429,6 +479,7 @@ discovery date: 09 Jan 2021
 ----------
 ### [AT 2020adld](https://wis-tns.weizmann.ac.il/object/2020adld)
 score: 0.945743
+
 discovery date: 09 Jan 2021
 
 ***'David Maetschke'*** **'Ashok Ghosh'** **'Henryk Krawczyk'** 'Michele T. Mazzucato' 'Virgilio Gonano' 
@@ -449,6 +500,7 @@ discovery date: 09 Jan 2021
 ----------
 ### [AT 2021ol](https://wis-tns.weizmann.ac.il/object/2021ol)
 score: 0.946481
+
 discovery date: 08 Jan 2021
 
 ***'Chloe K. H.'*** **'will markey'** **'Celso Pessanha Machado'** 'KRISH J. MOTLA' 'Ashok Ghosh' 'Anton Zahorodnii' 
@@ -473,8 +525,10 @@ discovery date: 08 Jan 2021
 
 ----------
 ### [AT 2021hr](https://wis-tns.weizmann.ac.il/object/2021hr)
-aka. PS21dp
+aka. **PS21dp**
+
 score: 0.974623
+
 discovery date: 08 Jan 2021
 
 *'Virgilio Gonano'* **'Denilso G. Delfrate'** **'B L Goodwin'** **'Henryk Krawczyk'** 'Ashok Ghosh' 'will markey' 'KRISH J. MOTLA' 
@@ -499,8 +553,10 @@ discovery date: 08 Jan 2021
 
 ----------
 ### [AT 2021kb](https://wis-tns.weizmann.ac.il/object/2021kb)
-aka. PS21ap
+aka. **PS21ap**
+
 score: 0.992683
+
 discovery date: 04 Jan 2021
 
 ***'Henryk Krawczyk'*** **'Michele T. Mazzucato'** **'Amy Loeschner'** 'David Maetschke' 'Virgilio Gonano' 'Georgios Lekkas' 'Tiffany Shaw-Diaz' 'Sovan acharya' 'Ashok Ghosh' 'Denilso G. Delfrate' 'ARMEL Adrien' 'Karel Prokes' 'ARKA GHOSH' 'Sabine Vollenhofer-Schrumpf' 'Michał Biesiada' 
@@ -535,8 +591,10 @@ discovery date: 04 Jan 2021
 
 ----------
 ### [AT 2021jx](https://wis-tns.weizmann.ac.il/object/2021jx)
-aka. PS21aj
+aka. **PS21aj**
+
 score: 0.997403
+
 discovery date: 04 Jan 2021
 
 *'David Maetschke'* **'Michele T. Mazzucato'** **'Denilso G. Delfrate'** **'KRISH J. MOTLA'** 'Henryk Krawczyk' 'Virgilio Gonano' 'Amy Loeschner' 'Tiffany Shaw-Diaz' 'Sovan acharya' 'Ashok Ghosh' 'ARMEL Adrien' 'Karel Prokes' 'ARKA GHOSH' 'Sabine Vollenhofer-Schrumpf' 'Michał Biesiada' 
@@ -571,8 +629,10 @@ discovery date: 04 Jan 2021
 
 ----------
 ### [AT 2021kh](https://wis-tns.weizmann.ac.il/object/2021kh)
-aka. PS21ax
+aka. **PS21ax**
+
 score: 0.981903
+
 discovery date: 04 Jan 2021
 
 *'Henryk Krawczyk'* **'Ashok Ghosh'** **'Elisabeth Baeten'** **'David Maetschke'** 'Virgilio Gonano' 'Michele T. Mazzucato' 'Denilso G. Delfrate' 'Jeffery D. Craven II' 'Karel Prokes' 'ARKA GHOSH' 'Sabine Vollenhofer-Schrumpf' 
@@ -602,8 +662,10 @@ discovery date: 04 Jan 2021
 
 ----------
 ### [AT 2020acqx](https://wis-tns.weizmann.ac.il/object/2020acqx)
-aka. PS21bt
+aka. **PS21bt**
+
 score: 0.947307
+
 discovery date: 04 Jan 2021
 
 *'David Maetschke'* **'Celso Pessanha Machado'** **'Henryk Krawczyk'** **'Michele T. Mazzucato'** 'Elisabeth Baeten' 'Sovan acharya' 'KRISH J. MOTLA' 'Virgilio Gonano' 'Tiffany Shaw-Diaz' 'Ashok Ghosh' 'Denilso G. Delfrate' 'ARKA GHOSH' 'Sabine Vollenhofer-Schrumpf' 
@@ -633,8 +695,10 @@ discovery date: 04 Jan 2021
 
 ----------
 ### [AT 2020aatc](https://wis-tns.weizmann.ac.il/object/2020aatc)
-aka. PS21t
+aka. **PS21t**
+
 score: 0.990878
+
 discovery date: 04 Jan 2021
 
 ***'David Maetschke'*** **'Sovan acharya'** **'Michele T. Mazzucato'** 'Henryk Krawczyk' 'Virgilio Gonano' 'Elisabeth Baeten' 'Amy Loeschner' 'Tiffany Shaw-Diaz' 'Ashok Ghosh' 'Denilso G. Delfrate' 'Karel Prokes' 'ARMEL Adrien' 'ARKA GHOSH' 'Sabine Vollenhofer-Schrumpf' 'Michał Biesiada' 
@@ -669,8 +733,10 @@ discovery date: 04 Jan 2021
 
 ----------
 ### [AT 2021kc](https://wis-tns.weizmann.ac.il/object/2021kc)
-aka. PS21as
+aka. **PS21as**
+
 score: 0.986637
+
 discovery date: 04 Jan 2021
 
 ***'David Maetschke'*** **'KRISH J. MOTLA'** **'Denilso G. Delfrate'** 'Henryk Krawczyk' 'Virgilio Gonano' 'Michele T. Mazzucato' 'Sovan acharya' 'Tiffany Shaw-Diaz' 'Ashok Ghosh' 'Karel Prokes' 'ARKA GHOSH' 'Sabine Vollenhofer-Schrumpf' 'Michał Biesiada' 
@@ -700,8 +766,10 @@ discovery date: 04 Jan 2021
 
 ----------
 ### [AT 2021fd](https://wis-tns.weizmann.ac.il/object/2021fd)
-aka. PS21y
+aka. **PS21y**
+
 score: 0.975548
+
 discovery date: 04 Jan 2021
 
 *'David Maetschke'* **'Elisabeth Baeten'** **'Tiffany Shaw-Diaz'** **'Denilso G. Delfrate'** 'Henryk Krawczyk' 'Virgilio Gonano' 'Michele T. Mazzucato' 'Ashok Ghosh' 'ARMEL Adrien' 'Karel Prokes' 'Amy Loeschner' 'ARKA GHOSH' 'Sabine Vollenhofer-Schrumpf' 
@@ -736,8 +804,10 @@ discovery date: 04 Jan 2021
 
 ----------
 ### [AT 2020aetl](https://wis-tns.weizmann.ac.il/object/2020aetl)
-aka. PS21az
+aka. **PS21az**
+
 score: 0.977578
+
 discovery date: 04 Jan 2021
 
 *'David Maetschke'* **'Michele T. Mazzucato'** **'Elisabeth Baeten'** **'Sovan acharya'** 'Henryk Krawczyk' 'Virgilio Gonano' 'Tiffany Shaw-Diaz' 'Ashok Ghosh' 'Denilso G. Delfrate' 'Karel Prokes' 'ARKA GHOSH' 'Sabine Vollenhofer-Schrumpf' 
@@ -773,6 +843,7 @@ discovery date: 04 Jan 2021
 ----------
 ### [AT 2021nd](https://wis-tns.weizmann.ac.il/object/2021nd)
 score: 0.927761
+
 discovery date: 04 Jan 2021
 
 ***'David Maetschke'*** **'Michele T. Mazzucato'** **'Elisabeth Baeten'** 'Henryk Krawczyk' 'Amy Loeschner' 'Virgilio Gonano' 'Sovan acharya' 'Tiffany Shaw-Diaz' 'Sabine Vollenhofer-Schrumpf' 
@@ -802,8 +873,10 @@ discovery date: 04 Jan 2021
 
 ----------
 ### [AT 2021bf](https://wis-tns.weizmann.ac.il/object/2021bf)
-aka. PS21g
+aka. **PS21g**
+
 score: 0.997951
+
 discovery date: 03 Jan 2021
 
 *'David Maetschke'* **'B L Goodwin'** **'WillMusgrove'** **'Zac Pujic'** 'Henryk Krawczyk' 'Ana M. Pizarro Galán' 'Herbert Gunell' 'Andres Eloy Martinez Rojas' 'KRISH J. MOTLA' 'Virgilio Gonano' 'Michał Biesiada' 'Sovan acharya' 'Michele T. Mazzucato' 'Tiffany Shaw-Diaz' 'Meryl Goulbourne' 'Ashok Ghosh' 
@@ -833,8 +906,10 @@ discovery date: 03 Jan 2021
 
 ----------
 ### [AT 2020abjq](https://wis-tns.weizmann.ac.il/object/2020abjq)
-aka. PS21j
+aka. **PS21j**
+
 score: 0.980317
+
 discovery date: 03 Jan 2021
 
 *'David Maetschke'* **'Zac Pujic'** **'Andres Eloy Martinez Rojas'** **'WillMusgrove'** 'Henryk Krawczyk' 'Herbert Gunell' 'Ana M. Pizarro Galán' 'Virgilio Gonano' 'B L Goodwin' 'Michał Biesiada' 'Sovan acharya' 'Michele T. Mazzucato' 'Tiffany Shaw-Diaz' 'Meryl Goulbourne' 'Ashok Ghosh' 'ARKA GHOSH' 
@@ -864,8 +939,10 @@ discovery date: 03 Jan 2021
 
 ----------
 ### [AT 2021kl](https://wis-tns.weizmann.ac.il/object/2021kl)
-aka. PS21bd
+aka. **PS21bd**
+
 score: 0.97468
+
 discovery date: 03 Jan 2021
 
 ***'David Maetschke'*** **'Zac Pujic'** **'WillMusgrove'** 'Henryk Krawczyk' 'Ana M. Pizarro Galán' 'Virgilio Gonano' 'B L Goodwin' 'Michał Biesiada' 'Sovan acharya' 'Michele T. Mazzucato' 'Tiffany Shaw-Diaz' 'Meryl Goulbourne' 
@@ -895,8 +972,10 @@ discovery date: 03 Jan 2021
 
 ----------
 ### [AT 2020adfj](https://wis-tns.weizmann.ac.il/object/2020adfj)
-aka. PS21k
+aka. **PS21k**
+
 score: 0.901357
+
 discovery date: 03 Jan 2021
 
 ***'David Maetschke'*** **'Henryk Krawczyk'** **'KRISH J. MOTLA'** 'WillMusgrove' 'Herbert Gunell' 'Zac Pujic' 'Ana M. Pizarro Galán' 'Virgilio Gonano' 'Andres Eloy Martinez Rojas' 'B L Goodwin' 'Michał Biesiada' 'Sovan acharya' 'Tiffany Shaw-Diaz' 'Michele T. Mazzucato' 'Meryl Goulbourne' 'Ashok Ghosh' 'ARKA GHOSH' 
@@ -920,6 +999,132 @@ discovery date: 03 Jan 2021
 <img src="https://panoptes-uploads.zooniverse.org/subject_location/88a76f5f-2ba1-4c0e-9ef6-cb8d9048d6bb.jpeg" width="200"/>
 <img src="https://panoptes-uploads.zooniverse.org/subject_location/a0d071ee-4508-4c77-a46a-5eab4f6a2dfa.jpeg" width="200"/>
 <img src="https://panoptes-uploads.zooniverse.org/subject_location/5b4ffd73-1db1-42ac-8870-d7983da9c2c8.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2020acts](https://wis-tns.weizmann.ac.il/object/2020acts)
+score: 0.958725
+
+discovery date: 10 Jan 2021
+
+***'David Maetschke'*** **'B L Goodwin'** **'Ashok Ghosh'** 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Celso Pessanha Machado' 'WillMusgrove' 'Leo Oxford' 'Nik Whitehead' 'Michał Biesiada' 'Xploration' 
+
+55290115
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1ffb4d39-837b-4d58-ad1a-4c1c334413d3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/41ef84f8-107c-44a9-bf42-35d3125afeaa.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7d408b63-747b-45db-857b-c95d5c293ab9.jpeg" width="200"/>
+
+55290116
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/104593ad-6940-4f0f-9cf2-e55b6f6ba901.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c55d34ef-3392-4286-a5f9-38e5a4f9d897.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5b119a8f-815e-4a0a-83f0-d7617d1b6903.jpeg" width="200"/>
+
+55290117
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/62b18e70-dfa4-4cb5-a60f-3af56334626e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d5ff6b5f-e58c-4063-bb09-354e933bd66d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5dc30437-5da3-40c1-8550-ef1a6220a1ea.jpeg" width="200"/>
+
+55290118
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4c76140a-6602-44f7-9294-a8fba01e908b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fb2c41fb-5dbd-4abc-99ce-dab99fa4ebb2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/47d92eeb-191d-436d-942d-8b36ba7fa9ac.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2021sy](https://wis-tns.weizmann.ac.il/object/2021sy)
+aka. **PS21di**
+
+score: 0.934452
+
+discovery date: 10 Jan 2021
+
+***'David Maetschke'*** **'Henryk Krawczyk'** **'B L Goodwin'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Ashok Ghosh' 'Leo Oxford' 'Tiffany Shaw-Diaz' 
+
+55156822
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9851323b-1446-487e-84f7-ef40bb3690ee.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5e005c5a-af92-47ad-bcfe-b3782a43f8ad.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e66ed201-d23d-4b6f-8f18-0e52b7d3c969.jpeg" width="200"/>
+
+55156823
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8a99c9ec-97e5-42bd-8d18-f0ab6875c786.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/be26c939-7635-4e05-9488-171a4d0a9e5a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fe608910-2a77-4755-845b-1312107460cf.jpeg" width="200"/>
+
+55156824
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f8ebf3c0-8c77-4b76-aa1d-83a00c6563ed.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/32a7c263-6bd3-41fe-aa93-2f30d7143a1d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/417aa1ff-c9df-4c65-b45c-0e18a7a95370.jpeg" width="200"/>
+
+55156825
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8622a4cb-74d3-4331-bb0f-b9f6814010b1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ea6880b6-9477-4322-ac61-04c22fff2a40.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1c749010-6240-4109-9de1-6ff79a3a22c0.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2021iv](https://wis-tns.weizmann.ac.il/object/2021iv)
+score: 0.940142
+
+discovery date: 10 Jan 2021
+
+***'David Maetschke'*** **'Rosemary Billington'** **'Nik Whitehead'** 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Michał Biesiada' 'Tiffany Shaw-Diaz' 'B L Goodwin' 'Shubham Srivastav' 'Giovanni Colombo' 
+
+55290417
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/90508e98-c62f-466c-9d78-86a6aa4d46d3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cd203f9e-13fd-440e-b88c-1165c0b9746b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/56032abc-988a-4875-963d-f691b1e6695b.jpeg" width="200"/>
+
+55290418
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/00a1a51b-2105-459d-82ab-7a13c49762e4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3cbbf4dd-1dcc-4987-b2d7-e6cac64d2368.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0ca627fc-b1a7-4797-a41b-b5787fe448d6.jpeg" width="200"/>
+
+55290419
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4ca2f9c9-e52a-473f-9324-1ca6ccd22eec.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/07719c27-a591-4083-8637-75171284fe94.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ca52be4c-9127-4f20-adf5-187ccca775d8.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2020ytk](https://wis-tns.weizmann.ac.il/object/2020ytk)
+score: 0.954105
+
+discovery date: 10 Jan 2021
+
+***'Henryk Krawczyk'*** **'Herbert Gunell'** **'Zac Pujic'** 'David Maetschke' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Chloe K. H.' 'Celso Pessanha Machado' 'Michał Biesiada' 'B SRI SAIRAM GAUTAM' 'B L Goodwin' 'Ashok Ghosh' 'Giovanni Colombo' 
+
+55113303
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9b2afe6b-c772-40cc-8200-e28f5fd89799.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5ee5a513-8dd8-4627-b46d-77c9bf2331f7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bd463d70-3d68-45d5-acc1-8d691c2172a8.jpeg" width="200"/>
+
+55113304
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3c23bb1f-9579-496f-893f-282f38d76639.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/52f1cc86-df22-46bd-a0bd-74546e1559d4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/65ce18c2-6c0d-47f0-9633-8b0d524baa5e.jpeg" width="200"/>
+
+55113315
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9f0ecf18-ffd7-4da4-9bbb-c6d068dc65e2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1924e29f-0a4d-4231-9cf8-7620c0ff8283.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/db127fc9-d93e-4c92-9d59-4462424a3b99.jpeg" width="200"/>
+
+55113323
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/44fa9ffb-d7da-48d0-a6f7-bb04f853f98c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c1ca27f5-b02f-4a4a-ae34-f8d03be2d8d8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e980bd49-f7d0-43c7-9d99-86da1bb6d75a.jpeg" width="200"/>
+
+55113324
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dc40ee42-1313-4401-86e1-5a249422f6ef.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/27b0fd7b-2c27-44ff-833b-b6a545d53111.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5e70c521-65fa-4249-a696-d47b1bf6019c.jpeg" width="200"/>
 
 
 
