@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discoveries November 2020"
-date:   2021-01-15 04:36:13 
+date:   2021-01-13 04:36:13 
 categories: discoveries
 ---
 
