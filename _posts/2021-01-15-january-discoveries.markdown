@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2020adit](https://wis-tns.weizmann.ac.il/object/2020adit)
+score: 0.965439
+
+discovery date: 17 Jan 2021
+
+***'Henryk Krawczyk'*** **'Enzo Fedele'** **'B L Goodwin'** 'David Maetschke' 'Virgilio Gonano' 'Celso Pessanha Machado' 'Michele T. Mazzucato' 'Ashok Ghosh' 'Dennis Richards' 
+
+55481308
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/421dfea8-623f-45e6-9f68-6ab135dfe8f8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fa6d67ba-13f0-4d65-80cc-0417968a73f3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3e674fb1-5f2e-4b5a-bfc0-009b089ee9a7.jpeg" width="200"/>
+
+55481309
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dd91c6ec-4697-4e1d-a9a2-0b2a1f2923de.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ba7b4abb-8a68-4f7f-a89f-9c1e729ced08.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/72be480c-1ee8-4b1c-b756-fd374f0a76cf.jpeg" width="200"/>
+
+55481310
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d926f066-de36-4d19-99d3-207c750c3e65.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/71f99fac-2a76-491b-a7ab-b259c5b2b38a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1a470154-c125-4666-b2f1-54cacce1db12.jpeg" width="200"/>
+
+55481311
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f1f61b89-474f-4c0d-aba8-a1a4429c69de.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/72684fc8-6138-4520-8798-b129272569d3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1b2e158d-329d-4a8d-bf40-cbdad0706642.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2020aark](https://wis-tns.weizmann.ac.il/object/2020aark)
 score: 0.946294
 
