@@ -8,6 +8,42 @@ categories: discoveries
 
 
 ----------
+### [AT 2020abjt](https://wis-tns.weizmann.ac.il/object/2020abjt)
+score: 0.957398
+
+discovery date: 18 Jan 2021
+
+*'David Maetschke'* **'Dennis Richards'** **'Lily Lau W.W.'** **'Meryl Goulbourne'** 'Elisabeth Baeten' 'Celso Pessanha Machado' 'Michele T. Mazzucato' 'William Bor' 'Sovan acharya' 'Virgilio Gonano' 'Amoli Kakkar' 'Ashok Ghosh' 'Rosemary Billington' 
+
+55492483
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9f8d529b-cd0e-40ac-ac8e-0e830ae2c6bd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e2b2c4a2-81a4-47ea-ae11-a834049e10c3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6e6ddd89-6fc9-4c6e-8869-67d24ab2226d.jpeg" width="200"/>
+
+55492484
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3b78381d-38ef-453a-8d05-106d25e2e097.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/03a68adc-5c0e-4441-835e-f921c04bc863.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8c88d84b-4d0c-462b-acd7-afd38a24cac5.jpeg" width="200"/>
+
+55492485
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/76ab438b-a5d4-4323-a357-6ddac8530034.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c8e7bd1a-3e80-4b49-b7a0-fd54cf63d126.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/65d040cc-187e-4477-b431-0411319bf9be.jpeg" width="200"/>
+
+55492486
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f38cd4b7-448d-496a-bdf1-c63a7f9b1f1d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f153afb6-c9b7-4a64-bae1-3a597379d8dc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/93a74bfd-8b28-4b06-833a-f5d3980034c1.jpeg" width="200"/>
+
+55492487
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d8c0c762-9002-4f92-9812-76762a5d59b6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ed67d475-da0d-48db-ae91-3ba36aebff95.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/efe5b297-7eca-4985-b18e-d55b6f620508.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2020xcu](https://wis-tns.weizmann.ac.il/object/2020xcu)
 score: 0.987715
 
