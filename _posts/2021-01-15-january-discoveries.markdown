@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2020adow](https://wis-tns.weizmann.ac.il/object/2020adow)
+score: 0.941271
+
+discovery date: 19 Jan 2021
+
+***'David Maetschke'*** **'Charles J. Vesely IV'** **'Henryk Krawczyk'** 'Dennis Richards' 'Michele T. Mazzucato' 'Virgilio Gonano' 'B L Goodwin' 'Michał Biesiada' 
+
+55607770
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/09182deb-2841-4f13-9f6a-6c9cd31b459d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5901bd9b-346a-41a0-982c-621d505e8801.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e4dd2701-6b63-4f0a-8f38-77431196c4c4.jpeg" width="200"/>
+
+55607773
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4842fafb-49c4-4a5c-9c84-173899a0163f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3d40e73d-7d63-4a7d-a226-8efb48bed8b4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4c08abc5-386a-435d-8720-661f9bcaab6e.jpeg" width="200"/>
+
+55607783
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9bf1e974-d063-4792-99c0-13df9d6defe3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0404da1d-6b91-4a39-a96f-3e085081f733.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d21c0af5-08b2-4896-8dab-35a433926390.jpeg" width="200"/>
+
+55607794
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/14c75eeb-17a5-4c12-8ccb-f6d0f5416628.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a53cd6c5-6028-4a00-84c5-450f0b2bfb91.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/eb609f96-0bd4-422e-a366-2d56c226af1f.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021atw](https://wis-tns.weizmann.ac.il/object/2021atw)
 score: 0.941271
 
