@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2021aoo](https://wis-tns.weizmann.ac.il/object/2021aoo)
+score: 0.975155
+
+discovery date: 20 Jan 2021
+
+***'David Maetschke'*** **'Jaafer Najeeb'** **'B L Goodwin'** 'Dr. Amit Manna' 'Henryk Krawczyk' 'Virgilio Gonano' 'Michele T. Mazzucato' 'Giovanni Colombo' 'Ashok Ghosh' 'Denilso G. Delfrate' 
+
+55621448
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a519bd5e-9c09-47dc-8d50-536e76b59254.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/daa43e6f-5675-44be-ad00-f87cd4cc09a8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a507fc40-a900-4b7f-9d69-ed4c78074494.jpeg" width="200"/>
+
+55621450
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b7a6e94f-94a3-4225-84ca-daea2f2f34e1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b1889b3c-89cb-432f-bebd-56036c5e26b3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fdfffa5e-5d02-438f-b8c5-fab1d0586e36.jpeg" width="200"/>
+
+55621452
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/98cf783a-d61d-423b-af4d-d1d3443c4135.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/941e3f4c-2d54-4cda-a9fe-e5a1f6c5a8db.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7b1f0ed3-3fee-468a-aba6-54f5cf63db5f.jpeg" width="200"/>
+
+55621454
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/548cdd41-e727-45da-9a77-6d762cf5d165.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/50097cd9-091d-4279-95c8-6aeb9baa582e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a00fcab9-bb80-4798-9ecd-e22d3f06c3db.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021fg](https://wis-tns.weizmann.ac.il/object/2021fg)
 score: 0.933624
 
