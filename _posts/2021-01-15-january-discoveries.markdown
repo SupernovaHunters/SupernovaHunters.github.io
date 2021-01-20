@@ -8,6 +8,27 @@ categories: discoveries
 
 
 ----------
+### [AT 2021yk](https://wis-tns.weizmann.ac.il/object/2021yk)
+score: 0.964184
+
+discovery date: 20 Jan 2021
+
+*'David Maetschke'* **'B L Goodwin'** **'Henryk Krawczyk'** **'Celso Pessanha Machado'** 'Virgilio Gonano' 'Michele T. Mazzucato' 
+
+55619598
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9782860d-b59a-434c-999b-b2d74584bd1b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b7d4e050-2f46-4f30-94ca-1bd3b663aee9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/24f19273-54e4-4c5e-815a-15c14ce0f04b.jpeg" width="200"/>
+
+55619601
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0c4eaa4a-d0a5-4cd0-a19b-fa12305c01a0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5c758df1-d9a2-45b3-a933-288e0cbdd59c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f857ca1d-1418-4c35-b26b-7ec9f57fc8c0.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2020acei](https://wis-tns.weizmann.ac.il/object/2020acei)
 score: 0.934702
 
