@@ -8,6 +8,42 @@ categories: discoveries
 
 
 ----------
+### [AT 2020lyw](https://wis-tns.weizmann.ac.il/object/2020lyw)
+score: 0.948911
+
+discovery date: 21 Jan 2021
+
+*'David Maetschke'* **'Henryk Krawczyk'** **'Ashok Ghosh'** **'Amoli Kakkar'** 'B L Goodwin' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Dr. Amit Manna' 'Chloe K. H.' 'Rosemary Billington' 'Joshua Zamora' 'Celso Pessanha Machado' 
+
+55702023
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2781c7be-46f3-4975-b1bb-cf8198bcb208.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4da6e87e-be08-4174-b3f6-e5d0c0d1a590.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2ec849d9-dd42-402e-bb20-014afd21112c.jpeg" width="200"/>
+
+55702024
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7718c878-b50f-4daf-add6-674745da9b18.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6e4ec8f4-8dc4-4bc0-a590-445a7354ee00.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cffe5024-a50a-4cb2-b137-fbf772395572.jpeg" width="200"/>
+
+55702025
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7b87a1bc-0a84-4d72-b77f-b06da1b47dfe.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f73c2224-2481-48db-a4da-e62fb977ded1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c9356045-c462-4aed-8c37-b72b155b328a.jpeg" width="200"/>
+
+55702026
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/692e29bf-37df-4ff4-95d7-cf967f3c9587.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/600d54fc-18c2-4e20-8333-93294d2b8d5f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bce129d5-409f-4256-a4b6-c23c334956b6.jpeg" width="200"/>
+
+55702027
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ddeb6a8b-8777-4b85-a44b-6ea5c863a79f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e4ceeb4f-89fb-4357-9e38-3a1abf396b1f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5512da1d-a0a3-4661-b22a-068b356907b7.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021awr](https://wis-tns.weizmann.ac.il/object/2021awr)
 aka. **PS21kx**
 
