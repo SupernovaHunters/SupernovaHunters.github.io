@@ -8,6 +8,78 @@ categories: discoveries
 
 
 ----------
+### [AT 2017fed](https://wis-tns.weizmann.ac.il/object/2017fed)
+score: 0.968073
+
+discovery date: 21 Jan 2021
+
+***'David Maetschke'*** **'Henryk Krawczyk'** **'Celso Pessanha Machado'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Ashok Ghosh' 'B L Goodwin' 'Dennis Richards' 
+
+55704879
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ec3a535a-d2e7-4c79-90f5-c675d32ad5b1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/65864125-632e-4ccf-98aa-4f96e8a87d85.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/531286a8-0c26-4184-b404-07dd600468df.jpeg" width="200"/>
+
+55704880
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9e98f253-0916-483c-a155-bd24b6bff9c8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d701c74f-34d8-4aee-b448-1076f0f2c648.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/db7a1457-fb91-4157-80e3-9f315089eb66.jpeg" width="200"/>
+
+55704881
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9c5518fb-f8f5-43e7-ab89-f30709e27b3c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8d13d2ac-369c-402a-b8d9-d5415dc8ba2d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7f3eda18-1527-4bc7-8a3f-922065822c5e.jpeg" width="200"/>
+
+55704882
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5a5e5a35-1cd8-468c-90dc-137142d5a5e7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f07da5e8-b35e-4778-8094-5bdac83d3435.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3347feb7-7b9f-4e06-b342-77c947073708.jpeg" width="200"/>
+
+55704883
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0a972cb4-35c6-440d-a12b-5204a5e79ecb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/421c2580-87a5-4952-9cf8-2dafd45ec7a7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5c06fb1a-1a8c-42ae-845e-7179602f61f1.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2020lyw](https://wis-tns.weizmann.ac.il/object/2020lyw)
+score: 0.948911
+
+discovery date: 21 Jan 2021
+
+*'David Maetschke'* **'Joshua Zamora'** **'Ashok Ghosh'** **'B L Goodwin'** 'Lun Shu' 'Henryk Krawczyk' 'Virgilio Gonano' 'Michele T. Mazzucato' 'Dr. Amit Manna' 'Celso Pessanha Machado' 'Chloe K. H.' 'Dennis Richards' 
+
+55701815
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2ce271dc-e40b-4fd6-a833-74cc78c329c7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cb54130b-79e0-48b4-b930-a3efabf53649.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/03e3ed37-0a38-45a4-8488-10f64445235d.jpeg" width="200"/>
+
+55701816
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6700782e-20c0-403e-a150-e7c585b71cbc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/419c4eb2-5234-46d3-8b88-d48fef3d5fbe.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/67178253-0bc6-4796-92a0-e42d9d22eac7.jpeg" width="200"/>
+
+55701817
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f00c8ce4-e50d-4821-8899-80b4af958f25.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fd77be68-d6b6-456d-b581-7139884a5801.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c9fc1d22-a19c-4b19-a9d0-8f0fa2de7f01.jpeg" width="200"/>
+
+55701818
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5573b1db-ded8-4a8f-8dfe-875a3676044a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/43ab8fb0-2695-4e29-8e96-1dc6066d7507.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d1c1c92b-e535-4851-afda-75e1ebb76440.jpeg" width="200"/>
+
+55701819
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d90e3b64-5a92-4cb4-b76a-885f6b5556d0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a18dd396-13b0-4374-9cc4-7aee73a404c0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/70b1614e-6e0f-4548-a126-0ac66a25c032.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2020lyw](https://wis-tns.weizmann.ac.il/object/2020lyw)
 score: 0.948911
 
