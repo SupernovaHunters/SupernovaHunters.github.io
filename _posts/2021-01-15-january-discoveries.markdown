@@ -8,6 +8,39 @@ categories: discoveries
 
 
 ----------
+### [AT 2021awr](https://wis-tns.weizmann.ac.il/object/2021awr)
+aka. **PS21kx**
+
+score: 0.961314
+
+discovery date: 20 Jan 2021
+
+***'David Maetschke'*** **'Dr. Amit Manna'** **'B L Goodwin'** 'Henryk Krawczyk' 'Virgilio Gonano' 'Michele T. Mazzucato' 'Ashok Ghosh' 'Meryl Goulbourne' 'pittendreigh' 'Celso Pessanha Machado' 'Rosemary Billington' 
+
+55702146
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5fa55a9b-4759-4207-9ffe-e828d73e0781.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f1205d63-1480-4025-b530-b426ea5f8eca.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/88ea35e1-bd64-4884-9546-e8796290fa00.jpeg" width="200"/>
+
+55702147
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c0ccf712-b361-4315-a1ca-5ca018d0d85d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/726d1d34-09a3-4811-b752-eb7bdb9f3699.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0491a727-f27b-420e-8fea-5534aae18c3b.jpeg" width="200"/>
+
+55702148
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/73329919-5181-432a-8864-10dcf082907e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/27d719a1-f3cf-45e8-910d-a107e2ed51b8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/28fd2ff4-2f59-49d8-a99f-32c7f3d38f96.jpeg" width="200"/>
+
+55702149
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/46804a1a-9dd2-494e-bf30-9cd5860e55d9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bd46e694-7c90-449a-88fc-0e9e5e9ad268.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e1a1630d-6739-4c69-8f76-b8b1bedc48ae.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021jv](https://wis-tns.weizmann.ac.il/object/2021jv)
 score: 0.97372
 
