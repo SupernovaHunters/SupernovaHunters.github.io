@@ -2221,7 +2221,10 @@ discovery date: 17 Jan 2021
 
 
 ----------
-### [AT 2021at](https://wis-tns.weizmann.ac.il/object/2021at)
+### [SN 2021at](https://wis-tns.weizmann.ac.il/object/2021at)
+
+**Spectroscopic type: SN Ia-91T-like**
+
 score: 0.939032
 
 discovery date: 17 Jan 2021
