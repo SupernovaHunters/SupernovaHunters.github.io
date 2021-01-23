@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Spectroscopically Confirmed Discoveries"
+date:   2021-01-23 05:07:29 
+categories: discoveries
+---
+
 
 ----------
 ### [SN 2020zko](https://wis-tns.weizmann.ac.il/object/2020zko)
