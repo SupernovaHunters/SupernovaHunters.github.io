@@ -1,9 +1,23 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-01-25 16:45:02 
+date:   2021-01-25 17:45:01 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2020acpc](https://wis-tns.weizmann.ac.il/object/2020acpc)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 Jan 2021
+
+
+----------
+### [SN 2020aeqx](https://wis-tns.weizmann.ac.il/object/2020aeqx)
+**spectroscopic type: SN IIP**
+
+discovery date: 25 Jan 2021
 
 
 ----------
