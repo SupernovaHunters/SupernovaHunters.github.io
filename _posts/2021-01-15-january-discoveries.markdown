@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2021axx](https://wis-tns.weizmann.ac.il/object/2021axx)
+score: 0.939446
+
+discovery date: 24 Jan 2021
+
+***'David Maetschke'*** **'Giovanni Colombo'** **'Henryk Krawczyk'** 'Elisabeth Baeten' 'Michele T. Mazzucato' 'Virgilio Gonano' 'ASTHA' 'Rosemary Billington' 'Sovan acharya' 
+
+55913056
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a3fa4024-f0ee-4764-8006-6dae5a41a6ae.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/204b78bf-5001-49b3-b83b-3564e345cf07.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7c375bb2-4ba8-4f68-8d7c-4df337571515.jpeg" width="200"/>
+
+55913057
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e3d2afb0-e263-4403-b888-91ec2e3b55d8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9172133d-d623-495c-87c5-f72a71870609.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8baa5ca0-500e-49b4-b133-2482ff8487a5.jpeg" width="200"/>
+
+55913058
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/787a5f65-d37c-4109-926e-b2dd0a77504e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/19f222a1-71b1-40b6-8d27-8c2b85c1bfb0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e31416a4-194e-4222-9049-a23120240291.jpeg" width="200"/>
+
+55913059
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2ea8f512-d8f6-48c9-97a9-77e2a289b011.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5ddb6802-6e10-4e30-8e2c-0bb8b99aebde.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d4c9f94a-d816-4612-98bf-11bde6b96cc8.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021ajy](https://wis-tns.weizmann.ac.il/object/2021ajy)
 
 **Spectroscopic type: SN Ia**
