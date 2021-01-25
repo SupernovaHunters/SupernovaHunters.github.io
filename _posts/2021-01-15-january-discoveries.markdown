@@ -8,6 +8,40 @@ categories: discoveries
 
 
 ----------
+### [SN 2021me](https://wis-tns.weizmann.ac.il/object/2021me)
+
+**Spectroscopic type: SN Ia-91T-like**
+
+score: 0.923687
+
+discovery date: 25 Jan 2021
+
+*'Henryk Krawczyk'* **'Elisabeth Baeten'** **'David Maetschke'** **'Amoli Kakkar'** 'Virgilio Gonano' 'Michele T. Mazzucato' 'B L Goodwin' 
+
+55938195
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/72ac865a-23b2-4580-af5c-7ae8caca83f4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2aa219ed-641f-417d-9806-3f533b485dcb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ed485be4-d1e7-43f7-9bba-e54487b57454.jpeg" width="200"/>
+
+55938196
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/38777ee0-e39d-4ae3-bc10-515846af3488.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/390dd58d-0012-4f20-84b0-1db3b3c83cb2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d6487eec-b838-40cf-81f5-3662c1c76787.jpeg" width="200"/>
+
+55938197
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dbf679c7-a8dd-47f5-88b5-010b68111756.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7ee85bfd-a80a-4767-9bc6-8f86ebb77799.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5f39e776-d4c1-454e-8de8-96f3d9c01499.jpeg" width="200"/>
+
+55938198
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4a070bf5-965e-4848-aba0-f106874ef2e8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7e28ddaf-d1b3-4231-b397-cf18bcd1dbef.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6001813b-bb0a-45eb-bdbd-ef48284b1505.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021wa](https://wis-tns.weizmann.ac.il/object/2021wa)
 score: 0.960604
 
