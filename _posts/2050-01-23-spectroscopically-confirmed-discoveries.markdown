@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-01-25 19:45:01 
+date:   2021-01-25 20:45:01 
 categories: discoveries
 ---
 
@@ -340,6 +340,13 @@ discovery date: 08 Jan 2021
 **spectroscopic type: SN Ia**
 
 discovery date: 07 Jan 2021
+
+
+----------
+### [SN 2020aeko](https://wis-tns.weizmann.ac.il/object/2020aeko)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Jan 2021
 
 
 ----------
