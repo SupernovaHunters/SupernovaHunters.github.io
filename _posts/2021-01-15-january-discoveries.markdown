@@ -2147,7 +2147,10 @@ discovery date: 18 Jan 2021
 
 
 ----------
-### [AT 2020aeuv](https://wis-tns.weizmann.ac.il/object/2020aeuv)
+### [SN 2020aeuv](https://wis-tns.weizmann.ac.il/object/2020aeuv)
+
+**Spectroscopic type: SN IIn**
+
 score: 0.943518
 
 discovery date: 18 Jan 2021
@@ -6287,7 +6290,10 @@ discovery date: 08 Jan 2021
 
 
 ----------
-### [AT 2021fx](https://wis-tns.weizmann.ac.il/object/2021fx)
+### [SN 2021fx](https://wis-tns.weizmann.ac.il/object/2021fx)
+
+**Spectroscopic type: SN II**
+
 score: 0.98359
 
 discovery date: 08 Jan 2021
@@ -6469,7 +6475,10 @@ discovery date: 08 Jan 2021
 
 
 ----------
-### [AT 2020addp](https://wis-tns.weizmann.ac.il/object/2020addp)
+### [SN 2020addp](https://wis-tns.weizmann.ac.il/object/2020addp)
+
+**Spectroscopic type: SN IIP**
+
 score: 0.965544
 
 discovery date: 08 Jan 2021
