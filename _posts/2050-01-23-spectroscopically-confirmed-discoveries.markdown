@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-02-07 06:45:01 
+date:   2021-02-07 07:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2020abip](https://wis-tns.weizmann.ac.il/object/2020abip)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Feb 2021
 
 
 ----------
