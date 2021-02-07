@@ -8,6 +8,71 @@ categories: discoveries
 
 
 ----------
+### [AT 2021bsq](https://wis-tns.weizmann.ac.il/object/2021bsq)
+score: 0.999787
+
+discovery date: 07 Feb 2021
+
+*'Henryk Krawczyk'* **'David Maetschke'** **'B L Goodwin'** **'Meryl Goulbourne'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Benoît ROUSSEAU' 'Elisabeth Baeten' 'Enzo Fedele' 'Ashok Ghosh' 'ARKA GHOSH' 'Giovanni Colombo' 'Tiffany Shaw-Diaz' 'Ilya Ivanov' 'Rosemary Billington' 'Dennis Richards' 'Samuel Russell' 'Daniel Hoare' 'Monika Venckeviciute ' 
+
+56408244
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b537e836-ae34-43d2-91b7-aa6728de9a4a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9afe789c-f497-4d95-85b6-197ded2ff7aa.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/49c80cf5-dabb-493c-84b3-87e503131236.jpeg" width="200"/>
+
+56408246
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/95c480f8-c648-4fe8-955a-6aec7aec8b02.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b8eb290e-b480-4a3f-b284-59144b27c93a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/af00a206-d623-4594-b57f-d432867743d2.jpeg" width="200"/>
+
+56408248
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/30a338fc-8dd4-4cbe-a5a4-bd3d8f0df0ef.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5a9fa685-035e-4477-8c71-d2cb08db8394.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/835c2933-da98-424c-b240-c98a1dc5b692.jpeg" width="200"/>
+
+
+
+
+----------
+### [SN 2021dj](https://wis-tns.weizmann.ac.il/object/2021dj)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.980739
+
+discovery date: 07 Feb 2021
+
+***'David Maetschke'*** **'Ashok Ghosh'** **'Herbert Gunell'** 'Henryk Krawczyk' 'Khushi Arora' 'Meryl Goulbourne' 'Virgilio Gonano' 'B L Goodwin' 'Benoît ROUSSEAU' 'Elisabeth Baeten' 'Enzo Fedele' 'Chris Adrian' 'Tiffany Shaw-Diaz' 'Ilya Ivanov' 'Dennis Richards' 'Daniel Hoare' 'Monika Venckeviciute ' 
+
+56407986
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/49a074cf-668b-4a55-a259-13eeb9450eb6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c74db754-fc88-4a3f-a4e6-38def4264b99.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d71e8c03-88f5-4562-a2fb-0b15f5fc2aac.jpeg" width="200"/>
+
+56407987
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/56ef4e52-fa8b-4ca9-b5a7-9bafaeecc9bd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d0160b58-1cb5-4781-acca-83dbfaff501a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/14f84a8e-ed1f-4bd9-88da-f067c7a2be8c.jpeg" width="200"/>
+
+56407988
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/be5973e1-4d7f-4d30-9135-e337b739265b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5077ddba-0060-4a8e-b223-d775160669ab.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4bb49ee5-0733-44ac-adcf-cc8a915fb0dc.jpeg" width="200"/>
+
+56407989
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/27b9ba7f-9cd4-4c98-ba1a-b58fdbaababc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/92f594d9-1436-4f6e-94bb-b2f4a320df57.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/98181712-e441-47d8-83ca-330a6407cdbe.jpeg" width="200"/>
+
+56407990
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c779829b-04b2-4e2d-9c0b-2b3a6e7ded12.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ae02c0b6-1226-4104-9ac9-0b7a68111c3a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/087bd7bb-eb1b-49ab-8349-e74ab1173e9f.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021are](https://wis-tns.weizmann.ac.il/object/2021are)
 score: 0.957995
 
