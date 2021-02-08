@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-02-08 09:45:02 
+date:   2021-02-08 10:45:01 
 categories: discoveries
 ---
 
@@ -32,6 +32,13 @@ discovery date: 07 Feb 2021
 **spectroscopic type: SN Ia**
 
 discovery date: 07 Feb 2021
+
+
+----------
+### [SN 2021ali](https://wis-tns.weizmann.ac.il/object/2021ali)
+**spectroscopic type: SLSN-II**
+
+discovery date: 25 Jan 2021
 
 
 ----------

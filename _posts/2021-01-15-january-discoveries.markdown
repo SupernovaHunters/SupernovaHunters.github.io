@@ -8,7 +8,10 @@ categories: discoveries
 
 
 ----------
-### [AT 2021ali](https://wis-tns.weizmann.ac.il/object/2021ali)
+### [SN 2021ali](https://wis-tns.weizmann.ac.il/object/2021ali)
+
+**Spectroscopic type: SLSN-II**
+
 score: 0.952265
 
 discovery date: 25 Jan 2021
