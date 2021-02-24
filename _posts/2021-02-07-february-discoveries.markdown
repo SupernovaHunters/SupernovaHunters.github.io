@@ -437,7 +437,10 @@ discovery date: 07 Feb 2021
 
 
 ----------
-### [AT 2021blv](https://wis-tns.weizmann.ac.il/object/2021blv)
+### [SN 2021blv](https://wis-tns.weizmann.ac.il/object/2021blv)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.971913
 
 discovery date: 07 Feb 2021
@@ -530,7 +533,10 @@ discovery date: 07 Feb 2021
 
 
 ----------
-### [AT 2021bmu](https://wis-tns.weizmann.ac.il/object/2021bmu)
+### [SN 2021bmu](https://wis-tns.weizmann.ac.il/object/2021bmu)
+
+**Spectroscopic type: SN Ia-91bg-like**
+
 score: 0.990598
 
 discovery date: 07 Feb 2021

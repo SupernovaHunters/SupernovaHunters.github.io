@@ -9254,7 +9254,10 @@ discovery date: 15 Dec 2020
 
 
 ----------
-### [AT 2020aagu](https://wis-tns.weizmann.ac.il/object/2020aagu)
+### [SN 2020aagu](https://wis-tns.weizmann.ac.il/object/2020aagu)
+
+**Spectroscopic type: SN II**
+
 score: 0.952178
 
 discovery date: 15 Dec 2020
@@ -12557,7 +12560,10 @@ discovery date: 27 Dec 2020
 
 
 ----------
-### [AT 2020aatv](https://wis-tns.weizmann.ac.il/object/2020aatv)
+### [SN 2020aatv](https://wis-tns.weizmann.ac.il/object/2020aatv)
+
+**Spectroscopic type: SN II**
+
 score: 0.920966
 
 discovery date: 27 Dec 2020
