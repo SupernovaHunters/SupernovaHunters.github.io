@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-03-01 09:45:04 
+date:   2021-03-01 10:45:03 
 categories: discoveries
 ---
 
@@ -226,6 +226,13 @@ discovery date: 17 Jan 2021
 ----------
 ### [SN 2020aaun](https://wis-tns.weizmann.ac.il/object/2020aaun)
 **spectroscopic type: SN II**
+
+discovery date: 17 Jan 2021
+
+
+----------
+### [SN 2021at](https://wis-tns.weizmann.ac.il/object/2021at)
+**spectroscopic type: SN Ia-91T-like**
 
 discovery date: 17 Jan 2021
 
