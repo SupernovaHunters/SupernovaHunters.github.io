@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-03-01 12:45:03 
+date:   2021-03-01 13:45:02 
 categories: discoveries
 ---
 
@@ -246,41 +246,6 @@ discovery date: 16 Jan 2021
 
 ----------
 ### [SN 2020abcn](https://wis-tns.weizmann.ac.il/object/2020abcn)
-**spectroscopic type: SN Ia**
-
-discovery date: 14 Jan 2021
-
-
-----------
-### [SN 2020aeqo](https://wis-tns.weizmann.ac.il/object/2020aeqo)
-**spectroscopic type: SN II**
-
-discovery date: 14 Jan 2021
-
-
-----------
-### [SN 2020acvz](https://wis-tns.weizmann.ac.il/object/2020acvz)
-**spectroscopic type: SN Ia**
-
-discovery date: 14 Jan 2021
-
-
-----------
-### [SN 2021aff](https://wis-tns.weizmann.ac.il/object/2021aff)
-**spectroscopic type: SN II**
-
-discovery date: 14 Jan 2021
-
-
-----------
-### [SN 2020acac](https://wis-tns.weizmann.ac.il/object/2020acac)
-**spectroscopic type: SN II**
-
-discovery date: 14 Jan 2021
-
-
-----------
-### [SN 2020aciv](https://wis-tns.weizmann.ac.il/object/2020aciv)
 **spectroscopic type: SN Ia**
 
 discovery date: 14 Jan 2021
