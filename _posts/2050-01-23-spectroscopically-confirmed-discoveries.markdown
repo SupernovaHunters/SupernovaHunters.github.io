@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-03-08 06:45:04 
+date:   2021-03-08 07:45:03 
 categories: discoveries
 ---
 
@@ -438,4 +438,74 @@ discovery date: 08 Jan 2021
 **spectroscopic type: SN Ia**
 
 discovery date: 07 Jan 2021
+
+
+----------
+### [SN 2020aeko](https://wis-tns.weizmann.ac.il/object/2020aeko)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Jan 2021
+
+
+----------
+### [SN 2021cn](https://wis-tns.weizmann.ac.il/object/2021cn)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Jan 2021
+
+
+----------
+### [SN 2021do](https://wis-tns.weizmann.ac.il/object/2021do)
+**spectroscopic type: SN Ic**
+
+discovery date: 06 Jan 2021
+
+
+----------
+### [SN 2020acew](https://wis-tns.weizmann.ac.il/object/2020acew)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Jan 2021
+
+
+----------
+### [SN 2020adqy](https://wis-tns.weizmann.ac.il/object/2020adqy)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Jan 2021
+
+
+----------
+### [SN 2020acma](https://wis-tns.weizmann.ac.il/object/2020acma)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Jan 2021
+
+
+----------
+### [SN 2020aerb](https://wis-tns.weizmann.ac.il/object/2020aerb)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Jan 2021
+
+
+----------
+### [SN 2020zys](https://wis-tns.weizmann.ac.il/object/2020zys)
+**spectroscopic type: SN II**
+
+discovery date: 06 Jan 2021
+
+
+----------
+### [SN 2021K](https://wis-tns.weizmann.ac.il/object/2021K)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Jan 2021
+
+
+----------
+### [SN 2020acqx](https://wis-tns.weizmann.ac.il/object/2020acqx)
+**spectroscopic type: SN Ia**
+
+discovery date: 04 Jan 2021
 
