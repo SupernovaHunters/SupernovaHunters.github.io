@@ -8979,7 +8979,10 @@ discovery date: 14 Jan 2021
 
 
 ----------
-### [AT 2020aeeg](https://wis-tns.weizmann.ac.il/object/2020aeeg)
+### [SN 2020aeeg](https://wis-tns.weizmann.ac.il/object/2020aeeg)
+
+**Spectroscopic type: SN II**
+
 score: 0.982729
 
 discovery date: 14 Jan 2021
