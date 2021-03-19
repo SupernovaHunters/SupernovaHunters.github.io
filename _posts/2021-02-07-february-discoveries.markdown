@@ -593,7 +593,10 @@ discovery date: 07 Feb 2021
 
 
 ----------
-### [AT 2020aatp](https://wis-tns.weizmann.ac.il/object/2020aatp)
+### [SN 2020aatp](https://wis-tns.weizmann.ac.il/object/2020aatp)
+
+**Spectroscopic type: SN IIP**
+
 score: 0.999889
 
 discovery date: 07 Feb 2021
