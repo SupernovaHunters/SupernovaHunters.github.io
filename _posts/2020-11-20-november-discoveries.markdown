@@ -8,7 +8,7 @@ categories: discoveries
 
 
 ----------
-### [AT 2020uxx](https://wis-tns.weizmann.ac.il/object/2020uxx)
+### [AT 2020uxx](https://www.wis-tns.org/object/2020uxx)
 aka. **PS20icp**
 
 score: 0.937316
@@ -51,7 +51,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020tjw](https://wis-tns.weizmann.ac.il/object/2020tjw)
+### [AT 2020tjw](https://www.wis-tns.org/object/2020tjw)
 score: 0.923602
 
 discovery date: 19 Nov 2020
@@ -82,7 +82,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020sen](https://wis-tns.weizmann.ac.il/object/2020sen)
+### [AT 2020sen](https://www.wis-tns.org/object/2020sen)
 score: 0.935895
 
 discovery date: 19 Nov 2020
@@ -113,7 +113,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020wqy](https://wis-tns.weizmann.ac.il/object/2020wqy)
+### [AT 2020wqy](https://www.wis-tns.org/object/2020wqy)
 aka. **PS20jht**
 
 score: 0.936247
@@ -146,7 +146,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020scq](https://wis-tns.weizmann.ac.il/object/2020scq)
+### [AT 2020scq](https://www.wis-tns.org/object/2020scq)
 score: 0.958948
 
 discovery date: 19 Nov 2020
@@ -167,7 +167,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020rtc](https://wis-tns.weizmann.ac.il/object/2020rtc)
+### [AT 2020rtc](https://www.wis-tns.org/object/2020rtc)
 score: 0.930438
 
 discovery date: 19 Nov 2020
@@ -203,7 +203,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020tix](https://wis-tns.weizmann.ac.il/object/2020tix)
+### [AT 2020tix](https://www.wis-tns.org/object/2020tix)
 score: 0.957564
 
 discovery date: 19 Nov 2020
@@ -229,7 +229,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020vlb](https://wis-tns.weizmann.ac.il/object/2020vlb)
+### [AT 2020vlb](https://www.wis-tns.org/object/2020vlb)
 aka. **PS20ihc**
 
 score: 0.943066
@@ -267,7 +267,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020tgb](https://wis-tns.weizmann.ac.il/object/2020tgb)
+### [AT 2020tgb](https://www.wis-tns.org/object/2020tgb)
 score: 0.908659
 
 discovery date: 19 Nov 2020
@@ -298,7 +298,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020vyt](https://wis-tns.weizmann.ac.il/object/2020vyt)
+### [AT 2020vyt](https://www.wis-tns.org/object/2020vyt)
 aka. **PS20itw**
 
 score: 0.969144
@@ -331,7 +331,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020siu](https://wis-tns.weizmann.ac.il/object/2020siu)
+### [AT 2020siu](https://www.wis-tns.org/object/2020siu)
 score: 0.968621
 
 discovery date: 19 Nov 2020
@@ -362,7 +362,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020vio](https://wis-tns.weizmann.ac.il/object/2020vio)
+### [AT 2020vio](https://www.wis-tns.org/object/2020vio)
 aka. **PS20iek**
 
 score: 0.962545
@@ -395,7 +395,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020uis](https://wis-tns.weizmann.ac.il/object/2020uis)
+### [AT 2020uis](https://www.wis-tns.org/object/2020uis)
 aka. **PS20huc**
 
 score: 0.924953
@@ -428,7 +428,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [SN 2020obe](https://wis-tns.weizmann.ac.il/object/2020obe)
+### [SN 2020obe](https://www.wis-tns.org/object/2020obe)
 
 **Spectroscopic type: SN Ia**
 
@@ -462,7 +462,7 @@ discovery date: 19 Nov 2020
 
 
 ----------
-### [AT 2020tsx](https://wis-tns.weizmann.ac.il/object/2020tsx)
+### [AT 2020tsx](https://www.wis-tns.org/object/2020tsx)
 score: 0.957564
 
 discovery date: 20 Nov 2020
@@ -493,7 +493,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020vtf](https://wis-tns.weizmann.ac.il/object/2020vtf)
+### [AT 2020vtf](https://www.wis-tns.org/object/2020vtf)
 aka. **PS20ipa**
 
 score: 0.937316
@@ -531,7 +531,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [SN 2020tet](https://wis-tns.weizmann.ac.il/object/2020tet)
+### [SN 2020tet](https://www.wis-tns.org/object/2020tet)
 
 **Spectroscopic type: SN IIP**
 
@@ -565,7 +565,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020srg](https://wis-tns.weizmann.ac.il/object/2020srg)
+### [AT 2020srg](https://www.wis-tns.org/object/2020srg)
 score: 0.956523
 
 discovery date: 20 Nov 2020
@@ -601,7 +601,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tmz](https://wis-tns.weizmann.ac.il/object/2020tmz)
+### [AT 2020tmz](https://www.wis-tns.org/object/2020tmz)
 aka. **PS20hnb**
 
 score: 0.930503
@@ -639,7 +639,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tsh](https://wis-tns.weizmann.ac.il/object/2020tsh)
+### [AT 2020tsh](https://www.wis-tns.org/object/2020tsh)
 score: 0.966866
 
 discovery date: 20 Nov 2020
@@ -670,7 +670,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020vts](https://wis-tns.weizmann.ac.il/object/2020vts)
+### [AT 2020vts](https://www.wis-tns.org/object/2020vts)
 aka. **PS20ipp**
 
 score: 0.980671
@@ -703,7 +703,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020xcb](https://wis-tns.weizmann.ac.il/object/2020xcb)
+### [AT 2020xcb](https://www.wis-tns.org/object/2020xcb)
 aka. **PS20jta**
 
 score: 0.949305
@@ -756,7 +756,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020wqr](https://wis-tns.weizmann.ac.il/object/2020wqr)
+### [AT 2020wqr](https://www.wis-tns.org/object/2020wqr)
 aka. **PS20jhf**
 
 score: 0.948273
@@ -789,7 +789,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [SN 2020urn](https://wis-tns.weizmann.ac.il/object/2020urn)
+### [SN 2020urn](https://www.wis-tns.org/object/2020urn)
 
 **Spectroscopic type: SN Ia**
 
@@ -818,7 +818,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020txs](https://wis-tns.weizmann.ac.il/object/2020txs)
+### [AT 2020txs](https://www.wis-tns.org/object/2020txs)
 aka. **PS20hsf**
 
 score: 0.957564
@@ -856,7 +856,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tee](https://wis-tns.weizmann.ac.il/object/2020tee)
+### [AT 2020tee](https://www.wis-tns.org/object/2020tee)
 score: 0.957564
 
 discovery date: 20 Nov 2020
@@ -887,7 +887,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tvw](https://wis-tns.weizmann.ac.il/object/2020tvw)
+### [AT 2020tvw](https://www.wis-tns.org/object/2020tvw)
 aka. **PS20hrc**
 
 score: 0.94744
@@ -920,7 +920,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tti](https://wis-tns.weizmann.ac.il/object/2020tti)
+### [AT 2020tti](https://www.wis-tns.org/object/2020tti)
 score: 0.95973
 
 discovery date: 20 Nov 2020
@@ -951,7 +951,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tyw](https://wis-tns.weizmann.ac.il/object/2020tyw)
+### [AT 2020tyw](https://www.wis-tns.org/object/2020tyw)
 score: 0.925261
 
 discovery date: 20 Nov 2020
@@ -982,7 +982,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tfx](https://wis-tns.weizmann.ac.il/object/2020tfx)
+### [AT 2020tfx](https://www.wis-tns.org/object/2020tfx)
 score: 0.966498
 
 discovery date: 20 Nov 2020
@@ -1013,7 +1013,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [SN 2020uwc](https://wis-tns.weizmann.ac.il/object/2020uwc)
+### [SN 2020uwc](https://www.wis-tns.org/object/2020uwc)
 
 **Spectroscopic type: SN Ia**
 
@@ -1049,7 +1049,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020wxm](https://wis-tns.weizmann.ac.il/object/2020wxm)
+### [AT 2020wxm](https://www.wis-tns.org/object/2020wxm)
 aka. **PS20jnc**
 
 score: 0.947206
@@ -1077,7 +1077,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tru](https://wis-tns.weizmann.ac.il/object/2020tru)
+### [AT 2020tru](https://www.wis-tns.org/object/2020tru)
 aka. **PS20hpb**
 
 score: 0.957564
@@ -1110,7 +1110,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020twt](https://wis-tns.weizmann.ac.il/object/2020twt)
+### [AT 2020twt](https://www.wis-tns.org/object/2020twt)
 score: 0.918371
 
 discovery date: 20 Nov 2020
@@ -1131,7 +1131,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020ryd](https://wis-tns.weizmann.ac.il/object/2020ryd)
+### [AT 2020ryd](https://www.wis-tns.org/object/2020ryd)
 score: 0.947527
 
 discovery date: 20 Nov 2020
@@ -1152,7 +1152,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020xbf](https://wis-tns.weizmann.ac.il/object/2020xbf)
+### [AT 2020xbf](https://www.wis-tns.org/object/2020xbf)
 aka. **PS20jry**
 
 score: 0.956546
@@ -1175,7 +1175,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020xbb](https://wis-tns.weizmann.ac.il/object/2020xbb)
+### [AT 2020xbb](https://www.wis-tns.org/object/2020xbb)
 aka. **PS20jrt**
 
 score: 0.964993
@@ -1203,7 +1203,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020uuh](https://wis-tns.weizmann.ac.il/object/2020uuh)
+### [AT 2020uuh](https://www.wis-tns.org/object/2020uuh)
 aka. **PS20iba**
 
 score: 0.937316
@@ -1241,7 +1241,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020uos](https://wis-tns.weizmann.ac.il/object/2020uos)
+### [AT 2020uos](https://www.wis-tns.org/object/2020uos)
 score: 0.948251
 
 discovery date: 20 Nov 2020
@@ -1272,7 +1272,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020xca](https://wis-tns.weizmann.ac.il/object/2020xca)
+### [AT 2020xca](https://www.wis-tns.org/object/2020xca)
 aka. **PS20jsz**
 
 score: 0.962537
@@ -1305,7 +1305,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [SN 2020tor](https://wis-tns.weizmann.ac.il/object/2020tor)
+### [SN 2020tor](https://www.wis-tns.org/object/2020tor)
 
 **Spectroscopic type: SN II**
 
@@ -1339,7 +1339,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tbz](https://wis-tns.weizmann.ac.il/object/2020tbz)
+### [AT 2020tbz](https://www.wis-tns.org/object/2020tbz)
 score: 0.957564
 
 discovery date: 20 Nov 2020
@@ -1370,7 +1370,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020wzu](https://wis-tns.weizmann.ac.il/object/2020wzu)
+### [AT 2020wzu](https://www.wis-tns.org/object/2020wzu)
 aka. **PS20jqo**
 
 score: 0.908659
@@ -1398,7 +1398,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020vjv](https://wis-tns.weizmann.ac.il/object/2020vjv)
+### [AT 2020vjv](https://www.wis-tns.org/object/2020vjv)
 aka. **PS20ifs**
 
 score: 0.951135
@@ -1431,7 +1431,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020vxl](https://wis-tns.weizmann.ac.il/object/2020vxl)
+### [AT 2020vxl](https://www.wis-tns.org/object/2020vxl)
 aka. **PS20ise**
 
 score: 0.979872
@@ -1459,7 +1459,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020tcc](https://wis-tns.weizmann.ac.il/object/2020tcc)
+### [AT 2020tcc](https://www.wis-tns.org/object/2020tcc)
 score: 0.94892
 
 discovery date: 20 Nov 2020
@@ -1520,7 +1520,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020qkz](https://wis-tns.weizmann.ac.il/object/2020qkz)
+### [AT 2020qkz](https://www.wis-tns.org/object/2020qkz)
 score: 0.957564
 
 discovery date: 20 Nov 2020
@@ -1556,7 +1556,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020whf](https://wis-tns.weizmann.ac.il/object/2020whf)
+### [AT 2020whf](https://www.wis-tns.org/object/2020whf)
 aka. **PS20jad**
 
 score: 0.954034
@@ -1609,7 +1609,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [SN 2020tkp](https://wis-tns.weizmann.ac.il/object/2020tkp)
+### [SN 2020tkp](https://www.wis-tns.org/object/2020tkp)
 
 **Spectroscopic type: SN Ia**
 
@@ -1643,7 +1643,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020utz](https://wis-tns.weizmann.ac.il/object/2020utz)
+### [AT 2020utz](https://www.wis-tns.org/object/2020utz)
 aka. **PS20iap**
 
 score: 0.940935
@@ -1666,7 +1666,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020vmr](https://wis-tns.weizmann.ac.il/object/2020vmr)
+### [AT 2020vmr](https://www.wis-tns.org/object/2020vmr)
 aka. **PS20iiq**
 
 score: 0.957476
@@ -1729,7 +1729,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020nuy](https://wis-tns.weizmann.ac.il/object/2020nuy)
+### [AT 2020nuy](https://www.wis-tns.org/object/2020nuy)
 score: 0.959744
 
 discovery date: 20 Nov 2020
@@ -1764,7 +1764,7 @@ discovery date: 20 Nov 2020
 
 
 ----------
-### [AT 2020xcd](https://wis-tns.weizmann.ac.il/object/2020xcd)
+### [AT 2020xcd](https://www.wis-tns.org/object/2020xcd)
 aka. **PS20jtc**
 
 score: 0.959806
