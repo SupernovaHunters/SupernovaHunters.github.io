@@ -8,7 +8,6 @@ categories: discoveries
 
 
 ----------
-<<<<<<< HEAD
 ### [AT 2021gge](https://www.wis-tns.org/object/2021gge)
 aka. **PS21bxu**
 
