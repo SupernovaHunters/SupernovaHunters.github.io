@@ -8,7 +8,7 @@ categories: discoveries
 
 
 ----------
-### [SN 2021dsb](https://wis-tns.weizmann.ac.il/object/2021dsb)
+### [SN 2021dsb](https://www.wis-tns.org/object/2021dsb)
 
 **Spectroscopic type: SN Ia-91T-like**
 
@@ -42,7 +42,7 @@ discovery date: 19 Mar 2021
 
 
 ----------
-### [AT 2021ddd](https://wis-tns.weizmann.ac.il/object/2021ddd)
+### [AT 2021ddd](https://www.wis-tns.org/object/2021ddd)
 score: 0.979252
 
 discovery date: 19 Mar 2021
@@ -77,7 +77,7 @@ discovery date: 19 Mar 2021
 
 
 ----------
-### [AT 2021exv](https://wis-tns.weizmann.ac.il/object/2021exv)
+### [AT 2021exv](https://www.wis-tns.org/object/2021exv)
 score: 0.959719
 
 discovery date: 19 Mar 2021
