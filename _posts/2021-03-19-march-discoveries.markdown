@@ -8,7 +8,7 @@ categories: discoveries
 
 
 ----------
-<<<<<<< HEAD
+
 ### [AT 2021gge](https://www.wis-tns.org/object/2021gge)
 aka. **PS21bxu**
 
@@ -42,10 +42,8 @@ discovery date: 19 Mar 2021
 
 
 ----------
-### [SN 2021dsb](https://wis-tns.weizmann.ac.il/object/2021dsb)
-=======
+
 ### [SN 2021dsb](https://www.wis-tns.org/object/2021dsb)
->>>>>>> f08087e1d36104b5942b35fbcbe5688d223541bb
 
 **Spectroscopic type: SN Ia-91T-like**
 
