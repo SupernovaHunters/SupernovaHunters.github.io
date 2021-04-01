@@ -8,6 +8,73 @@ categories: discoveries
 
 
 ----------
+### [AT 2021cwe](https://www.wis-tns.org/object/2021cwe)
+score: 0.999398
+
+discovery date: 01 Apr 2021
+
+***'Henryk Krawczyk'*** **'Rosemary Billington'** **'David Maetschke'** 'Meryl Goulbourne' 'Ana M. Pizarro Galán' 'Andres Eloy Martinez Rojas' 'Michał Biesiada' 'Benoît ROUSSEAU' 
+
+59688179
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4b0af7fb-811c-405f-99a1-2e83497ab4c1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c1c3035b-ea08-4f3a-ad30-36b61b7975eb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/41babe62-db34-41f4-8d46-c446afec34d9.jpeg" width="200"/>
+
+59688189
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ef80cdac-572f-47e8-bdc6-52c0c7e2296e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/87e02b55-108c-4884-a2cf-c6e3a6451440.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/80060e2c-ae82-41a1-8d74-d527b545ccd0.jpeg" width="200"/>
+
+59688190
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1253e9db-8517-4f39-9a1c-0f7b937de92a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/690f1d78-9da8-4186-9af7-21d9a1bf4c2b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/634e4f12-47db-4831-862c-bb06b56c5292.jpeg" width="200"/>
+
+59688191
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/44c78496-660e-4e33-8e03-53b194ceabc7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ecafd28c-f03f-4896-b089-c3ef21526c66.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/874d0914-df80-405b-9076-2ec48063b63c.jpeg" width="200"/>
+
+59688192
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/44063268-13c0-4ee5-8224-4c56dca984fc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/052e807a-e14e-419e-be1e-8dd3f51b617d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/68dbce75-9f45-4516-a2a4-306aec70d503.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2021hcb](https://www.wis-tns.org/object/2021hcb)
+score: 0.961948
+
+discovery date: 01 Apr 2021
+
+*'Henryk Krawczyk'* **'Piyush R. Maharana'** **'Herbert Gunell'** **'David Maetschke'** 'Michał Biesiada' 'Andres Eloy Martinez Rojas' 'Benoît ROUSSEAU' 'Rosemary Billington' 'Marvin W. Huddleston' 'Michele T. Mazzucato' 
+
+59689072
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a6c1e037-adfc-43c5-afa2-53c76ea2f097.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ee488dda-a0d0-4bba-b8ff-49951b2b4aa8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dd694170-0ead-4c77-b391-afc9c59f4b67.jpeg" width="200"/>
+
+59689083
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/37ec6ad4-e9ad-4f9b-ab58-be1b7a68c044.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ff2ca049-e0d2-4b93-8cc4-2e4255282e7d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ee9a1beb-774c-4a69-9e53-8eed4ae5f85b.jpeg" width="200"/>
+
+59689091
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/59c3a2f4-75ac-46c4-992a-ea9386ab3af5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7821d0cc-5346-4a29-bdbf-5a050be44dd9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/06016f74-505c-4335-affd-8b0d99141cb8.jpeg" width="200"/>
+
+59689109
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/51d5eac8-23bf-41f3-a38d-db997128ffff.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f09d13e2-04cd-413b-aaab-c44444e0a915.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/91b9b341-f659-4eb5-b3b0-22ba9287d58f.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021fzx](https://www.wis-tns.org/object/2021fzx)
 score: 0.994299
 
