@@ -8,6 +8,40 @@ categories: discoveries
 
 
 ----------
+### [SN 2021zu](https://www.wis-tns.org/object/2021zu)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.992307
+
+discovery date: 03 Apr 2021
+
+*'John M. Cummins'* **'Giovanni Colombo'** **'Encho'** **'Akihiro Akai'** 'David Maetschke' 'Benoît ROUSSEAU' 'Henryk Krawczyk' 'B L Goodwin' 'Virgilio Gonano' 'Andres Eloy Martinez Rojas' 'Meryl Goulbourne' 'Michał Biesiada' 'Khushi Arora' 'Michele T. Mazzucato' 'Sallyann Chesson' 'Ashok Ghosh' 'Szymon Ptak' 
+
+59722095
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ac476aa8-fb46-4789-acfe-df46628aa42b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/12a45e05-ca5f-4665-8ab9-ba5998524ec5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1c1e0739-91c2-40c9-98d6-74e839bad3ba.jpeg" width="200"/>
+
+59722096
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1cf7b0ae-ea64-4fc2-8e4e-13250615d62d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/129d48a8-b056-41d2-80c3-1b611b56f5b3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/824610d9-36d8-4556-81d8-03bf677d11d4.jpeg" width="200"/>
+
+59722097
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5f8c63a8-edaf-4338-9ea4-ecff7dca9a3b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8312a37b-3c7e-43b4-9ba3-091ba649acc8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4d734bb0-900f-4776-addc-f0fd10316753.jpeg" width="200"/>
+
+59722098
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/525952fd-27db-4bb6-82d3-6b687aaa4166.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/df13138b-e80d-48cb-9fc6-0f8031b9f21d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3fa24577-21e5-4cdd-b84a-0596c99ac41a.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021gtr](https://www.wis-tns.org/object/2021gtr)
 score: 0.92422
 
