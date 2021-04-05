@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-04-05 21:45:07 
+date:   2021-04-05 22:45:01 
 categories: discoveries
 ---
 
@@ -1453,4 +1453,102 @@ discovery date: 21 Nov 2020
 **spectroscopic type: SN Ia**
 
 discovery date: 21 Nov 2020
+
+
+----------
+### [SN 2020ofj](https://wis-tns.weizmann.ac.il/object/2020ofj)
+**spectroscopic type: SN II**
+
+discovery date: 21 Nov 2020
+
+
+----------
+### [SN 2020teb](https://wis-tns.weizmann.ac.il/object/2020teb)
+**spectroscopic type: SN Ia**
+
+discovery date: 21 Nov 2020
+
+
+----------
+### [SN 2020ovk](https://wis-tns.weizmann.ac.il/object/2020ovk)
+**spectroscopic type: SN II**
+
+discovery date: 21 Nov 2020
+
+
+----------
+### [SN 2020vfa](https://wis-tns.weizmann.ac.il/object/2020vfa)
+**spectroscopic type: SN Ia**
+
+discovery date: 21 Nov 2020
+
+
+----------
+### [SN 2020pmy](https://wis-tns.weizmann.ac.il/object/2020pmy)
+**spectroscopic type: SN Ia**
+
+discovery date: 21 Nov 2020
+
+
+----------
+### [SN 2020pyj](https://wis-tns.weizmann.ac.il/object/2020pyj)
+**spectroscopic type: SN Ia**
+
+discovery date: 20 Nov 2020
+
+
+----------
+### [SN 2020sha](https://wis-tns.weizmann.ac.il/object/2020sha)
+**spectroscopic type: SN Ia**
+
+discovery date: 20 Nov 2020
+
+
+----------
+### [SN 2020obr](https://wis-tns.weizmann.ac.il/object/2020obr)
+**spectroscopic type: SN Ia**
+
+discovery date: 20 Nov 2020
+
+
+----------
+### [SN 2020tkp](https://wis-tns.weizmann.ac.il/object/2020tkp)
+**spectroscopic type: SN Ia**
+
+discovery date: 20 Nov 2020
+
+
+----------
+### [SN 2020tor](https://wis-tns.weizmann.ac.il/object/2020tor)
+**spectroscopic type: SN II**
+
+discovery date: 20 Nov 2020
+
+
+----------
+### [SN 2020uwc](https://wis-tns.weizmann.ac.il/object/2020uwc)
+**spectroscopic type: SN Ia**
+
+discovery date: 20 Nov 2020
+
+
+----------
+### [SN 2020urn](https://wis-tns.weizmann.ac.il/object/2020urn)
+**spectroscopic type: SN Ia**
+
+discovery date: 20 Nov 2020
+
+
+----------
+### [SN 2020tet](https://wis-tns.weizmann.ac.il/object/2020tet)
+**spectroscopic type: SN IIP**
+
+discovery date: 20 Nov 2020
+
+
+----------
+### [SN 2020obe](https://wis-tns.weizmann.ac.il/object/2020obe)
+**spectroscopic type: SN Ia**
+
+discovery date: 19 Nov 2020
 
