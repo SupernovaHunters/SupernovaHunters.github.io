@@ -8,6 +8,45 @@ categories: discoveries
 
 
 ----------
+### [SN 2021cys](https://www.wis-tns.org/object/2021cys)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.926631
+
+discovery date: 05 Apr 2021
+
+*'Benoît ROUSSEAU'* **'Akihiro Akai'** **'David Maetschke'** **'Henryk Krawczyk'** 'B L Goodwin' 'Michele T. Mazzucato' 'Georgios Lekkas' 'Celso Pessanha Machado' 'Rosemary Billington' 'Michał Biesiada' 'Virgilio Gonano' 'John M. Cummins' 
+
+59727694
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9e12864f-12b0-48ea-b881-7fb0502408d3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e4e40852-9aae-4bd1-b2cf-473378cea974.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/908d0d29-1226-4d8c-84ae-642cdc2f1aec.jpeg" width="200"/>
+
+59727695
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cf4a077e-a647-4520-82c1-5ea0efe69f63.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b36afffd-e1bd-4e0a-a1c1-882e851cf1e0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3b23d8d5-14bd-4837-8688-afd30faf689c.jpeg" width="200"/>
+
+59727696
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1e3684fa-1670-4a65-9f72-74e66b464165.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9559d9b3-0ecb-4570-95ae-f279a76165a5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f90cae2c-89b5-4cdb-af32-5e6be2e3d754.jpeg" width="200"/>
+
+59727697
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4ac233f3-4f49-466e-bd12-ec8489c28077.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c4a61c1f-2990-443f-9879-06cea8672874.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bcc309c5-2e16-45a8-b2b8-96c0436939c7.jpeg" width="200"/>
+
+59727698
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7b7b3685-84d1-475f-a14d-0ad265ff9771.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1eb526ae-de87-4579-bef3-64c2ceabb98f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7db99f46-d867-45a8-9d3e-9f45de182a5f.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021zu](https://www.wis-tns.org/object/2021zu)
 
 **Spectroscopic type: SN Ia**
