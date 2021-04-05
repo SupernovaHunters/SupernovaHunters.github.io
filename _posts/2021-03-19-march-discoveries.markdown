@@ -2164,7 +2164,10 @@ discovery date: 22 Mar 2021
 
 
 ----------
-### [AT 2021gfv](https://www.wis-tns.org/object/2021gfv)
+### [SN 2021gfv](https://www.wis-tns.org/object/2021gfv)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.993169
 
 discovery date: 23 Mar 2021
