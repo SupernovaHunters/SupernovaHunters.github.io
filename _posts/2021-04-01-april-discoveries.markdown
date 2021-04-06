@@ -8,6 +8,40 @@ categories: discoveries
 
 
 ----------
+### [SN 2021dsi](https://www.wis-tns.org/object/2021dsi)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.965397
+
+discovery date: 06 Apr 2021
+
+***'Henryk Krawczyk'*** **'Ashok Ghosh'** **'Akihiro Akai'** 'David Maetschke' 'Benoît ROUSSEAU' 'B L Goodwin' 'Michele T. Mazzucato' 'Georgios Lekkas' 'Celso Pessanha Machado' 'Michał Biesiada' 'Lily Lau W.W.' 'Virgilio Gonano' 'Dennis Richards' 'John M. Cummins' 'Elisabeth Baeten' 'Szymon Ptak' 'Giovanni Colombo' 
+
+59728777
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0dfa6331-70d6-45c2-9431-afd5216125a5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2edef827-1bf5-44dd-be13-dcc86272218d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e14ad76c-b992-40c5-970d-66d4b1552ad0.jpeg" width="200"/>
+
+59728778
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b183e8af-42d5-4e49-8b1f-35fafcc21ef7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/be717907-ef2a-42e4-933d-07a3bc6e2727.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6922cb17-86cb-4d71-a75a-63ab66656915.jpeg" width="200"/>
+
+59728779
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/21db5c99-ea10-483d-8c79-96deacd85665.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b593f883-9894-4907-89be-e49dd887df21.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ae1643b8-baef-4823-a649-1a7b6bf7f79c.jpeg" width="200"/>
+
+59728780
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/be664524-417a-4456-b038-6e27eb11c4b1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/881269b9-f2c6-499d-8273-63b5394e60d7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/72c0a1b6-0f3e-4aff-99cc-bfdde92465b0.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021cys](https://www.wis-tns.org/object/2021cys)
 
 **Spectroscopic type: SN Ia**
