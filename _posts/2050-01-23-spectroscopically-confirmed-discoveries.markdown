@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-04-11 04:45:02 
+date:   2021-04-11 05:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021bnf](https://wis-tns.weizmann.ac.il/object/2021bnf)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 11 Apr 2021
 
 
 ----------
