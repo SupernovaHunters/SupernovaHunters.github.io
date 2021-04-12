@@ -512,7 +512,10 @@ discovery date: 07 Apr 2021
 
 
 ----------
-### [AT 2021heh](https://www.wis-tns.org/object/2021heh)
+### [SN 2021heh](https://www.wis-tns.org/object/2021heh)
+
+**Spectroscopic type: SN IIb**
+
 score: 0.939035
 
 discovery date: 07 Apr 2021
@@ -1194,7 +1197,10 @@ discovery date: 06 Apr 2021
 
 
 ----------
-### [AT 2021hiv](https://www.wis-tns.org/object/2021hiv)
+### [SN 2021hiv](https://www.wis-tns.org/object/2021hiv)
+
+**Spectroscopic type: SN II**
+
 score: 0.970856
 
 discovery date: 06 Apr 2021
