@@ -8,6 +8,40 @@ categories: discoveries
 
 
 ----------
+### [SN 2021fog](https://www.wis-tns.org/object/2021fog)
+
+**Spectroscopic type: SN**
+
+score: 0.958442
+
+discovery date: 13 Apr 2021
+
+*'Benoît ROUSSEAU'* **'Meryl Goulbourne'** **'Giovanni Colombo'** **'David Maetschke'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Michał Biesiada' 'Elisabeth Baeten' 'Celso Pessanha Machado' 'Akihiro Akai' 'Szymon Ptak' 'Dennis Richards' 'Sybil Subiaur' 'Lily Lau W.W.' 'Andrew M. Gross M.D.' 'B L Goodwin' 'Christopher Tanner' 'Ashok Ghosh' 'x303' 'Andres Eloy Martinez Rojas' 
+
+59883887
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d128e958-90f6-42cf-a015-2e20d89cab3e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e2790f5d-eb4a-405a-8d63-ecdd4f1f403a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/03805073-0bc8-4132-a806-fedc0a38c6e5.jpeg" width="200"/>
+
+59883888
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a69e2fb0-6801-427c-ac1f-d476190f3ba8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6990fc80-2a23-47bb-af73-5adb3c5d3f8c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/34426cfe-ec49-4c58-af92-d8cda3c55578.jpeg" width="200"/>
+
+59883889
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8b438ecf-de2d-4dc0-9250-ced6c3add97e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4a7b9164-cbdd-4682-871b-f32dbdc6bd4d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b842f513-d9e2-42ad-bbbf-49d7f6a8b1cd.jpeg" width="200"/>
+
+59883890
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6b67b818-31b7-40ae-bf18-47c2f5a1973c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6991e941-ef12-44a3-9059-efdb1c770cb5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/384f9139-a8ef-4514-9dc6-8d59caee55ab.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021fot](https://www.wis-tns.org/object/2021fot)
 score: 0.905744
 
