@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-04-13 01:45:02 
+date:   2021-04-13 02:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021fog](https://wis-tns.weizmann.ac.il/object/2021fog)
+**spectroscopic type: SN**
+
+discovery date: 13 Apr 2021
 
 
 ----------
