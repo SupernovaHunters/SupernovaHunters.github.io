@@ -8,6 +8,27 @@ categories: discoveries
 
 
 ----------
+### [AT 2021gwr](https://www.wis-tns.org/object/2021gwr)
+score: 0.997652
+
+discovery date: 13 Apr 2021
+
+*'Meryl Goulbourne'* **'Elisabeth Baeten'** **'Andres Eloy Martinez Rojas'** **'David Maetschke'** 'Benoît ROUSSEAU' 'Virgilio Gonano' 'Michele T. Mazzucato' 'Giovanni Colombo' 'Michał Biesiada' 'Priyanka B.S.' 'Tawny Williams' 'Celso Pessanha Machado' 'Ashok Ghosh' 'Akihiro Akai' 'Sybil Subiaur' 'Lily Lau W.W.' 'B L Goodwin' 'Andrew M. Gross M.D.' 
+
+59884070
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9fd559f2-97d5-4c6d-bd08-ba9d3fd6003e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/db49b33d-7d1d-43f5-a65b-3d084bdaec6f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7c91ccf6-8dc0-4326-a6b4-72e4aa5d6db4.jpeg" width="200"/>
+
+59884071
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/15e93ea5-0362-4642-9d16-3a1d04b3c184.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/884d9b28-331a-4bc1-a8c6-b6f38a5a8759.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/16fb7e50-5877-4c29-a519-b43c365e3b82.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021fcp](https://www.wis-tns.org/object/2021fcp)
 score: 0.973864
 
