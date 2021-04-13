@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2021fzr](https://www.wis-tns.org/object/2021fzr)
+score: 0.986874
+
+discovery date: 13 Apr 2021
+
+*'Benoît ROUSSEAU'* **'David Maetschke'** **'Andres Eloy Martinez Rojas'** **'Dennis Richards'** 'Meryl Goulbourne' 'Elisabeth Baeten' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Michał Biesiada' 'Akihiro Akai' 'Ashok Ghosh' 'Celso Pessanha Machado' 'Lily Lau W.W.' 'B L Goodwin' 'Zahraa Tormos' 
+
+59882650
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/29e4fb80-208c-4a3c-8997-8e0daa20f980.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/42dc20f1-fd3d-4275-93bb-e51982244258.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/96c81375-1a4a-4738-a232-8e527ea3d12a.jpeg" width="200"/>
+
+59882651
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/760188b1-f273-42c4-8bd6-6a4eabaeca7d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a34c23f2-7214-422d-aa2b-339d495b2427.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b8dcd147-3ba9-46c2-b036-589659315ae4.jpeg" width="200"/>
+
+59882652
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/79584f07-008a-4428-924d-cb141b26ede2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/75c907d6-eae6-4c7c-b456-a2166f2a347d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/55676dd7-515c-4498-98e9-bca70d6166fb.jpeg" width="200"/>
+
+59882653
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d4b3cdd6-1f29-4288-a645-89435987340c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/956a02c4-6cbd-45ec-80b4-741d42f643b5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/47ea39af-ff59-404f-9abc-5d0e1aedbfc6.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021gwr](https://www.wis-tns.org/object/2021gwr)
 score: 0.997652
 
