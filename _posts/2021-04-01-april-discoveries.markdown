@@ -8,6 +8,68 @@ categories: discoveries
 
 
 ----------
+### [AT 2021idc](https://www.wis-tns.org/object/2021idc)
+score: 0.967244
+
+discovery date: 13 Apr 2021
+
+*'Benoît ROUSSEAU'* **'David Maetschke'** **'Elisabeth Baeten'** **'Meryl Goulbourne'** 'Michele T. Mazzucato' 'Virgilio Gonano' 'Michał Biesiada' 'Dennis Richards' 'Andres Eloy Martinez Rojas' 'Ashok Ghosh' 'Akihiro Akai' 'B L Goodwin' 'Celso Pessanha Machado' 'Rosemary Billington' 'Sybil Subiaur' 'Lily Lau W.W.' 'Andrew M. Gross M.D.' 'Zahraa Tormos' 'Mogii' 
+
+59884027
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7c3a4f6d-7008-4385-a30d-7415d6bc7494.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/09b19614-0ed9-42d0-ace5-160c49809322.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/65059b9d-afa1-40a4-897c-908cd270cbb8.jpeg" width="200"/>
+
+59884028
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/72fa5ecb-461e-4c3c-8481-639ec481ff1d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a117094a-0f58-47aa-a91e-24864417cbf4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c8df3ea9-f35c-40ff-86d6-50a32b51611e.jpeg" width="200"/>
+
+59884029
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2a98f4c7-fa9c-4da4-80aa-61bda6f2cedd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7108ff50-f6fa-4eee-952c-2d624dc7d7e2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/635c488b-1cb1-433e-821e-16997d56a770.jpeg" width="200"/>
+
+59884030
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9b6f6e9a-1238-4ee6-b207-f3efef0b5253.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a2c5f2b6-a43d-42f6-86fe-362747a63d9b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1367216b-dc35-4fb6-9b89-2c4a7279cb71.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2021iss](https://www.wis-tns.org/object/2021iss)
+score: 0.984958
+
+discovery date: 13 Apr 2021
+
+*'Meryl Goulbourne'* **'Elisabeth Baeten'** **'David Maetschke'** **'Rosemary Billington'** 'Benoît ROUSSEAU' 'Michele T. Mazzucato' 'Giovanni Colombo' 'Virgilio Gonano' 'Michał Biesiada' 'Andres Eloy Martinez Rojas' 'Akihiro Akai' 'Wesley White' 'Sybil Subiaur' 'B L Goodwin' 'Lily Lau W.W.' 'Mike Billings' 'Ashok Ghosh' 'Dennis Richards' 
+
+59883862
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/83175925-4696-4ed2-8256-412fd4901c09.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c968303d-e19f-4368-ba18-7233b593aced.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b8f6dc12-5c79-44f3-a5b3-c75309478101.jpeg" width="200"/>
+
+59883863
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/936a4923-79cc-48b3-88ac-9e7611891c66.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/92ffb7f7-dade-44ec-8258-ae5ff440219d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/df3234da-bd3d-4060-8d19-2bc51e66ddec.jpeg" width="200"/>
+
+59883864
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/aed610df-593a-45f6-81f5-9133c6a703ed.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/752561e6-0239-4491-a661-74c9c45f7fcb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9a147f48-e3ba-4c4a-8643-df5605e65949.jpeg" width="200"/>
+
+59883865
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b9fe60eb-0295-48dd-9cac-9f7291c72f17.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1eb8ef75-d5eb-4a19-b7ef-011ff9c22455.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c60ed3a1-22d4-4bf0-a79d-ad33c9fbf14a.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021ejn](https://www.wis-tns.org/object/2021ejn)
 
 **Spectroscopic type: SN II**
