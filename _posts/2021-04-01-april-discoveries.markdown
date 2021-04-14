@@ -8,7 +8,10 @@ categories: discoveries
 
 
 ----------
-### [AT 2021ipf](https://www.wis-tns.org/object/2021ipf)
+### [SN 2021ipf](https://www.wis-tns.org/object/2021ipf)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.994871
 
 discovery date: 14 Apr 2021
