@@ -8,6 +8,32 @@ categories: discoveries
 
 
 ----------
+### [AT 2021ica](https://www.wis-tns.org/object/2021ica)
+score: 0.9773
+
+discovery date: 14 Apr 2021
+
+***'John M. Cummins'*** **'David Maetschke'** **'Meryl Goulbourne'** 'Virgilio Gonano' 'Benoît ROUSSEAU' 'Michele T. Mazzucato' 'Elisabeth Baeten' 'Rosemary Billington' 'Ashok Ghosh' 
+
+59947118
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d3de6765-4d34-42ff-bb2f-833ae9e4fa94.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b4ec07a0-8d2d-4dc1-adc2-08e21a317e07.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/396a68ef-246f-4d09-a1e3-c454f994cbad.jpeg" width="200"/>
+
+59947119
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/40058365-256a-450f-b033-50b9a45974f4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8d0ba1f4-99b8-410a-892b-78e6bd457694.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a4af63fb-9548-43bd-b48b-6dc43f4658d4.jpeg" width="200"/>
+
+59947121
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/639dac86-466a-4d74-810d-8dd09365574c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8d7eec0a-349b-4537-bd4f-325d139327d1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7e918b23-32cc-4b81-a92d-f3ec5958e295.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021gaz](https://www.wis-tns.org/object/2021gaz)
 score: 0.996947
 
