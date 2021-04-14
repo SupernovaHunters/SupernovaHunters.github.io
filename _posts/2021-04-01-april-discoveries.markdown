@@ -8,6 +8,74 @@ categories: discoveries
 
 
 ----------
+### [SN 2020abyx](https://www.wis-tns.org/object/2020abyx)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.946115
+
+discovery date: 14 Apr 2021
+
+***'David Maetschke'*** **'Lily Lau W.W.'** **'Dennis Richards'** 'Akihiro Akai' 'B L Goodwin' 'Tiffany Shaw-Diaz' 'Georgios Lekkas' 'Meryl Goulbourne' 'Michele T. Mazzucato' 
+
+59945014
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fbc41c18-e03b-49f0-9d79-d4a13d1cc239.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c802f01e-5894-4cdb-bd32-901390fb2bc5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/65904edf-b0a5-4338-9ae9-c9d7f34b697e.jpeg" width="200"/>
+
+59945015
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2a89ccb0-27dd-4ba0-8fd9-56edd41f83c5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a69c50f3-d462-4cc2-89a5-828f2ca9a069.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4088a34b-d0f0-473c-8174-6d5d1f7859f0.jpeg" width="200"/>
+
+59945017
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/43eaa588-e3ef-4074-93f9-19cac9301c16.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1ee41b4e-65b0-44c6-b96a-cf302298b133.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ff40c12d-955a-4539-bce4-e88791a76e32.jpeg" width="200"/>
+
+59945018
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/92c412db-3f0a-48bb-8cd3-629883f0dcfb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d8244f04-9df8-47bc-91f6-2f5f9db7692e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/11882320-8356-474d-8d06-6a8089a837bd.jpeg" width="200"/>
+
+
+
+
+----------
+### [SN 2021foh](https://www.wis-tns.org/object/2021foh)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.974004
+
+discovery date: 14 Apr 2021
+
+***'David Maetschke'*** **'Lily Lau W.W.'** **'Elisabeth Baeten'** 'Akihiro Akai' 'Tiffany Shaw-Diaz' 'B L Goodwin' 'Dennis Richards' 'Benoît ROUSSEAU' 'James Galla' 'Georgios Lekkas' 'Michele T. Mazzucato' 'Meryl Goulbourne' 
+
+59944360
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1788a7b0-ad00-4bb6-ba0c-ef52ff0b9ea3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/eca9fba7-b844-4ace-91a0-3f476598e1a8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7f28d7d9-aa61-4dd7-8360-692be9e1d05c.jpeg" width="200"/>
+
+59944361
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8c4fe059-8933-43f0-8a3c-c6166cad1b41.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2e4002bb-18f0-4fc7-95bd-9857972e34b0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c66c80ad-5415-4680-ada6-d0b71d1b1113.jpeg" width="200"/>
+
+59944362
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/acbad7c8-7532-4e94-8f70-90e1d5b12603.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c50d0b79-3bb9-4454-bbe9-42f9bc2572f5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f1e3ea5a-f753-4af4-bdce-319e5c57479b.jpeg" width="200"/>
+
+59944363
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/db9fb4ea-c483-44aa-9e24-49e81477b21c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b5d9f5ba-e9e5-4c31-a030-c23d5849af6e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f28533db-0b30-4939-8deb-6a0bd8470b0a.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021fan](https://www.wis-tns.org/object/2021fan)
 score: 0.991592
 
