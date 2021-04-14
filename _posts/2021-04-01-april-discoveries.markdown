@@ -8,6 +8,32 @@ categories: discoveries
 
 
 ----------
+### [AT 2021fan](https://www.wis-tns.org/object/2021fan)
+score: 0.991592
+
+discovery date: 14 Apr 2021
+
+***'David Maetschke'*** **'Lily Lau W.W.'** **'Dennis Richards'** 'Akihiro Akai' 'Tiffany Shaw-Diaz' 'B L Goodwin' 'Virgilio Gonano' 'Georgios Lekkas' 'Michele T. Mazzucato' 
+
+59967231
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/09bf983d-15b1-46da-a0dc-fbba8c39c5d0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fc44a9b5-e868-49d8-a4fe-7dddfdcc9b14.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bb4467f2-eda3-4965-b5e5-37da24a7d2ba.jpeg" width="200"/>
+
+59967242
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6b2a60d1-4515-41e0-888e-ca9e72c36d69.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/82aa7db3-1173-46a0-be76-18936c2415cf.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/015db024-a8e1-4d99-8d0c-045aa6fa04f4.jpeg" width="200"/>
+
+59967260
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/41f4ff3f-2d93-4ce8-acb2-e11ad10cc7b5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/be081612-8505-4b08-a594-423861c4faa0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d4400716-d072-420f-b76e-b3b8d2b5a42f.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021jjr](https://www.wis-tns.org/object/2021jjr)
 score: 0.982662
 
@@ -3375,7 +3401,10 @@ discovery date: 06 Apr 2021
 
 
 ----------
-### [AT 2021htf](https://www.wis-tns.org/object/2021htf)
+### [SN 2021htf](https://www.wis-tns.org/object/2021htf)
+
+**Spectroscopic type: SN IIP**
+
 score: 0.967414
 
 discovery date: 06 Apr 2021
@@ -3662,7 +3691,10 @@ discovery date: 06 Apr 2021
 
 
 ----------
-### [AT 2021fpn](https://www.wis-tns.org/object/2021fpn)
+### [SN 2021fpn](https://www.wis-tns.org/object/2021fpn)
+
+**Spectroscopic type: SN IIn**
+
 score: 0.982766
 
 discovery date: 06 Apr 2021
