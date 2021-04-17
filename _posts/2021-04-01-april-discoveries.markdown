@@ -8,6 +8,42 @@ categories: discoveries
 
 
 ----------
+### [AT 2021gyo](https://www.wis-tns.org/object/2021gyo)
+score: 0.942614
+
+discovery date: 17 Apr 2021
+
+***'Dean Joseph Simister'*** **'B L Goodwin'** **'David Maetschke'** 'Michele T. Mazzucato' 'tbutler51' 'Elisabeth Baeten' 'Michał Biesiada' 'Dennis Richards' 'Vishal Kumbhare' 'Benoît ROUSSEAU' 'Virgilio Gonano' 
+
+60172424
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/22a5bdb9-e067-4daf-bb01-184a99fe85c2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/240b1f0e-dc0c-4208-84ff-535f4b4ed031.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bf8fcf32-53a1-491d-a92f-e4de33320746.jpeg" width="200"/>
+
+60172425
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6c233567-d0d0-4d88-bcd2-cf45a11926e8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fb88be75-42c4-4a13-a906-7cc2d9b901ec.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6f02b846-f5ea-421c-8b5a-fd3f279facd7.jpeg" width="200"/>
+
+60172426
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3948379f-f092-41f5-93b8-398b3f2baf29.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/085b0242-7054-400a-b5b3-a50c5949dd61.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/affcfca2-e315-495c-96dd-0e7f40d0648c.jpeg" width="200"/>
+
+60172427
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f104cd73-f619-45af-85d7-70b0869cc1f8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/01a941c3-31bf-4403-b1a1-4928e97731d6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d1566909-8546-45e5-8be3-4b87ae87fd7b.jpeg" width="200"/>
+
+60172428
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/01a351a9-41a6-4f7d-8642-0d507ef2ccb9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5afffa10-3415-4a0c-a074-de89a4bf8f06.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/88efa1f4-d6d7-427d-805a-315475876b48.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021cdv](https://www.wis-tns.org/object/2021cdv)
 
 **Spectroscopic type: SN II**
