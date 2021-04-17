@@ -8,6 +8,40 @@ categories: discoveries
 
 
 ----------
+### [SN 2021cdv](https://www.wis-tns.org/object/2021cdv)
+
+**Spectroscopic type: SN II**
+
+score: 0.947924
+
+discovery date: 17 Apr 2021
+
+*'Dean Joseph Simister'* **'Elisabeth Baeten'** **'Dennis Richards'** **'B L Goodwin'** 'Michele T. Mazzucato' 'David Maetschke' 'Ashok Ghosh' 'Michał Biesiada' 'Virgilio Gonano' 'Benoît ROUSSEAU' 
+
+60171279
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3513751b-2dce-4888-98ae-372ebb38828a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f01f9186-d6aa-4ae9-b3c8-af19191d0230.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/82ed130e-fb67-4e98-9a84-abca96d852d4.jpeg" width="200"/>
+
+60171280
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3688c847-8422-46e7-b849-484cc1a615d9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/afff86f5-5091-4d39-afb9-8d153fb130d7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3d702182-ba10-47b1-ae2b-902e82a0e35b.jpeg" width="200"/>
+
+60171281
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d3c43c14-abe3-415f-b413-9ec2cf4bde5a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dda041bc-ca7a-4c07-aa26-dda1351b8230.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1cc96405-e703-4650-8e5e-563418d69f84.jpeg" width="200"/>
+
+60171282
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/281d6b9c-b4b7-412b-b368-ae57b0bbcf9f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/20a6abf5-9939-4844-8a0e-6c3ac96596aa.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/813600e0-b2b8-4406-8f59-2f68b8516614.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021fxx](https://www.wis-tns.org/object/2021fxx)
 score: 0.977035
 
