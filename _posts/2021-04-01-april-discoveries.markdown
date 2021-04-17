@@ -8,6 +8,32 @@ categories: discoveries
 
 
 ----------
+### [AT 2021fec](https://www.wis-tns.org/object/2021fec)
+score: 0.924536
+
+discovery date: 17 Apr 2021
+
+*'Michele T. Mazzucato'* **'Ashok Ghosh'** **'Georgios Lekkas'** **'David Maetschke'** 'B L Goodwin' 'Vishal Kumbhare' 'Virgilio Gonano' 'Benoît ROUSSEAU' 'Elisabeth Baeten' 'Michał Biesiada' 
+
+60171644
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/32113a6b-1826-4a48-b665-c245c9903e33.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/009dcb39-84ea-4bc6-8784-f9bf48f462d7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/19ca704d-ac0e-4756-80a7-e8e6e2a28b7e.jpeg" width="200"/>
+
+60171645
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6ca18f45-a76c-4cdb-96cc-2b2cbfc7a9b1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/be6d8d72-9fa0-4e80-a932-933442e61806.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1b1e3070-7009-497b-afd3-477a99dd2377.jpeg" width="200"/>
+
+60171646
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/37317613-67ae-4c28-ab57-f92cac8a814c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7e586307-09a4-49e4-b5c8-cf96d92ed8f0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/76b8703e-8631-487e-85f9-b026883e31e1.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021dkg](https://www.wis-tns.org/object/2021dkg)
 score: 0.924025
 
