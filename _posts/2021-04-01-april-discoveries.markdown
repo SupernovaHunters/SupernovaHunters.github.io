@@ -8,6 +8,17 @@ categories: discoveries
 
 
 ----------
+### [AT 2019py](https://www.wis-tns.org/object/2019py)
+score: 0.924025
+
+discovery date: 18 Apr 2021
+
+*'Rosemary Billington'* **'David Maetschke'** **'Meryl Goulbourne'** **'Amy Loeschner'** 
+
+
+
+
+----------
 ### [SN 2021hwk](https://www.wis-tns.org/object/2021hwk)
 
 **Spectroscopic type: SN Ia**
