@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-04-18 08:45:05 
+date:   2021-04-18 10:45:05 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021jkd](https://wis-tns.weizmann.ac.il/object/2021jkd)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Apr 2021
 
 
 ----------

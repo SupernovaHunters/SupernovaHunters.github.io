@@ -8,6 +8,30 @@ categories: discoveries
 
 
 ----------
+### [SN 2021jkd](https://www.wis-tns.org/object/2021jkd)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.965451
+
+discovery date: 18 Apr 2021
+
+*'Benoît ROUSSEAU'* **'B L Goodwin'** **'Christopher Tanner'** **'Giovanni Colombo'** 'Amy Loeschner' 'Meryl Goulbourne' 
+
+60175221
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/748de0cd-c44c-4171-bbd1-1553b07d3ec7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0cdb979b-032c-43a2-bf1c-cad734a3d2d5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4b459918-0ab4-425d-b932-fe0dc89f5c30.jpeg" width="200"/>
+
+60175224
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c26fb375-9567-45fa-8f0b-5a9e141c73a5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/835fcc44-a566-4453-a875-6ce61f84a19b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/30a8e392-a388-4122-8d7f-31e4b6f57f2c.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021hhv](https://www.wis-tns.org/object/2021hhv)
 score: 0.92698
 
