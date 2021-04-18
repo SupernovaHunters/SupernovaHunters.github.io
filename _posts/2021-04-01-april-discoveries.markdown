@@ -8,6 +8,25 @@ categories: discoveries
 
 
 ----------
+### [SN 2021hwk](https://www.wis-tns.org/object/2021hwk)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.966609
+
+discovery date: 18 Apr 2021
+
+*'Elisabeth Baeten'* **'michelle penagos'** **'Christopher Tanner'** **'Amy Loeschner'** 'Ashok Ghosh' 
+
+60173982
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/19164e3a-b232-4cbf-8902-c27de5d06313.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/85d489f8-b546-4acf-ab6c-058fc5c06a8f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/79c5e37c-ccfa-494f-903d-5ecb3395c5dc.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021jkd](https://www.wis-tns.org/object/2021jkd)
 
 **Spectroscopic type: SN Ia**
