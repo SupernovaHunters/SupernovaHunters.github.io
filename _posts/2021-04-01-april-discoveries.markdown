@@ -8,6 +8,20 @@ categories: discoveries
 
 
 ----------
+### [SN 2021djy](https://www.wis-tns.org/object/2021djy)
+
+**Spectroscopic type: SN II**
+
+score: 0.960752
+
+discovery date: 18 Apr 2021
+
+*'Sovan acharya'* **'B L Goodwin'** **'Dennis Richards'** **'Amy Loeschner'** 
+
+
+
+
+----------
 ### [AT 2019py](https://www.wis-tns.org/object/2019py)
 score: 0.924025
 
