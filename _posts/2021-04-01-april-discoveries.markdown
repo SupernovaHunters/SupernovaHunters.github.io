@@ -5573,7 +5573,10 @@ discovery date: 06 Apr 2021
 
 
 ----------
-### [AT 2021hrj](https://www.wis-tns.org/object/2021hrj)
+### [SN 2021hrj](https://www.wis-tns.org/object/2021hrj)
+
+**Spectroscopic type: SN Ib**
+
 score: 0.975989
 
 discovery date: 06 Apr 2021
@@ -6697,7 +6700,10 @@ discovery date: 02 Apr 2021
 
 
 ----------
-### [AT 2021cwe](https://www.wis-tns.org/object/2021cwe)
+### [SN 2021cwe](https://www.wis-tns.org/object/2021cwe)
+
+**Spectroscopic type: SN IIP**
+
 score: 0.999398
 
 discovery date: 01 Apr 2021
