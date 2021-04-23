@@ -5026,7 +5026,10 @@ discovery date: 06 Apr 2021
 
 
 ----------
-### [AT 2021gvl](https://www.wis-tns.org/object/2021gvl)
+### [SN 2021gvl](https://www.wis-tns.org/object/2021gvl)
+
+**Spectroscopic type: SN Ic**
+
 score: 0.993716
 
 discovery date: 06 Apr 2021
@@ -5192,7 +5195,10 @@ discovery date: 06 Apr 2021
 
 
 ----------
-### [AT 2021ich](https://www.wis-tns.org/object/2021ich)
+### [SN 2021ich](https://www.wis-tns.org/object/2021ich)
+
+**Spectroscopic type: SN II**
+
 score: 0.94218
 
 discovery date: 06 Apr 2021
