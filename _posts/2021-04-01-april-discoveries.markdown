@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2021csl](https://www.wis-tns.org/object/2021csl)
+score: 0.947311
+
+discovery date: 27 Apr 2021
+
+***'David Maetschke'*** **'Rosemary Billington'** **'Amy Loeschner'** 'Elisabeth Baeten' 'Vishal Kumbhare' 'Taylor Herschelman' 'Virgilio Gonano' 'Meryl Goulbourne' 
+
+60530053
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/211bcc5e-37ea-40be-81a6-ffb76c083bcb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/30a35015-8ec4-4655-97af-25f834cca04f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/18fb0e67-7312-4aeb-8fc9-3018c64a7987.jpeg" width="200"/>
+
+60530054
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0e4b0289-3f3d-497f-a917-452f985d8e4b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8ce78d7e-edde-43e0-9dee-20a67712d1b1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0d397e6a-5adb-4b1f-93c1-b366cff2f6bf.jpeg" width="200"/>
+
+60530055
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0be118ab-f393-4094-8b8a-600399716eef.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e6b68cdd-be84-4778-9d14-acae26173efd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2769ccb4-e1b5-4757-b270-ac1b608fff1c.jpeg" width="200"/>
+
+60530056
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/253b3fc2-4697-4b48-970b-986f0b0159ee.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e595c3f2-8410-4566-80e6-5f69a93eeb4a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/345129cc-7dc9-470d-9420-e8976c21c1e9.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021gzp](https://www.wis-tns.org/object/2021gzp)
 score: 0.920856
 
