@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-04-28 04:45:02 
+date:   2021-04-28 05:45:02 
 categories: discoveries
 ---
 
