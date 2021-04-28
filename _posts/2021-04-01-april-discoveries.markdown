@@ -8,6 +8,30 @@ categories: discoveries
 
 
 ----------
+### [SN 2021idy](https://www.wis-tns.org/object/2021idy)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.920856
+
+discovery date: 28 Apr 2021
+
+***'David Maetschke'*** **'Taylor Herschelman'** **'Amy Loeschner'** 'Vishal Kumbhare' 
+
+60566626
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8990f900-3430-4b02-972b-157a1df114e8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/43720e7a-524e-40db-930a-1738f1e6d6d2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/82498207-54bc-4712-85d0-8c9a4052b4db.jpeg" width="200"/>
+
+60566627
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/83215b51-e7a0-4de0-a040-e9835a1128d7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/de2fb6f6-cd51-4fc9-a2b4-2a37b47bed41.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/17f06a7f-e57b-4bbb-88d5-eff4e1433281.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021csl](https://www.wis-tns.org/object/2021csl)
 score: 0.947311
 
