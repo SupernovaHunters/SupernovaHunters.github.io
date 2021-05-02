@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-05-02 10:45:37 
+date:   2021-05-02 11:45:02 
 categories: discoveries
 ---
 
@@ -2041,4 +2041,11 @@ discovery date: 20 Nov 2020
 **spectroscopic type: SN IIP**
 
 discovery date: 20 Nov 2020
+
+
+----------
+### [SN 2020obe](https://wis-tns.weizmann.ac.il/object/2020obe)
+**spectroscopic type: SN Ia**
+
+discovery date: 19 Nov 2020
 
