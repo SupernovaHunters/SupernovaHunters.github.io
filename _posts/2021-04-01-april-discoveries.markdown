@@ -308,7 +308,10 @@ discovery date: 29 Apr 2021
 
 
 ----------
-### [AT 2021jaj](https://www.wis-tns.org/object/2021jaj)
+### [SN 2021jaj](https://www.wis-tns.org/object/2021jaj)
+
+**Spectroscopic type: SN II**
+
 score: 0.930071
 
 discovery date: 29 Apr 2021
