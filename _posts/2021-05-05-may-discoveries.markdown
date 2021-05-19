@@ -266,7 +266,10 @@ discovery date: 05 May 2021
 
 
 ----------
-### [AT 2021kqt](https://www.wis-tns.org/object/2021kqt)
+### [SN 2021kqt](https://www.wis-tns.org/object/2021kqt)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.92045
 
 discovery date: 05 May 2021
