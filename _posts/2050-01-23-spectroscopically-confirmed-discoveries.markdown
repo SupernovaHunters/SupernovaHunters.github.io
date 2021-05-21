@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-05-21 20:45:02 
+date:   2021-05-21 21:45:07 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021krf](https://wis-tns.weizmann.ac.il/object/2021krf)
+**spectroscopic type: SN Ic-pec**
+
+discovery date: 21 May 2021
 
 
 ----------
