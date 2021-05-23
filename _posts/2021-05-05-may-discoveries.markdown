@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2021lnt](https://www.wis-tns.org/object/2021lnt)
+score: 0.995285
+
+discovery date: 23 May 2021
+
+*'Ashok Ghosh'* **'Giuseppe Pappa'** **'B L Goodwin'** **'Celso Pessanha Machado'** 'David Maetschke' 'Michele T. Mazzucato' 'Benoît ROUSSEAU' 'Vishal Kumbhare' 'Paula Pancorbo Pabó' 'Amit Raka' 'Enzo Fedele' 'Víctor Linares Págan' 'Rosemary Billington' 'ARKA GHOSH' 'Meryl Goulbourne' 'jorge' 'Elisabeth Baeten' 'x303' 'Rafał Biros' 'Marvin W. Huddleston' 'Mark_Moffatt' 
+
+60950879
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9c63ef97-2f78-4c90-94b3-32c742917861.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0ddafffb-8a6c-4c89-ad2b-6fad9ece851a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b20cd76f-c903-4171-a980-e625c3cb3ed8.jpeg" width="200"/>
+
+60950880
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/13a17623-46a8-4e47-99f2-842d751fdbbf.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8cab8626-d56b-44b7-8a6b-9e2f77ed8c55.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/84268db0-720c-488a-b657-6543b65de0f9.jpeg" width="200"/>
+
+60950881
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9617d15f-219c-4e2e-be20-b31cbba0523b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3dd1f5aa-d36c-49c3-bd3e-731ac62eaad3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/44ddd507-eb40-4081-b0a1-35be0820bdb7.jpeg" width="200"/>
+
+60950882
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b7467d37-bd98-4f06-bddb-cdd842936116.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/79993750-9aa5-4038-bc5e-ef27442a118a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4d8539b4-2cf8-49fc-a2fc-93a67cbbef3d.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021inp](https://www.wis-tns.org/object/2021inp)
 score: 0.92107
 
