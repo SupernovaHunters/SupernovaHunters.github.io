@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2021msx](https://www.wis-tns.org/object/2021msx)
+score: 0.952922
+
+discovery date: 23 May 2021
+
+*'David Maetschke'* **'Elisabeth Baeten'** **'Dennis Richards'** **'B L Goodwin'** 'Amit Raka' 'Michele T. Mazzucato' 'Víctor Linares Págan' 'Piyush R. Maharana' 'Ashok Ghosh' 'Vishal Kumbhare' 'Benoît ROUSSEAU' 'Amoli Kakkar' 'Marvin W. Huddleston' 'Rafał Biros' 'Celso Pessanha Machado' 
+
+61146716
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e4471e4e-904a-4cd4-bdb2-7862a1f3c882.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/67af5df5-adae-49da-a8a6-e82fe8778977.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a028c4e6-b0bd-424d-807e-c79cfbca8d16.jpeg" width="200"/>
+
+61146721
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/aaeb5273-ccea-4dbf-a24e-683049603467.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bcfb94d5-e947-4e7a-8ae9-0961670a081a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8943b1a2-490f-454d-988a-b7de6d6d7990.jpeg" width="200"/>
+
+61146728
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0a463489-42d7-4d0a-ae2f-e502b813d61b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8b82b895-1da8-4ec3-a193-82a49ccfff8e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/22afb181-e88f-403e-9728-ee00ebf7d9d3.jpeg" width="200"/>
+
+61146734
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/967b3964-cfe1-4803-b747-cca9c558dcb1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/44e32410-dcb2-4899-ac89-14403d071724.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/04c171fd-6bad-4b81-a811-963de41e8625.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021kxf](https://www.wis-tns.org/object/2021kxf)
 
 **Spectroscopic type: SN Ia**
