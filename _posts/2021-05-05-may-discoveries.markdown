@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2021lvy](https://www.wis-tns.org/object/2021lvy)
+score: 0.952412
+
+discovery date: 24 May 2021
+
+***'David Maetschke'*** **'C. D\'silva '** **'Amoli Kakkar'** 'Michele T. Mazzucato' 'Elisabeth Baeten' 'Benoît ROUSSEAU' 'B L Goodwin' 'Celso Pessanha Machado' 'C. D'silva ' 'Marvin W. Huddleston' 'Ashok Ghosh' 'Enzo Fedele' 'RStorm' 'Henryk Krawczyk' 
+
+61360284
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bbf14f07-2320-495d-8573-46366cb39b31.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e6af359a-43f8-43a4-8805-3176fe320a4f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/17d5d83c-9069-4b14-b4c6-d7d120d6fef0.jpeg" width="200"/>
+
+61360285
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7262d38d-4dfe-4dae-8a8f-4b02573b0462.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/35e8dc4c-e273-478e-987d-45bdfe91e02c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f17b717c-cfa1-4372-892b-b10adaf877e9.jpeg" width="200"/>
+
+61360286
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/adcae23e-d657-4b06-be44-2c6c5526a43d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/24b31a72-6d1a-47a0-9cab-60386eb156ad.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6ba3bea2-1951-42cb-a0c2-29883c9f0637.jpeg" width="200"/>
+
+61360288
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7958689a-0b81-4664-8b3f-1a33247504f0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0bee0908-ec16-4d76-98d6-6dbe71eb5184.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/57f44b3d-e78c-4d2d-97d6-ac0701c16128.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021fvw](https://www.wis-tns.org/object/2021fvw)
 score: 0.998749
 
