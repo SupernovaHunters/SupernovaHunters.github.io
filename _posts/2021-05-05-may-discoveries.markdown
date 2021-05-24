@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2021lwy](https://www.wis-tns.org/object/2021lwy)
+score: 0.933705
+
+discovery date: 24 May 2021
+
+*'David Maetschke'* **'Amit Raka'** **'B L Goodwin'** **'Amoli Kakkar'** 'Michele T. Mazzucato' 'Benoît ROUSSEAU' 'Meryl Goulbourne' 'Marvin W. Huddleston' 'jorge' 'Mark_Moffatt' 'Elisabeth Baeten' 'Celso Pessanha Machado' 'Henryk Krawczyk' 
+
+61360004
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fd097a22-0980-40f1-98e5-ed4a2803be47.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/095f571b-e00d-4cbf-b61e-5437ff611a97.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a18f57c4-2741-41f8-a2ca-83ff5a7cc3c9.jpeg" width="200"/>
+
+61360005
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/be53d43d-d1bc-423d-8b49-44d93c511434.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2f84e3fd-7a61-44c2-bc9f-a4905d6bcfc0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/daaf627c-6eb3-4520-b473-6e56118683e0.jpeg" width="200"/>
+
+61360006
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/480e20b2-10e6-4706-ac3f-de2d26481301.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1201fdc8-b9ee-4666-9bbf-5e0f484043e1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d9384c8a-da7e-4c47-ba1d-58c6852dbddb.jpeg" width="200"/>
+
+61360008
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c8842ec1-3d86-4fc3-b637-59993073a286.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/28c00e88-7eea-41e5-9696-23ac424613e5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/91a70cc1-3480-4615-829b-9e3b45e4dde6.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021lev](https://www.wis-tns.org/object/2021lev)
 score: 0.999984
 
