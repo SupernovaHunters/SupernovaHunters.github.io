@@ -1,9 +1,23 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-05-24 05:45:02 
+date:   2021-05-24 06:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021inc](https://wis-tns.weizmann.ac.il/object/2021inc)
+**spectroscopic type: SN II**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2020vck](https://wis-tns.weizmann.ac.il/object/2020vck)
+**spectroscopic type: SN II**
+
+discovery date: 24 May 2021
 
 
 ----------
