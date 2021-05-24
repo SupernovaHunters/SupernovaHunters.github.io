@@ -8,6 +8,101 @@ categories: discoveries
 
 
 ----------
+### [AT 2021lnl](https://www.wis-tns.org/object/2021lnl)
+score: 0.988865
+
+discovery date: 24 May 2021
+
+*'David Maetschke'* **'Dipashri Acharya'** **'B L Goodwin'** **'Amit Raka'** 'Michele T. Mazzucato' 'Michał Biesiada' 'Virgilio Gonano' 'Benoît ROUSSEAU' 'Andres Eloy Martinez Rojas' 'Dennis Richards' 'Lewis Grieve' 'Víctor Linares Págan' 'Marvin W. Huddleston' 'Elisabeth Baeten' 'Brett Sorby' 'Celso Pessanha Machado' 'Herbert Gunell' 'Henryk Krawczyk' 
+
+61221905
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cdead9a1-dbae-4d2d-8a71-ec21c0f3dfac.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/17166f4e-d7f3-4cc4-85cc-7ce786987644.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1f6e36ad-9519-4b3e-8838-326c4cda2bd2.jpeg" width="200"/>
+
+61221912
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b52fe997-e099-4f58-806a-5c9149ae5fb2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/aa2944ec-28e1-4841-9d24-4a4be9684429.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3325ecca-204b-4ec5-960e-f440ee20373c.jpeg" width="200"/>
+
+61221920
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/119b904d-92e5-499d-9a17-df55b512f27c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3d01f01d-333f-474e-8031-115ff02247c4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e7dbcd81-f5d0-4722-adf0-93f7e5b6fabb.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2021lta](https://www.wis-tns.org/object/2021lta)
+score: 0.958368
+
+discovery date: 24 May 2021
+
+*'Michele T. Mazzucato'* **'Leon Kuhlmann'** **'Dipashri Acharya'** **'Herbert Gunell'** 'David Maetschke' 'Amit Raka' 'B L Goodwin' 'Vishal Kumbhare' 'Elisabeth Baeten' 'Ashok Ghosh' 'Andres Eloy Martinez Rojas' 'Amoli Kakkar' 'Víctor Linares Págan' 'Marvin W. Huddleston' 'Lewis Grieve' 'Brett Sorby' 'Henryk Krawczyk' 
+
+61223370
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/400fa8ab-883b-4c70-9109-6fb34593aced.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a2f775ae-2644-4d69-ac20-a3da5bd6ed62.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7d8e44e5-3fa2-4a95-b72c-15668ec690aa.jpeg" width="200"/>
+
+61223377
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7f61f737-fc51-4c02-af80-8b5ef752b5ea.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d057323a-897a-4c0e-9813-7061bc713856.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1da50792-7ca7-4b88-b123-33f82c790be6.jpeg" width="200"/>
+
+61223386
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/71e9656e-cedf-45f6-ac37-ce7472c782b7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/775859b3-5193-4f69-99e3-14b36b492f5e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/96a28c60-a0b2-4440-8ec7-16e337dc79e1.jpeg" width="200"/>
+
+61223393
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/09d64d90-725c-48bf-bd41-cea2cbcbb69b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a8f412f7-c429-4fa8-a5ac-7451c14d6e0b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ba1098bb-df04-4c73-af86-d9c6555f76af.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2021mqa](https://www.wis-tns.org/object/2021mqa)
+aka. **PS21dwy**
+
+score: 0.963745
+
+discovery date: 24 May 2021
+
+*'David Maetschke'* **'Amit Raka'** **'Ava'** **'Celso Pessanha Machado'** 'B L Goodwin' 'Michele T. Mazzucato' 'Daniel Sánchez Solís' 'Vishal Kumbhare' 'Jordan Rich' 'Dennis Richards' 'Arindam Pramanik' 'Encho' 'Dipashri Acharya' 'Benoît ROUSSEAU' 'Virgilio Gonano' 'Elisabeth Baeten' 'Ashok Ghosh' 'Amoli Kakkar' 'Marvin W. Huddleston' 'Rosemary Billington' 'Henryk Krawczyk' 'Soumodeep Pramanick' 'Rajesh Bhalla ' 
+
+61157841
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e3a7d059-48c9-4742-a667-4e7305e1be27.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6f229700-7438-444a-93bf-5816b82e1a65.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1119d62c-faf4-4c66-b09c-5029be2fa264.jpeg" width="200"/>
+
+61157848
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e92fb8b1-e37d-481a-a2f7-1ce722de1d89.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dc46747a-5c01-4672-a049-3b74a2cf138c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2ad4aeae-f0ed-4bf0-a142-f3a3d2b4418e.jpeg" width="200"/>
+
+61157857
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/665f0d87-561c-4c58-8742-a3abe666ab24.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9f10ae38-2b77-43ce-9ec0-a6c7e954c21c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a31b5c0b-878f-4a57-a4c6-aafb532c9f6f.jpeg" width="200"/>
+
+61157864
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cad3c5c8-73de-4b6d-bde0-240460d24079.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/602be543-5d38-4d2d-8c6b-8989029422ec.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9a6c7b3c-c833-4f7d-8d21-181bb5ee724e.jpeg" width="200"/>
+
+61157870
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4726193d-aaf4-4be7-a7f4-a1491945059e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/64f3625a-b24f-4c94-adfb-bc32e42f0660.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e95793c5-c7a8-4e4d-8478-0ea1ea393bfb.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021dks](https://www.wis-tns.org/object/2021dks)
 
 **Spectroscopic type: SN Ia**
