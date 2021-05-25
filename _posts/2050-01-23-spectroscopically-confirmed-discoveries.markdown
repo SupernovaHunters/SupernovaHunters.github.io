@@ -1,9 +1,23 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-05-25 08:45:02 
+date:   2021-05-25 09:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021lea](https://wis-tns.weizmann.ac.il/object/2021lea)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021iso](https://wis-tns.weizmann.ac.il/object/2021iso)
+**spectroscopic type: SN**
+
+discovery date: 25 May 2021
 
 
 ----------
