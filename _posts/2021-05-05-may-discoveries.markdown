@@ -8,6 +8,66 @@ categories: discoveries
 
 
 ----------
+### [SN 2021lwz](https://www.wis-tns.org/object/2021lwz)
+
+**Spectroscopic type: SLSN-I**
+
+score: 0.940592
+
+discovery date: 25 May 2021
+
+*'David Maetschke'* **'Marvin W. Huddleston'** **'Urit Gupta'** **'Henryk Krawczyk'** 'Michele T. Mazzucato' 'B L Goodwin' 'Triskeleon' 'Celso Pessanha Machado' 'Virgilio Gonano' 'Brett Sorby' 'Benoît ROUSSEAU' 'Michał Biesiada' 'Elisabeth Baeten' 'Dennis Richards' 'Taylor Herschelman' 'Ashok Ghosh' 'ARKA GHOSH' 'Hassan Zia' 'Charlie Steiner' 'Sallyann Chesson' 
+
+61279294
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/997efd86-b46f-4f76-b35b-99a9be33b0fb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/96285550-867b-4cb0-a8aa-167cd5ba92d0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a428e4fa-c62f-48d6-a442-6886e4044722.jpeg" width="200"/>
+
+61279295
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/afb9e007-db1c-41d9-b70f-afbd0cfe3585.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1b95ddca-d89c-4d5c-b171-ace629db74fd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/56ed93a8-350e-490b-8055-13de544ad721.jpeg" width="200"/>
+
+61279296
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4fd96899-20db-401c-943b-8249a31d784d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/714eb0b4-6594-4d66-bc9c-d0d4f30c7f85.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c11224b7-2701-4136-bc7b-cb8f0e11d96b.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2021inb](https://www.wis-tns.org/object/2021inb)
+score: 0.975224
+
+discovery date: 25 May 2021
+
+*'David Maetschke'* **'Dennis Richards'** **'Christopher Tanner'** **'Dipashri Acharya'** 'Michele T. Mazzucato' 'B L Goodwin' 'Henryk Krawczyk' 'Marvin W. Huddleston' 'Celso Pessanha Machado' 'Rosemary Billington' 'Benoît ROUSSEAU' 'Taylor Herschelman' 
+
+61517861
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a15cfebb-bfe0-43a7-a7e8-e025cafd0309.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c3ce4975-2f9a-4e03-92da-aba675a0964b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1ddfa28a-4d84-47d3-bfef-f7fe873154c8.jpeg" width="200"/>
+
+61517862
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/892a3aec-1e6b-446f-bac7-5b10097f357e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b63c12bd-7af8-40e9-95e0-56162cd85193.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/20b2d4f7-41ac-4b7d-bdc9-1d3ace2eac1a.jpeg" width="200"/>
+
+61517863
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3049c7e6-4096-4c23-b701-72d817f27aa4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/76d64b9c-2c83-4c1b-9219-95152e2ed829.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8b7aef2a-b116-4eee-a182-63662c179c8c.jpeg" width="200"/>
+
+61517864
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3ce84edd-fd11-4d19-a631-1e9ccf5d839e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1ec188ee-5e2d-4ecd-a61e-52bea9061714.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9c46f676-079e-4f4f-ab9c-493a58e02061.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021gvv](https://www.wis-tns.org/object/2021gvv)
 
 **Spectroscopic type: SN II**
