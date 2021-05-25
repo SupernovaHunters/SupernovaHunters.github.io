@@ -8,6 +8,34 @@ categories: discoveries
 
 
 ----------
+### [AT 2021neu](https://www.wis-tns.org/object/2021neu)
+aka. **PS21efe**
+
+score: 0.922804
+
+discovery date: 25 May 2021
+
+***'David Maetschke'*** **'B L Goodwin'** **'Henryk Krawczyk'** 'Michele T. Mazzucato' 'Rajesh Bhalla ' 'Rosemary Billington' 'Dennis Richards' 'Marvin W. Huddleston' 
+
+61545421
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/926a4a2a-991f-4ff0-9483-8cbe2418c930.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/77356fa9-2b33-48c2-acd0-519da84a047e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e301e7fd-dcd8-4180-b292-c0ec7121dfd8.jpeg" width="200"/>
+
+61545422
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/20ac3bd5-0a5b-47f1-967a-232d94ea39ba.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/390d6a3d-36ca-47bd-9a60-a42d64d14fd5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/886fafec-0051-4ace-b047-0b6ceeaeb2c0.jpeg" width="200"/>
+
+61545423
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2114af07-99e8-4752-8d93-f97b2e594d4e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/95113131-ee9b-4d92-bd07-74337ec94dd3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8374d706-e483-40ce-a057-03720d29df8b.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021nah](https://www.wis-tns.org/object/2021nah)
 aka. **PS21eaj**
 
