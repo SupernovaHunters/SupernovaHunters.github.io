@@ -1,9 +1,51 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-05-25 06:45:02 
+date:   2021-05-25 07:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021lhg](https://wis-tns.weizmann.ac.il/object/2021lhg)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2020acol](https://wis-tns.weizmann.ac.il/object/2020acol)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021lvg](https://wis-tns.weizmann.ac.il/object/2021lvg)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021ecu](https://wis-tns.weizmann.ac.il/object/2021ecu)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021hji](https://wis-tns.weizmann.ac.il/object/2021hji)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021iue](https://wis-tns.weizmann.ac.il/object/2021iue)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
 
 
 ----------
