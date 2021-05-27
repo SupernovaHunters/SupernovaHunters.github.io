@@ -8,6 +8,27 @@ categories: discoveries
 
 
 ----------
+### [AT 2021lzj](https://www.wis-tns.org/object/2021lzj)
+score: 0.954765
+
+discovery date: 27 May 2021
+
+*'David Maetschke'* **'Rosemary Billington'** **'Sly416'** **'Henryk Krawczyk'** 'Benoît ROUSSEAU' 'Rafał Biros' 'B L Goodwin' 'Michele T. Mazzucato' 
+
+61703516
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c5934383-e070-48c4-8513-2aaa4c6499bf.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/58b644c8-5639-4368-ac47-1129d8fb19be.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/316d6fa6-be68-4d25-bd73-fc1b765d3f1e.jpeg" width="200"/>
+
+61703519
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6e26cb68-8571-4260-af85-f14bda5278aa.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4b875abb-30a3-4586-92f8-e3e82ceae3ff.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e2aecf70-35c7-422c-aef8-d3b745e2a1c8.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021kwv](https://www.wis-tns.org/object/2021kwv)
 score: 0.930854
 
