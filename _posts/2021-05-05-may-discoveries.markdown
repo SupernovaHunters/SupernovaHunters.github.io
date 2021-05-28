@@ -3089,7 +3089,10 @@ discovery date: 24 May 2021
 
 
 ----------
-### [AT 2021lzc](https://www.wis-tns.org/object/2021lzc)
+### [SN 2021lzc](https://www.wis-tns.org/object/2021lzc)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.986165
 
 discovery date: 24 May 2021
