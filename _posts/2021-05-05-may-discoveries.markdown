@@ -7622,7 +7622,10 @@ discovery date: 21 May 2021
 
 
 ----------
-### [AT 2021lne](https://www.wis-tns.org/object/2021lne)
+### [SN 2021lne](https://www.wis-tns.org/object/2021lne)
+
+**Spectroscopic type: SN II**
+
 score: 0.986901
 
 discovery date: 21 May 2021
