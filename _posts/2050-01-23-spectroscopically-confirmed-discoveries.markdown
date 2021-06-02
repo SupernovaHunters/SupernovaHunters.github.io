@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-06-02 00:45:02 
+date:   2021-06-02 01:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021nnk](https://wis-tns.weizmann.ac.il/object/2021nnk)
+**spectroscopic type: SN Ia**
+
+discovery date: 01 Jun 2021
 
 
 ----------
@@ -39,6 +46,13 @@ discovery date: 30 May 2021
 **spectroscopic type: SN II**
 
 discovery date: 30 May 2021
+
+
+----------
+### [SN 2021nqm](https://wis-tns.weizmann.ac.il/object/2021nqm)
+**spectroscopic type: SN Ia**
+
+discovery date: 28 May 2021
 
 
 ----------
@@ -79,6 +93,13 @@ discovery date: 25 May 2021
 ----------
 ### [SN 2021hse](https://wis-tns.weizmann.ac.il/object/2021hse)
 **spectroscopic type: SN II**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021nim](https://wis-tns.weizmann.ac.il/object/2021nim)
+**spectroscopic type: SN Ia**
 
 discovery date: 25 May 2021
 
@@ -197,6 +218,13 @@ discovery date: 24 May 2021
 
 ----------
 ### [SN 2021dcu](https://wis-tns.weizmann.ac.il/object/2021dcu)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021lta](https://wis-tns.weizmann.ac.il/object/2021lta)
 **spectroscopic type: SN Ia**
 
 discovery date: 24 May 2021
@@ -400,6 +428,13 @@ discovery date: 22 May 2021
 
 ----------
 ### [SN 2021knj](https://wis-tns.weizmann.ac.il/object/2021knj)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 May 2021
+
+
+----------
+### [SN 2021mqi](https://wis-tns.weizmann.ac.il/object/2021mqi)
 **spectroscopic type: SN Ia**
 
 discovery date: 22 May 2021

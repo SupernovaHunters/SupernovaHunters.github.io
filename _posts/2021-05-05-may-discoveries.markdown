@@ -2004,7 +2004,10 @@ discovery date: 25 May 2021
 
 
 ----------
-### [AT 2021nim](https://www.wis-tns.org/object/2021nim)
+### [SN 2021nim](https://www.wis-tns.org/object/2021nim)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.9543
 
 discovery date: 25 May 2021
@@ -4004,7 +4007,10 @@ discovery date: 24 May 2021
 
 
 ----------
-### [AT 2021lta](https://www.wis-tns.org/object/2021lta)
+### [SN 2021lta](https://www.wis-tns.org/object/2021lta)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.958368
 
 discovery date: 24 May 2021
@@ -8022,7 +8028,10 @@ discovery date: 22 May 2021
 
 
 ----------
-### [AT 2021mqi](https://www.wis-tns.org/object/2021mqi)
+### [SN 2021mqi](https://www.wis-tns.org/object/2021mqi)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.933169
 
 discovery date: 22 May 2021
