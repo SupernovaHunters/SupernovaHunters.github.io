@@ -8,6 +8,42 @@ categories: discoveries
 
 
 ----------
+### [AT 2021lnx](https://www.wis-tns.org/object/2021lnx)
+score: 0.913397
+
+discovery date: 02 Jun 2021
+
+*'Michał Biesiada'* **'Christopher Tanner'** **'B L Goodwin'** **'Charlie Steiner'** 'Michele T. Mazzucato' 'David Maetschke' 'Benoît ROUSSEAU' 
+
+62098040
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7269c0dc-c88a-4256-b3a6-aaaf602fbcbc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d1582a6f-a64a-4a64-ac59-9d885a98f05c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/60293a45-1037-4510-bd76-5bcf040bed97.jpeg" width="200"/>
+
+62098049
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/952c7e79-d766-44ef-9827-7c62ed0949de.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7420e526-0f01-4a73-aa94-94be07ed42fe.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c99221be-6dac-4221-a51e-aff4a2b8b81e.jpeg" width="200"/>
+
+62098055
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9779605d-4f29-46b4-befe-05c6f23f5b87.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/574e1122-06d0-4360-b00c-ed1918a721dc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/aa543261-dd36-4dd8-be6d-133b92e610d3.jpeg" width="200"/>
+
+62098064
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/da352312-0458-4e98-bbd4-5d76c6391741.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4dbc91a4-22b5-496d-9e33-7e044f455206.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f9253801-7603-422a-a0a0-27d6be4d7cd8.jpeg" width="200"/>
+
+62098078
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b3d684bf-d561-46e8-925a-4e6864ec1cad.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/84d22c46-32a6-4476-b492-537327e710f5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/72a7f239-fd80-4dac-9381-e07faf64f42b.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021inz](https://www.wis-tns.org/object/2021inz)
 score: 0.97513
 
