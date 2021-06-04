@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-06-04 20:45:01 
+date:   2021-06-04 21:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021mim](https://wis-tns.weizmann.ac.il/object/2021mim)
+**spectroscopic type: SN Ia**
+
+discovery date: 04 Jun 2021
 
 
 ----------
