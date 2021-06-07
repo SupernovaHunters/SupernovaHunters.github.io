@@ -342,7 +342,10 @@ discovery date: 02 Jun 2021
 
 
 ----------
-### [AT 2021nrr](https://www.wis-tns.org/object/2021nrr)
+### [SN 2021nrr](https://www.wis-tns.org/object/2021nrr)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.913397
 
 discovery date: 02 Jun 2021
