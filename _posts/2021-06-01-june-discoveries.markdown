@@ -443,7 +443,10 @@ discovery date: 02 Jun 2021
 
 
 ----------
-### [AT 2021nip](https://www.wis-tns.org/object/2021nip)
+### [SN 2021nip](https://www.wis-tns.org/object/2021nip)
+
+**Spectroscopic type: SN II**
+
 score: 0.900217
 
 discovery date: 02 Jun 2021
