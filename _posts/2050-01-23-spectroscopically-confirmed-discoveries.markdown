@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-06-10 01:45:02 
+date:   2021-06-10 02:45:02 
 categories: discoveries
 ---
 
@@ -228,6 +228,13 @@ discovery date: 25 May 2021
 **spectroscopic type: SN Ic-pec**
 
 discovery date: 25 May 2021
+
+
+----------
+### [SN 2021luu](https://wis-tns.weizmann.ac.il/object/2021luu)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
 
 
 ----------
