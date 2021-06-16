@@ -70,7 +70,10 @@ discovery date: 04 Jun 2021
 
 
 ----------
-### [AT 2021ocv](https://www.wis-tns.org/object/2021ocv)
+### [SN 2021ocv](https://www.wis-tns.org/object/2021ocv)
+
+**Spectroscopic type: SN II**
+
 score: 0.924034
 
 discovery date: 04 Jun 2021
