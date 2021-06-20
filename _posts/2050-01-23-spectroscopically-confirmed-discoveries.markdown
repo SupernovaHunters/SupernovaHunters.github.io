@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-06-20 21:45:02 
+date:   2021-06-20 22:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021lvb](https://wis-tns.weizmann.ac.il/object/2021lvb)
+**spectroscopic type: SN Ib**
+
+discovery date: 20 Jun 2021
 
 
 ----------
