@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-06-21 01:45:02 
+date:   2021-06-21 02:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2020shb](https://wis-tns.weizmann.ac.il/object/2020shb)
+**spectroscopic type: SN II**
+
+discovery date: 21 Jun 2021
 
 
 ----------
