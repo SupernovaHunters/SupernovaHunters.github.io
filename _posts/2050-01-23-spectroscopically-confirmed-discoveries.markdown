@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-06-23 09:45:04 
+date:   2021-06-23 10:45:07 
 categories: discoveries
 ---
 
@@ -56,6 +56,13 @@ discovery date: 15 Jun 2021
 
 
 ----------
+### [SN 2021oes](https://wis-tns.weizmann.ac.il/object/2021oes)
+**spectroscopic type: SLSN-I**
+
+discovery date: 15 Jun 2021
+
+
+----------
 ### [SN 2021ezt](https://wis-tns.weizmann.ac.il/object/2021ezt)
 **spectroscopic type: SN IIn**
 
@@ -72,6 +79,13 @@ discovery date: 15 Jun 2021
 ----------
 ### [SN 2021lvc](https://wis-tns.weizmann.ac.il/object/2021lvc)
 **spectroscopic type: SN Ia**
+
+discovery date: 15 Jun 2021
+
+
+----------
+### [SN 2021pat](https://wis-tns.weizmann.ac.il/object/2021pat)
+**spectroscopic type: SN IIb**
 
 discovery date: 15 Jun 2021
 
