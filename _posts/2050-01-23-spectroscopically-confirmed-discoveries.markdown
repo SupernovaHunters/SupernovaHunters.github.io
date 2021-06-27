@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-06-27 20:45:02 
+date:   2021-06-27 21:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [AT 2018eub](https://wis-tns.weizmann.ac.il/object/2018eub)
+**spectroscopic type: CV**
+
+discovery date: 27 Jun 2021
 
 
 ----------
