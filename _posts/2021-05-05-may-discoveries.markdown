@@ -1445,7 +1445,10 @@ discovery date: 25 May 2021
 
 
 ----------
-### [AT 2021mkr](https://www.wis-tns.org/object/2021mkr)
+### [SN 2021mkr](https://www.wis-tns.org/object/2021mkr)
+
+**Spectroscopic type: SLSN-I**
+
 score: 0.931154
 
 discovery date: 25 May 2021
