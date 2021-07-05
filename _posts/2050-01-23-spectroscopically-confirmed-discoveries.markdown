@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-07-05 09:45:02 
+date:   2021-07-05 10:45:02 
 categories: discoveries
 ---
 
@@ -23,6 +23,13 @@ discovery date: 27 Jun 2021
 ----------
 ### [SN 2021eay](https://wis-tns.weizmann.ac.il/object/2021eay)
 **spectroscopic type: SN II**
+
+discovery date: 27 Jun 2021
+
+
+----------
+### [SN 2021pnp](https://wis-tns.weizmann.ac.il/object/2021pnp)
+**spectroscopic type: SN IIb**
 
 discovery date: 27 Jun 2021
 
