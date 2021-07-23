@@ -5976,7 +5976,10 @@ discovery date: 18 Jul 2021
 
 
 ----------
-### [AT 2021ras](https://www.wis-tns.org/object/2021ras)
+### [SN 2021ras](https://www.wis-tns.org/object/2021ras)
+
+**Spectroscopic type: SN Ibn/Icn**
+
 score: 0.944257
 
 discovery date: 18 Jul 2021

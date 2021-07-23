@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2021-07-23 20:45:02 
+date:   2021-07-23 21:45:02 
 categories: discoveries
 ---
 
@@ -11,6 +11,13 @@ categories: discoveries
 **spectroscopic type: SN IIn**
 
 discovery date: 21 Jul 2021
+
+
+----------
+### [SN 2021ras](https://wis-tns.weizmann.ac.il/object/2021ras)
+**spectroscopic type: SN Ibn/Icn**
+
+discovery date: 18 Jul 2021
 
 
 ----------
