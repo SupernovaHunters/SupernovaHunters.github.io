@@ -8495,7 +8495,10 @@ discovery date: 26 Jun 2021
 
 
 ----------
-### [AT 2021qar](https://www.wis-tns.org/object/2021qar)
+### [SN 2021qar](https://www.wis-tns.org/object/2021qar)
+
+**Spectroscopic type: SN II**
+
 score: 0.968826
 
 discovery date: 26 Jun 2021
