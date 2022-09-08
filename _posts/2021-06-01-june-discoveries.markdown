@@ -7126,7 +7126,10 @@ discovery date: 25 Jun 2021
 
 
 ----------
-### [AT 2021mfh](https://www.wis-tns.org/object/2021mfh)
+### [SN 2021mfh](https://www.wis-tns.org/object/2021mfh)
+
+**Spectroscopic type: SN Ib**
+
 score: 0.998973
 
 discovery date: 25 Jun 2021
@@ -9991,7 +9994,10 @@ discovery date: 27 Jun 2021
 
 
 ----------
-### [AT 2021rwz](https://www.wis-tns.org/object/2021rwz)
+### [SN 2021rwz](https://www.wis-tns.org/object/2021rwz)
+
+**Spectroscopic type: SLSN-I**
+
 aka. **PS21hfp**
 
 score: 0.952788
