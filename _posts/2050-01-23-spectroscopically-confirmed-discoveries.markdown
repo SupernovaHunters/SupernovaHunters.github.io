@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-09-09 18:45:09 
+date:   2022-09-09 19:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021vrm](https://wis-tns.weizmann.ac.il/object/2021vrm)
+**spectroscopic type: SN Ia**
+
+discovery date: 09 Sep 2022
 
 
 ----------
