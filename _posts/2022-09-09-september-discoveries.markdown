@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2021tte](https://www.wis-tns.org/object/2021tte)
+score: 0.978972
+
+discovery date: 09 Sep 2022
+
+*'Michele T. Mazzucato'* **'Cledison Marcos da Silva'** **'magalu'** **'Pawel Tluscik'** 'Valmir Martins de Morais' 'Henryk Krawczyk' 'Udgam Pandey' 'Virgilio Gonano' 'Felipe Sérvulo M. Costa' 'B L Goodwin' 'David Daelman' 'Ashok Ghosh' 'Rosemary Billington' 'Meryl Goulbourne' 'Amit Raka' 'Rita Jónyer' 'SRIJITA BISWAS' 'Sauro Gaudenzi' 
+
+65498925
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f370b994-8d57-44ee-8d8a-9415f9fe2c1d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/69e037a0-7728-44b8-9559-2cf91fbd5540.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/075d749f-61db-47f0-b04c-9d721617fe6f.jpeg" width="200"/>
+
+65498927
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ab23dd0d-6935-4a1f-8d9c-0bb4bd89f533.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b0508554-52f0-445c-bf05-b74fad38c77b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/af6a074e-c236-49b9-96e6-aa501a7e8e05.jpeg" width="200"/>
+
+65498930
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e8bce303-f602-41a1-ada3-c573a2731d77.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d700bf82-3008-414e-8374-6115384320c6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cdc1b4de-fd0b-4502-9395-7e9b1684fa6d.jpeg" width="200"/>
+
+65498932
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/70f4e0aa-e62b-43fc-a66d-f9f4de911727.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ed19c1c9-c5cb-4bc5-9be0-865e8ae8966e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/aa6ed2c6-611f-4ac4-97f9-358c224f6c34.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2021vch](https://www.wis-tns.org/object/2021vch)
 
 **Spectroscopic type: CV**
