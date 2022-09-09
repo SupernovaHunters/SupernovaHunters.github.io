@@ -8,6 +8,72 @@ categories: discoveries
 
 
 ----------
+### [AT 2021uss](https://www.wis-tns.org/object/2021uss)
+aka. **PS21ilu**
+
+score: 0.982453
+
+discovery date: 09 Sep 2022
+
+*'Michele T. Mazzucato'* **'David Daelman'** **'Giuseppe Pappa'** **'Meryl Goulbourne'** 'Valmir Martins de Morais' 'Henryk Krawczyk' 'magalu' 'B L Goodwin' 'WRSunset' 'Felipe Sérvulo M. Costa' 'Pawel Tluscik' 'Richard Nairn' 'Virgilio Gonano' 'adiazhernandez47' 'Amit Raka' 
+
+65438795
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/73294c1b-acfc-48df-a123-68536e5705dd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6fa8ae62-3ef0-4be4-a91f-7fa2aa56e6d6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a3c4270a-bc94-46f0-9aab-a9c4526594e8.jpeg" width="200"/>
+
+65438798
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a0103b6d-a1bc-408c-bf23-d0fb14417b2c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2f232403-4093-488d-80c7-1972343bc1ea.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d30c8d26-3f54-4b25-923b-a174c20a2648.jpeg" width="200"/>
+
+65438801
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a61d607d-958b-4aef-a6c3-eaeb4b9c7eb9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a665c3f5-a4bd-46b2-b353-95425bbca81f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ab869708-2a9d-4536-8e7a-edf46fb5c580.jpeg" width="200"/>
+
+65438803
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e4e82caa-c002-4b2c-b20e-772541ec7f3b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ba3c7cc1-a3d3-4a6e-9287-df6746ae5c6f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8ce22a3f-f7be-4009-9c97-9893afb506db.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2021upb](https://www.wis-tns.org/object/2021upb)
+aka. **PS21ijl**
+
+score: 0.99573
+
+discovery date: 09 Sep 2022
+
+*'Michele T. Mazzucato'* **'Giuseppe Pappa'** **'B L Goodwin'** **'Ashok Ghosh'** 'Valmir Martins de Morais' 'Henryk Krawczyk' 'Virgilio Gonano' 'magalu' 'vickietm1978' 'Felipe Sérvulo M. Costa' 'Rosemary Billington' 'William Li' 'cmjm91' 'David Daelman' 'Pawel Tluscik' 'Richard Nairn' 'JTW726' 'Harshita Dhingra' 'Amit Raka' 'adiazhernandez47' 
+
+65531997
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ff1f4891-0f9a-448e-a1ca-da3ba0e8e579.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ba7e1fcb-23ab-49d2-9a9c-99e8efbd0221.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3d335a6e-f535-48e0-9407-12111999842c.jpeg" width="200"/>
+
+65531999
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bc2b62af-4e1f-4a61-99fa-c2f748a23ebd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/11ffed30-6f55-4080-9ae8-0a9e4df55a94.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9df44c5c-30b3-42ef-bee0-20fac62d9deb.jpeg" width="200"/>
+
+65532001
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0a1683c5-4f8f-4c0a-9d85-32ccac524f6b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/57fb9005-788f-426f-bf00-6df5f1ff7926.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fffdc46b-734f-4c03-880d-2efc59f22afd.jpeg" width="200"/>
+
+65532005
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c118b3b3-7879-4d2c-b47e-3978dbeb3fb0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9484b2a8-81d5-43ad-bcf5-60df942270e1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1819e17b-8d6e-480d-8d73-9e8af43f7006.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021wrw](https://www.wis-tns.org/object/2021wrw)
 aka. **PS21jkp**
 
