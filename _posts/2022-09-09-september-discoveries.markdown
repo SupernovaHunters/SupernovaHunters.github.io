@@ -8,6 +8,29 @@ categories: discoveries
 
 
 ----------
+### [AT 2021wrw](https://www.wis-tns.org/object/2021wrw)
+aka. **PS21jkp**
+
+score: 0.97508
+
+discovery date: 09 Sep 2022
+
+*'B L Goodwin'* **'Rosemary Billington'** **'Henryk Krawczyk'** **'Valmir Martins de Morais'** 'Pawel Tluscik' 'Michele T. Mazzucato' 'Michał Biesiada' 'cmjm91' 'Richard Nairn' 'WRSunset' 'Benoît ROUSSEAU' 'Felipe Sérvulo M. Costa' 'magalu' 'Amit Raka' 'Rakhi Roy' 'David Daelman' 'SRIJITA BISWAS' 
+
+65649104
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/333c76e3-8837-4d31-ab8e-5fee26621094.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/df31df54-eec5-4e5a-ba74-82229f1e745f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/92436a7c-cc1d-40b8-9dc6-7fc56063176a.jpeg" width="200"/>
+
+65649105
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/69767067-2837-4f3e-9327-1311df524324.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/28c22c98-e257-4f21-8856-fb5b9588567a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9039a22b-9701-4d68-9f97-462f4b0bc6c7.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021usq](https://www.wis-tns.org/object/2021usq)
 aka. **PS21ils**
 
