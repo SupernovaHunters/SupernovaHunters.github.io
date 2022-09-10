@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-09-10 01:45:03 
+date:   2022-09-10 02:45:03 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2021uqu](https://wis-tns.weizmann.ac.il/object/2021uqu)
+**spectroscopic type: SN**
+
+discovery date: 10 Sep 2022
 
 
 ----------
