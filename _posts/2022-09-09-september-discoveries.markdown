@@ -8,6 +8,39 @@ categories: discoveries
 
 
 ----------
+### [AT 2022ugi](https://www.wis-tns.org/object/2022ugi)
+aka. **PS22iji**
+
+score: 0.955545
+
+discovery date: 17 Sep 2022
+
+*'Meryl Goulbourne'* **'Hassan Zia'** **'Piyush R. Maharana'** **'Rosemary Billington'** 'Benoît ROUSSEAU' 'B L Goodwin' 'Cledison Marcos da Silva' 'PreJhTrg' 
+
+80520703
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b6b99cbc-b516-40d4-bd81-f460f4991e78.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/492adabe-5086-4adb-b00f-adcfffa74220.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0c547db7-f611-43da-aeb5-d6b21edafdac.jpeg" width="200"/>
+
+80520704
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5e3a7396-1ee5-4da3-a899-65bfdd667864.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/208a4cc7-c478-400b-972d-c3ef10ac1ef6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ff2e8038-4a55-4d36-8e3a-530b02c0ee73.jpeg" width="200"/>
+
+80520705
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/01cd0fb7-f43f-4dd4-9376-ee217320aefa.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1d5b7d7b-5c64-4940-af27-1fead378a2e5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/65082718-d4ad-42ce-a830-a28e9eb98845.jpeg" width="200"/>
+
+80520706
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a6fe895d-8a24-4e7f-8e81-f95f8d20657d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/45c9d124-61d8-4073-a6a2-39b7cadca3ce.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fd58b9cd-ad84-4b85-a9c6-6208f99fda90.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2022rll](https://www.wis-tns.org/object/2022rll)
 
 **Spectroscopic type: SN Ia**
