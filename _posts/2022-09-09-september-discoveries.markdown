@@ -8,6 +8,34 @@ categories: discoveries
 
 
 ----------
+### [AT 2022ugc](https://www.wis-tns.org/object/2022ugc)
+aka. **PS22ija**
+
+score: 0.975976
+
+discovery date: 17 Sep 2022
+
+*'Meryl Goulbourne'* **'Rosemary Billington'** **'Ken W. Smith'** **'Elisabeth Baeten'** 'Benoît ROUSSEAU' 'B L Goodwin' 'Cledison Marcos da Silva' 
+
+80525876
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0d51a4eb-82b6-4f2d-8c97-b57dac8cb348.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/48289ff9-0161-4e14-bd8f-89e4adcd3072.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a733dea3-589c-4cb5-9b15-37aef66f7c0b.jpeg" width="200"/>
+
+80525877
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c1559e69-9c95-40db-ac61-0e88489d6d7e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d9eb0f93-a7af-4316-ac51-2a37a40306e1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/26e54b4f-3c47-4a14-89c7-23017b781662.jpeg" width="200"/>
+
+80525880
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fd9c1547-3fda-4185-a344-774493607d43.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/05955d20-e4cc-40de-bf0f-f5867d24dcc1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fdd3c79b-0c39-448f-9009-08f6ec7435f9.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2021vbw](https://www.wis-tns.org/object/2021vbw)
 aka. **PS21ioe**
 
