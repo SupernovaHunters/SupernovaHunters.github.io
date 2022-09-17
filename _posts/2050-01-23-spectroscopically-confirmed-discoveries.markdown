@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-09-17 04:45:01 
+date:   2022-09-17 05:45:03 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2022rkp](https://wis-tns.weizmann.ac.il/object/2022rkp)
+**spectroscopic type: SN**
+
+discovery date: 17 Sep 2022
 
 
 ----------
