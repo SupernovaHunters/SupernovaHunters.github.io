@@ -8,6 +8,89 @@ categories: discoveries
 
 
 ----------
+### [SN 2022rll](https://www.wis-tns.org/object/2022rll)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.952871
+
+discovery date: 17 Sep 2022
+
+***'Meryl Goulbourne'*** **'Rosemary Billington'** **'PreJhTrg'** 'Benoît ROUSSEAU' 'Cledison Marcos da Silva' 'Gustavo Afonso Gomes' 
+
+80521615
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6347eba7-3f69-43f4-ac18-6485fabebe91.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9a7f270f-8469-4c05-9910-2fe473cde1a6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/23045049-9a25-4d80-b588-a1d065308df2.jpeg" width="200"/>
+
+80521629
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fd7bbcc7-8d73-421f-b291-787f49f5df3a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ee7a4983-e32d-4d25-89ba-e569a2623d2c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4b6e504a-c703-4b44-8348-96fb2f23f806.jpeg" width="200"/>
+
+80521630
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/200dee6d-89f3-49dd-bc24-fbc61b586f85.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f7a5d142-4765-443d-a25d-eb1c098711f2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a534fee4-d9ff-4541-aa5a-a33e8fc6ba01.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022uge](https://www.wis-tns.org/object/2022uge)
+aka. **PS22ijd**
+
+score: 0.917357
+
+discovery date: 17 Sep 2022
+
+*'Benoît ROUSSEAU'* **'PreJhTrg'** **'Cledison Marcos da Silva'** **'Rosemary Billington'** 'Meryl Goulbourne' 
+
+80526082
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bbe1db92-36cb-4703-b927-ed4e020a3178.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ef101a74-0097-4e20-b033-2d2a82474e58.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/537b26b6-ab8d-4be6-8e7f-b82e9948ff67.jpeg" width="200"/>
+
+80526084
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/679c787e-ece1-42f7-aacb-1c23d2b48bbf.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7d0df4e2-d5a6-459a-a683-000f2b763c74.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/92166574-4eb6-443b-8b51-fc62d6d1eee4.jpeg" width="200"/>
+
+80526085
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2fae6ee1-f621-41f2-af30-8e1fbfea0c77.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c0df18d0-e9cf-4bf8-8875-88935e4e9156.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8a4c6980-df64-49ca-9e60-24c64819d39e.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022tqj](https://www.wis-tns.org/object/2022tqj)
+score: 0.917357
+
+discovery date: 17 Sep 2022
+
+*'Benoît ROUSSEAU'* **'Cledison Marcos da Silva'** **'Meryl Goulbourne'** **'PreJhTrg'** 'Elisabeth Baeten' 'Rosemary Billington' 
+
+80526302
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c942fab5-0b66-4fb9-b54f-c190da8225f4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e31f50e1-065c-4650-a71d-41fe8f709074.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6ffa8441-db8c-45b9-bd4b-5a159e35be83.jpeg" width="200"/>
+
+80526304
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e81fb3b9-8f8c-413f-9a90-95c984bc80f8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4939b892-86c8-417b-9d13-ccdca08e2288.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e98b1a29-1330-4aa5-b5b6-5978447d8cb2.jpeg" width="200"/>
+
+80526305
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a0d187f6-693a-4785-8145-65b8aa2e7a84.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/546ac965-34b5-4ece-b3e3-9aca7be3e987.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/55d5f673-84f7-41d1-bc47-770e37fb6ea8.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022ufw](https://www.wis-tns.org/object/2022ufw)
 aka. **PS22iit**
 
