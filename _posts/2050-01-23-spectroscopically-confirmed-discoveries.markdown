@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-09-18 02:45:09 
+date:   2022-09-18 03:45:07 
 categories: discoveries
 ---
 
@@ -172,4 +172,1943 @@ discovery date: 17 Jul 2021
 **spectroscopic type: SN Ia**
 
 discovery date: 16 Jul 2021
+
+
+----------
+### [SN 2021qgc](https://wis-tns.weizmann.ac.il/object/2021qgc)
+**spectroscopic type: SN Ia**
+
+discovery date: 16 Jul 2021
+
+
+----------
+### [SN 2021pjs](https://wis-tns.weizmann.ac.il/object/2021pjs)
+**spectroscopic type: SN II**
+
+discovery date: 11 Jul 2021
+
+
+----------
+### [SN 2021rky](https://wis-tns.weizmann.ac.il/object/2021rky)
+**spectroscopic type: SN Ia**
+
+discovery date: 10 Jul 2021
+
+
+----------
+### [SN 2021ssm](https://wis-tns.weizmann.ac.il/object/2021ssm)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Jul 2021
+
+
+----------
+### [SN 2021sck](https://wis-tns.weizmann.ac.il/object/2021sck)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Jul 2021
+
+
+----------
+### [SN 2021nnk](https://wis-tns.weizmann.ac.il/object/2021nnk)
+**spectroscopic type: SN Ia**
+
+discovery date: 28 Jun 2021
+
+
+----------
+### [AT 2018eub](https://wis-tns.weizmann.ac.il/object/2018eub)
+**spectroscopic type: CV**
+
+discovery date: 27 Jun 2021
+
+
+----------
+### [SN 2021eay](https://wis-tns.weizmann.ac.il/object/2021eay)
+**spectroscopic type: SN II**
+
+discovery date: 27 Jun 2021
+
+
+----------
+### [SN 2021pnp](https://wis-tns.weizmann.ac.il/object/2021pnp)
+**spectroscopic type: SN IIb**
+
+discovery date: 27 Jun 2021
+
+
+----------
+### [SN 2021rwz](https://wis-tns.weizmann.ac.il/object/2021rwz)
+**spectroscopic type: SLSN-I**
+
+discovery date: 27 Jun 2021
+
+
+----------
+### [SN 2021qce](https://wis-tns.weizmann.ac.il/object/2021qce)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Jun 2021
+
+
+----------
+### [SN 2021qta](https://wis-tns.weizmann.ac.il/object/2021qta)
+**spectroscopic type: SN Ia**
+
+discovery date: 26 Jun 2021
+
+
+----------
+### [SN 2021qar](https://wis-tns.weizmann.ac.il/object/2021qar)
+**spectroscopic type: SN II**
+
+discovery date: 26 Jun 2021
+
+
+----------
+### [SN 2021mgc](https://wis-tns.weizmann.ac.il/object/2021mgc)
+**spectroscopic type: SN Ia**
+
+discovery date: 26 Jun 2021
+
+
+----------
+### [SN 2021mfh](https://wis-tns.weizmann.ac.il/object/2021mfh)
+**spectroscopic type: SN Ib**
+
+discovery date: 25 Jun 2021
+
+
+----------
+### [SN 2021kld](https://wis-tns.weizmann.ac.il/object/2021kld)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 Jun 2021
+
+
+----------
+### [SN 2021mso](https://wis-tns.weizmann.ac.il/object/2021mso)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 Jun 2021
+
+
+----------
+### [SN 2021hdu](https://wis-tns.weizmann.ac.il/object/2021hdu)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Jun 2021
+
+
+----------
+### [SN 2021qes](https://wis-tns.weizmann.ac.il/object/2021qes)
+**spectroscopic type: SN II**
+
+discovery date: 24 Jun 2021
+
+
+----------
+### [SN 2021pjp](https://wis-tns.weizmann.ac.il/object/2021pjp)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Jun 2021
+
+
+----------
+### [SN 2021qdx](https://wis-tns.weizmann.ac.il/object/2021qdx)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Jun 2021
+
+
+----------
+### [SN 2020zmi](https://wis-tns.weizmann.ac.il/object/2020zmi)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Jun 2021
+
+
+----------
+### [SN 2021oza](https://wis-tns.weizmann.ac.il/object/2021oza)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Jun 2021
+
+
+----------
+### [SN 2021lrp](https://wis-tns.weizmann.ac.il/object/2021lrp)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Jun 2021
+
+
+----------
+### [SN 2021gvm](https://wis-tns.weizmann.ac.il/object/2021gvm)
+**spectroscopic type: SN**
+
+discovery date: 24 Jun 2021
+
+
+----------
+### [SN 2021imh](https://wis-tns.weizmann.ac.il/object/2021imh)
+**spectroscopic type: SN II**
+
+discovery date: 23 Jun 2021
+
+
+----------
+### [SN 2020shb](https://wis-tns.weizmann.ac.il/object/2020shb)
+**spectroscopic type: SN II**
+
+discovery date: 21 Jun 2021
+
+
+----------
+### [SN 2021lvb](https://wis-tns.weizmann.ac.il/object/2021lvb)
+**spectroscopic type: SN Ib**
+
+discovery date: 20 Jun 2021
+
+
+----------
+### [SN 2021ldd](https://wis-tns.weizmann.ac.il/object/2021ldd)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Jun 2021
+
+
+----------
+### [SN 2021nli](https://wis-tns.weizmann.ac.il/object/2021nli)
+**spectroscopic type: SN II**
+
+discovery date: 17 Jun 2021
+
+
+----------
+### [SN 2021pia](https://wis-tns.weizmann.ac.il/object/2021pia)
+**spectroscopic type: SN Ia**
+
+discovery date: 16 Jun 2021
+
+
+----------
+### [SN 2021pci](https://wis-tns.weizmann.ac.il/object/2021pci)
+**spectroscopic type: SN Ia**
+
+discovery date: 16 Jun 2021
+
+
+----------
+### [SN 2021gbs](https://wis-tns.weizmann.ac.il/object/2021gbs)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Jun 2021
+
+
+----------
+### [SN 2021nkb](https://wis-tns.weizmann.ac.il/object/2021nkb)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Jun 2021
+
+
+----------
+### [SN 2021oes](https://wis-tns.weizmann.ac.il/object/2021oes)
+**spectroscopic type: SLSN-I**
+
+discovery date: 15 Jun 2021
+
+
+----------
+### [SN 2021ezt](https://wis-tns.weizmann.ac.il/object/2021ezt)
+**spectroscopic type: SN IIn**
+
+discovery date: 15 Jun 2021
+
+
+----------
+### [SN 2021nsi](https://wis-tns.weizmann.ac.il/object/2021nsi)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Jun 2021
+
+
+----------
+### [SN 2021lvc](https://wis-tns.weizmann.ac.il/object/2021lvc)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Jun 2021
+
+
+----------
+### [SN 2021pat](https://wis-tns.weizmann.ac.il/object/2021pat)
+**spectroscopic type: SN IIb**
+
+discovery date: 15 Jun 2021
+
+
+----------
+### [SN 2021ocv](https://wis-tns.weizmann.ac.il/object/2021ocv)
+**spectroscopic type: SN II**
+
+discovery date: 04 Jun 2021
+
+
+----------
+### [SN 2021oez](https://wis-tns.weizmann.ac.il/object/2021oez)
+**spectroscopic type: SN Ia**
+
+discovery date: 04 Jun 2021
+
+
+----------
+### [SN 2021mim](https://wis-tns.weizmann.ac.il/object/2021mim)
+**spectroscopic type: SN Ia**
+
+discovery date: 04 Jun 2021
+
+
+----------
+### [SN 2021owc](https://wis-tns.weizmann.ac.il/object/2021owc)
+**spectroscopic type: SN IIn**
+
+discovery date: 04 Jun 2021
+
+
+----------
+### [SN 2021bkb](https://wis-tns.weizmann.ac.il/object/2021bkb)
+**spectroscopic type: SN II**
+
+discovery date: 03 Jun 2021
+
+
+----------
+### [SN 2021nip](https://wis-tns.weizmann.ac.il/object/2021nip)
+**spectroscopic type: SN II**
+
+discovery date: 02 Jun 2021
+
+
+----------
+### [SN 2021nrr](https://wis-tns.weizmann.ac.il/object/2021nrr)
+**spectroscopic type: SN Ia**
+
+discovery date: 02 Jun 2021
+
+
+----------
+### [SN 2021nnk](https://wis-tns.weizmann.ac.il/object/2021nnk)
+**spectroscopic type: SN Ia**
+
+discovery date: 01 Jun 2021
+
+
+----------
+### [SN 2021kse](https://wis-tns.weizmann.ac.il/object/2021kse)
+**spectroscopic type: SN Ia**
+
+discovery date: 01 Jun 2021
+
+
+----------
+### [SN 2021mnd](https://wis-tns.weizmann.ac.il/object/2021mnd)
+**spectroscopic type: SN Ia**
+
+discovery date: 31 May 2021
+
+
+----------
+### [SN 2021nlh](https://wis-tns.weizmann.ac.il/object/2021nlh)
+**spectroscopic type: SN Ia**
+
+discovery date: 30 May 2021
+
+
+----------
+### [SN 2020ackb](https://wis-tns.weizmann.ac.il/object/2020ackb)
+**spectroscopic type: SN IIP**
+
+discovery date: 30 May 2021
+
+
+----------
+### [SN 2021mnj](https://wis-tns.weizmann.ac.il/object/2021mnj)
+**spectroscopic type: SN II**
+
+discovery date: 30 May 2021
+
+
+----------
+### [SN 2021nqm](https://wis-tns.weizmann.ac.il/object/2021nqm)
+**spectroscopic type: SN Ia**
+
+discovery date: 28 May 2021
+
+
+----------
+### [SN 2021ohb](https://wis-tns.weizmann.ac.il/object/2021ohb)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021lwz](https://wis-tns.weizmann.ac.il/object/2021lwz)
+**spectroscopic type: SLSN-I**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021gvv](https://wis-tns.weizmann.ac.il/object/2021gvv)
+**spectroscopic type: SN II**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021hiz](https://wis-tns.weizmann.ac.il/object/2021hiz)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021lea](https://wis-tns.weizmann.ac.il/object/2021lea)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021iso](https://wis-tns.weizmann.ac.il/object/2021iso)
+**spectroscopic type: SN**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021nnj](https://wis-tns.weizmann.ac.il/object/2021nnj)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021mkr](https://wis-tns.weizmann.ac.il/object/2021mkr)
+**spectroscopic type: SLSN-I**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021hse](https://wis-tns.weizmann.ac.il/object/2021hse)
+**spectroscopic type: SN II**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021nim](https://wis-tns.weizmann.ac.il/object/2021nim)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021lhg](https://wis-tns.weizmann.ac.il/object/2021lhg)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2020acol](https://wis-tns.weizmann.ac.il/object/2020acol)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021lvg](https://wis-tns.weizmann.ac.il/object/2021lvg)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021ecu](https://wis-tns.weizmann.ac.il/object/2021ecu)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021hji](https://wis-tns.weizmann.ac.il/object/2021hji)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021iue](https://wis-tns.weizmann.ac.il/object/2021iue)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021lxo](https://wis-tns.weizmann.ac.il/object/2021lxo)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021lgl](https://wis-tns.weizmann.ac.il/object/2021lgl)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021foj](https://wis-tns.weizmann.ac.il/object/2021foj)
+**spectroscopic type: SN II**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021mql](https://wis-tns.weizmann.ac.il/object/2021mql)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021krf](https://wis-tns.weizmann.ac.il/object/2021krf)
+**spectroscopic type: SN Ic-pec**
+
+discovery date: 25 May 2021
+
+
+----------
+### [SN 2021luu](https://wis-tns.weizmann.ac.il/object/2021luu)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021kqj](https://wis-tns.weizmann.ac.il/object/2021kqj)
+**spectroscopic type: SN II**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2020abcu](https://wis-tns.weizmann.ac.il/object/2020abcu)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021del](https://wis-tns.weizmann.ac.il/object/2021del)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021lzc](https://wis-tns.weizmann.ac.il/object/2021lzc)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021mfg](https://wis-tns.weizmann.ac.il/object/2021mfg)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021dcu](https://wis-tns.weizmann.ac.il/object/2021dcu)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021lta](https://wis-tns.weizmann.ac.il/object/2021lta)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021fbc](https://wis-tns.weizmann.ac.il/object/2021fbc)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021mfn](https://wis-tns.weizmann.ac.il/object/2021mfn)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021dks](https://wis-tns.weizmann.ac.il/object/2021dks)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021hem](https://wis-tns.weizmann.ac.il/object/2021hem)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021dqw](https://wis-tns.weizmann.ac.il/object/2021dqw)
+**spectroscopic type: SN II**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021ixi](https://wis-tns.weizmann.ac.il/object/2021ixi)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021lia](https://wis-tns.weizmann.ac.il/object/2021lia)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021inc](https://wis-tns.weizmann.ac.il/object/2021inc)
+**spectroscopic type: SN II**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2020vck](https://wis-tns.weizmann.ac.il/object/2020vck)
+**spectroscopic type: SN II**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021jzf](https://wis-tns.weizmann.ac.il/object/2021jzf)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021lji](https://wis-tns.weizmann.ac.il/object/2021lji)
+**spectroscopic type: SLSN-I**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021lmt](https://wis-tns.weizmann.ac.il/object/2021lmt)
+**spectroscopic type: SN II**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021kvm](https://wis-tns.weizmann.ac.il/object/2021kvm)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021btn](https://wis-tns.weizmann.ac.il/object/2021btn)
+**spectroscopic type: SN II**
+
+discovery date: 24 May 2021
+
+
+----------
+### [SN 2021kpu](https://wis-tns.weizmann.ac.il/object/2021kpu)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021cvd](https://wis-tns.weizmann.ac.il/object/2021cvd)
+**spectroscopic type: SN IIn**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021kxf](https://wis-tns.weizmann.ac.il/object/2021kxf)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021llv](https://wis-tns.weizmann.ac.il/object/2021llv)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021cpi](https://wis-tns.weizmann.ac.il/object/2021cpi)
+**spectroscopic type: SN II**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021lxb](https://wis-tns.weizmann.ac.il/object/2021lxb)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021lmt](https://wis-tns.weizmann.ac.il/object/2021lmt)
+**spectroscopic type: SN II**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021kre](https://wis-tns.weizmann.ac.il/object/2021kre)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021fnr](https://wis-tns.weizmann.ac.il/object/2021fnr)
+**spectroscopic type: SN Ia-91bg-like**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021kjh](https://wis-tns.weizmann.ac.il/object/2021kjh)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 May 2021
+
+
+----------
+### [SN 2021kfo](https://wis-tns.weizmann.ac.il/object/2021kfo)
+**spectroscopic type: SN II**
+
+discovery date: 22 May 2021
+
+
+----------
+### [SN 2021kev](https://wis-tns.weizmann.ac.il/object/2021kev)
+**spectroscopic type: SN Ib**
+
+discovery date: 22 May 2021
+
+
+----------
+### [SN 2021hwq](https://wis-tns.weizmann.ac.il/object/2021hwq)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 May 2021
+
+
+----------
+### [SN 2021mab](https://wis-tns.weizmann.ac.il/object/2021mab)
+**spectroscopic type: SN Ia-91bg-like**
+
+discovery date: 22 May 2021
+
+
+----------
+### [SN 2021knj](https://wis-tns.weizmann.ac.il/object/2021knj)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 May 2021
+
+
+----------
+### [SN 2021mqi](https://wis-tns.weizmann.ac.il/object/2021mqi)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 May 2021
+
+
+----------
+### [SN 2021apg](https://wis-tns.weizmann.ac.il/object/2021apg)
+**spectroscopic type: SN II**
+
+discovery date: 22 May 2021
+
+
+----------
+### [SN 2021dex](https://wis-tns.weizmann.ac.il/object/2021dex)
+**spectroscopic type: SN IIb**
+
+discovery date: 22 May 2021
+
+
+----------
+### [SN 2021kpw](https://wis-tns.weizmann.ac.il/object/2021kpw)
+**spectroscopic type: SN Ia**
+
+discovery date: 21 May 2021
+
+
+----------
+### [SN 2021jvy](https://wis-tns.weizmann.ac.il/object/2021jvy)
+**spectroscopic type: SN Ia**
+
+discovery date: 21 May 2021
+
+
+----------
+### [SN 2021kdz](https://wis-tns.weizmann.ac.il/object/2021kdz)
+**spectroscopic type: SN Ia**
+
+discovery date: 21 May 2021
+
+
+----------
+### [SN 2021leb](https://wis-tns.weizmann.ac.il/object/2021leb)
+**spectroscopic type: SN Ia**
+
+discovery date: 21 May 2021
+
+
+----------
+### [SN 2021lne](https://wis-tns.weizmann.ac.il/object/2021lne)
+**spectroscopic type: SN II**
+
+discovery date: 21 May 2021
+
+
+----------
+### [SN 2020aere](https://wis-tns.weizmann.ac.il/object/2020aere)
+**spectroscopic type: SN II**
+
+discovery date: 21 May 2021
+
+
+----------
+### [SN 2021kqv](https://wis-tns.weizmann.ac.il/object/2021kqv)
+**spectroscopic type: SN IIn**
+
+discovery date: 21 May 2021
+
+
+----------
+### [SN 2021ksr](https://wis-tns.weizmann.ac.il/object/2021ksr)
+**spectroscopic type: SN Ib**
+
+discovery date: 21 May 2021
+
+
+----------
+### [SN 2021krf](https://wis-tns.weizmann.ac.il/object/2021krf)
+**spectroscopic type: SN Ic-pec**
+
+discovery date: 21 May 2021
+
+
+----------
+### [SN 2021dru](https://wis-tns.weizmann.ac.il/object/2021dru)
+**spectroscopic type: SN II**
+
+discovery date: 05 May 2021
+
+
+----------
+### [SN 2021kqt](https://wis-tns.weizmann.ac.il/object/2021kqt)
+**spectroscopic type: SN Ia**
+
+discovery date: 05 May 2021
+
+
+----------
+### [SN 2021kjj](https://wis-tns.weizmann.ac.il/object/2021kjj)
+**spectroscopic type: SN Ia**
+
+discovery date: 05 May 2021
+
+
+----------
+### [SN 2021bn](https://wis-tns.weizmann.ac.il/object/2021bn)
+**spectroscopic type: SN IIn**
+
+discovery date: 05 May 2021
+
+
+----------
+### [SN 2021kwa](https://wis-tns.weizmann.ac.il/object/2021kwa)
+**spectroscopic type: SN Ia**
+
+discovery date: 05 May 2021
+
+
+----------
+### [SN 2021hac](https://wis-tns.weizmann.ac.il/object/2021hac)
+**spectroscopic type: SN II**
+
+discovery date: 04 May 2021
+
+
+----------
+### [SN 2021hur](https://wis-tns.weizmann.ac.il/object/2021hur)
+**spectroscopic type: SN IIn**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021czn](https://wis-tns.weizmann.ac.il/object/2021czn)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021jom](https://wis-tns.weizmann.ac.il/object/2021jom)
+**spectroscopic type: SN II**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021hyt](https://wis-tns.weizmann.ac.il/object/2021hyt)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021lmr](https://wis-tns.weizmann.ac.il/object/2021lmr)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021fpm](https://wis-tns.weizmann.ac.il/object/2021fpm)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021jac](https://wis-tns.weizmann.ac.il/object/2021jac)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021khm](https://wis-tns.weizmann.ac.il/object/2021khm)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021fzp](https://wis-tns.weizmann.ac.il/object/2021fzp)
+**spectroscopic type: SN**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021fpl](https://wis-tns.weizmann.ac.il/object/2021fpl)
+**spectroscopic type: SLSN-I**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021hlw](https://wis-tns.weizmann.ac.il/object/2021hlw)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021jaj](https://wis-tns.weizmann.ac.il/object/2021jaj)
+**spectroscopic type: SN II**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021jji](https://wis-tns.weizmann.ac.il/object/2021jji)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021gmj](https://wis-tns.weizmann.ac.il/object/2021gmj)
+**spectroscopic type: SN II**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021jag](https://wis-tns.weizmann.ac.il/object/2021jag)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Apr 2021
+
+
+----------
+### [SN 2021idy](https://wis-tns.weizmann.ac.il/object/2021idy)
+**spectroscopic type: SN Ia**
+
+discovery date: 28 Apr 2021
+
+
+----------
+### [SN 2021kbj](https://wis-tns.weizmann.ac.il/object/2021kbj)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Apr 2021
+
+
+----------
+### [SN 2021kcc](https://wis-tns.weizmann.ac.il/object/2021kcc)
+**spectroscopic type: SN Ia**
+
+discovery date: 19 Apr 2021
+
+
+----------
+### [SN 2020abim](https://wis-tns.weizmann.ac.il/object/2020abim)
+**spectroscopic type: SN Ia**
+
+discovery date: 19 Apr 2021
+
+
+----------
+### [SN 2021djy](https://wis-tns.weizmann.ac.il/object/2021djy)
+**spectroscopic type: SN II**
+
+discovery date: 18 Apr 2021
+
+
+----------
+### [SN 2021jyh](https://wis-tns.weizmann.ac.il/object/2021jyh)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Apr 2021
+
+
+----------
+### [SN 2021hwk](https://wis-tns.weizmann.ac.il/object/2021hwk)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Apr 2021
+
+
+----------
+### [SN 2021jkd](https://wis-tns.weizmann.ac.il/object/2021jkd)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Apr 2021
+
+
+----------
+### [SN 2021khn](https://wis-tns.weizmann.ac.il/object/2021khn)
+**spectroscopic type: SN Ia**
+
+discovery date: 17 Apr 2021
+
+
+----------
+### [SN 2021cdv](https://wis-tns.weizmann.ac.il/object/2021cdv)
+**spectroscopic type: SN II**
+
+discovery date: 17 Apr 2021
+
+
+----------
+### [SN 2021jvp](https://wis-tns.weizmann.ac.il/object/2021jvp)
+**spectroscopic type: SN Ia-91bg-like**
+
+discovery date: 16 Apr 2021
+
+
+----------
+### [SN 2021iuk](https://wis-tns.weizmann.ac.il/object/2021iuk)
+**spectroscopic type: SN Ia**
+
+discovery date: 16 Apr 2021
+
+
+----------
+### [SN 2021cdw](https://wis-tns.weizmann.ac.il/object/2021cdw)
+**spectroscopic type: SN II**
+
+discovery date: 16 Apr 2021
+
+
+----------
+### [SN 2021os](https://wis-tns.weizmann.ac.il/object/2021os)
+**spectroscopic type: SN II**
+
+discovery date: 16 Apr 2021
+
+
+----------
+### [SN 2021ipf](https://wis-tns.weizmann.ac.il/object/2021ipf)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Apr 2021
+
+
+----------
+### [SN 2020acun](https://wis-tns.weizmann.ac.il/object/2020acun)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Apr 2021
+
+
+----------
+### [SN 2021igt](https://wis-tns.weizmann.ac.il/object/2021igt)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Apr 2021
+
+
+----------
+### [SN 2021inj](https://wis-tns.weizmann.ac.il/object/2021inj)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Apr 2021
+
+
+----------
+### [SN 2021iyr](https://wis-tns.weizmann.ac.il/object/2021iyr)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Apr 2021
+
+
+----------
+### [SN 2021dnm](https://wis-tns.weizmann.ac.il/object/2021dnm)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Apr 2021
+
+
+----------
+### [SN 2021foh](https://wis-tns.weizmann.ac.il/object/2021foh)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Apr 2021
+
+
+----------
+### [SN 2020abyx](https://wis-tns.weizmann.ac.il/object/2020abyx)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Apr 2021
+
+
+----------
+### [SN 2021ejn](https://wis-tns.weizmann.ac.il/object/2021ejn)
+**spectroscopic type: SN II**
+
+discovery date: 13 Apr 2021
+
+
+----------
+### [SN 2021fog](https://wis-tns.weizmann.ac.il/object/2021fog)
+**spectroscopic type: SN**
+
+discovery date: 13 Apr 2021
+
+
+----------
+### [SN 2021gqm](https://wis-tns.weizmann.ac.il/object/2021gqm)
+**spectroscopic type: SN Ia**
+
+discovery date: 13 Apr 2021
+
+
+----------
+### [SN 2021ejn](https://wis-tns.weizmann.ac.il/object/2021ejn)
+**spectroscopic type: SN II**
+
+discovery date: 12 Apr 2021
+
+
+----------
+### [SN 2021iov](https://wis-tns.weizmann.ac.il/object/2021iov)
+**spectroscopic type: SN Ia**
+
+discovery date: 12 Apr 2021
+
+
+----------
+### [SN 2021fwr](https://wis-tns.weizmann.ac.il/object/2021fwr)
+**spectroscopic type: SN Ia**
+
+discovery date: 11 Apr 2021
+
+
+----------
+### [SN 2021bnf](https://wis-tns.weizmann.ac.il/object/2021bnf)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 11 Apr 2021
+
+
+----------
+### [SN 2021gwa](https://wis-tns.weizmann.ac.il/object/2021gwa)
+**spectroscopic type: SN Ia**
+
+discovery date: 10 Apr 2021
+
+
+----------
+### [SN 2021akl](https://wis-tns.weizmann.ac.il/object/2021akl)
+**spectroscopic type: SN Ia**
+
+discovery date: 10 Apr 2021
+
+
+----------
+### [SN 2020acrr](https://wis-tns.weizmann.ac.il/object/2020acrr)
+**spectroscopic type: SN Ia**
+
+discovery date: 10 Apr 2021
+
+
+----------
+### [SN 2020mjm](https://wis-tns.weizmann.ac.il/object/2020mjm)
+**spectroscopic type: SN II**
+
+discovery date: 10 Apr 2021
+
+
+----------
+### [SN 2020adqq](https://wis-tns.weizmann.ac.il/object/2020adqq)
+**spectroscopic type: SN Ia**
+
+discovery date: 10 Apr 2021
+
+
+----------
+### [SN 2021fqp](https://wis-tns.weizmann.ac.il/object/2021fqp)
+**spectroscopic type: SN Ia**
+
+discovery date: 10 Apr 2021
+
+
+----------
+### [SN 2021dnl](https://wis-tns.weizmann.ac.il/object/2021dnl)
+**spectroscopic type: SN Ia**
+
+discovery date: 10 Apr 2021
+
+
+----------
+### [SN 2021epv](https://wis-tns.weizmann.ac.il/object/2021epv)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2020aeth](https://wis-tns.weizmann.ac.il/object/2020aeth)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021ebb](https://wis-tns.weizmann.ac.il/object/2021ebb)
+**spectroscopic type: SN Ia-pec**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021ipj](https://wis-tns.weizmann.ac.il/object/2021ipj)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021cac](https://wis-tns.weizmann.ac.il/object/2021cac)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021hpv](https://wis-tns.weizmann.ac.il/object/2021hpv)
+**spectroscopic type: SN Ic**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021euj](https://wis-tns.weizmann.ac.il/object/2021euj)
+**spectroscopic type: SN I**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021fbd](https://wis-tns.weizmann.ac.il/object/2021fbd)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021heh](https://wis-tns.weizmann.ac.il/object/2021heh)
+**spectroscopic type: SN IIb**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021gdz](https://wis-tns.weizmann.ac.il/object/2021gdz)
+**spectroscopic type: SN II**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021gbm](https://wis-tns.weizmann.ac.il/object/2021gbm)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021iy](https://wis-tns.weizmann.ac.il/object/2021iy)
+**spectroscopic type: SN II**
+
+discovery date: 07 Apr 2021
+
+
+----------
+### [SN 2021gvl](https://wis-tns.weizmann.ac.il/object/2021gvl)
+**spectroscopic type: SN Ic**
+
+discovery date: 06 Apr 2021
+
+
+----------
+### [SN 2021hol](https://wis-tns.weizmann.ac.il/object/2021hol)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Apr 2021
+
+
+----------
+### [SN 2021bjw](https://wis-tns.weizmann.ac.il/object/2021bjw)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Apr 2021
+
+
+----------
+### [SN 2021hiv](https://wis-tns.weizmann.ac.il/object/2021hiv)
+**spectroscopic type: SN II**
+
+discovery date: 06 Apr 2021
+
+
+----------
+### [SN 2021htf](https://wis-tns.weizmann.ac.il/object/2021htf)
+**spectroscopic type: SN IIP**
+
+discovery date: 06 Apr 2021
+
+
+----------
+### [SN 2021ich](https://wis-tns.weizmann.ac.il/object/2021ich)
+**spectroscopic type: SN II**
+
+discovery date: 06 Apr 2021
+
+
+----------
+### [SN 2021hrj](https://wis-tns.weizmann.ac.il/object/2021hrj)
+**spectroscopic type: SN Ib**
+
+discovery date: 06 Apr 2021
+
+
+----------
+### [SN 2021fpn](https://wis-tns.weizmann.ac.il/object/2021fpn)
+**spectroscopic type: SN IIn**
+
+discovery date: 06 Apr 2021
+
+
+----------
+### [SN 2021dsi](https://wis-tns.weizmann.ac.il/object/2021dsi)
+**spectroscopic type: SN Ia**
+
+discovery date: 06 Apr 2021
+
+
+----------
+### [SN 2021cys](https://wis-tns.weizmann.ac.il/object/2021cys)
+**spectroscopic type: SN Ia**
+
+discovery date: 05 Apr 2021
+
+
+----------
+### [SN 2021zu](https://wis-tns.weizmann.ac.il/object/2021zu)
+**spectroscopic type: SN Ia**
+
+discovery date: 03 Apr 2021
+
+
+----------
+### [SN 2021iai](https://wis-tns.weizmann.ac.il/object/2021iai)
+**spectroscopic type: SN Ia**
+
+discovery date: 03 Apr 2021
+
+
+----------
+### [SN 2021ckc](https://wis-tns.weizmann.ac.il/object/2021ckc)
+**spectroscopic type: SN Ia**
+
+discovery date: 03 Apr 2021
+
+
+----------
+### [SN 2021gvm](https://wis-tns.weizmann.ac.il/object/2021gvm)
+**spectroscopic type: SN**
+
+discovery date: 03 Apr 2021
+
+
+----------
+### [SN 2021ecv](https://wis-tns.weizmann.ac.il/object/2021ecv)
+**spectroscopic type: SN Ia**
+
+discovery date: 02 Apr 2021
+
+
+----------
+### [SN 2021dvn](https://wis-tns.weizmann.ac.il/object/2021dvn)
+**spectroscopic type: SN Ia**
+
+discovery date: 02 Apr 2021
+
+
+----------
+### [SN 2021dov](https://wis-tns.weizmann.ac.il/object/2021dov)
+**spectroscopic type: SN Ia**
+
+discovery date: 02 Apr 2021
+
+
+----------
+### [SN 2021hix](https://wis-tns.weizmann.ac.il/object/2021hix)
+**spectroscopic type: SN Ia**
+
+discovery date: 02 Apr 2021
+
+
+----------
+### [SN 2021fwz](https://wis-tns.weizmann.ac.il/object/2021fwz)
+**spectroscopic type: SN Ia**
+
+discovery date: 02 Apr 2021
+
+
+----------
+### [SN 2021cwe](https://wis-tns.weizmann.ac.il/object/2021cwe)
+**spectroscopic type: SN IIP**
+
+discovery date: 01 Apr 2021
+
+
+----------
+### [SN 2021hdt](https://wis-tns.weizmann.ac.il/object/2021hdt)
+**spectroscopic type: SN II**
+
+discovery date: 01 Apr 2021
+
+
+----------
+### [SN 2021fnt](https://wis-tns.weizmann.ac.il/object/2021fnt)
+**spectroscopic type: SN Ia**
+
+discovery date: 01 Apr 2021
+
+
+----------
+### [SN 2021foz](https://wis-tns.weizmann.ac.il/object/2021foz)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Mar 2021
+
+
+----------
+### [SN 2020adis](https://wis-tns.weizmann.ac.il/object/2020adis)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 29 Mar 2021
+
+
+----------
+### [SN 2021bql](https://wis-tns.weizmann.ac.il/object/2021bql)
+**spectroscopic type: SN II**
+
+discovery date: 29 Mar 2021
+
+
+----------
+### [SN 2021gkk](https://wis-tns.weizmann.ac.il/object/2021gkk)
+**spectroscopic type: SN Ia**
+
+discovery date: 29 Mar 2021
+
+
+----------
+### [SN 2020qxp](https://wis-tns.weizmann.ac.il/object/2020qxp)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Mar 2021
+
+
+----------
+### [SN 2021cdo](https://wis-tns.weizmann.ac.il/object/2021cdo)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Mar 2021
+
+
+----------
+### [SN 2021enz](https://wis-tns.weizmann.ac.il/object/2021enz)
+**spectroscopic type: SN II**
+
+discovery date: 27 Mar 2021
+
+
+----------
+### [SN 2021fym](https://wis-tns.weizmann.ac.il/object/2021fym)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Mar 2021
+
+
+----------
+### [SN 2021fnc](https://wis-tns.weizmann.ac.il/object/2021fnc)
+**spectroscopic type: SN II**
+
+discovery date: 23 Mar 2021
+
+
+----------
+### [SN 2020uaq](https://wis-tns.weizmann.ac.il/object/2020uaq)
+**spectroscopic type: SN IIn**
+
+discovery date: 23 Mar 2021
+
+
+----------
+### [SN 2021bxq](https://wis-tns.weizmann.ac.il/object/2021bxq)
+**spectroscopic type: SN IIn**
+
+discovery date: 23 Mar 2021
+
+
+----------
+### [SN 2021gfv](https://wis-tns.weizmann.ac.il/object/2021gfv)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 Mar 2021
+
+
+----------
+### [SN 2021cdi](https://wis-tns.weizmann.ac.il/object/2021cdi)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021cta](https://wis-tns.weizmann.ac.il/object/2021cta)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021fxm](https://wis-tns.weizmann.ac.il/object/2021fxm)
+**spectroscopic type: SN II**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021alq](https://wis-tns.weizmann.ac.il/object/2021alq)
+**spectroscopic type: SN II**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021aqy](https://wis-tns.weizmann.ac.il/object/2021aqy)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021epo](https://wis-tns.weizmann.ac.il/object/2021epo)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021dgm](https://wis-tns.weizmann.ac.il/object/2021dgm)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021dhx](https://wis-tns.weizmann.ac.il/object/2021dhx)
+**spectroscopic type: SN II**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021csp](https://wis-tns.weizmann.ac.il/object/2021csp)
+**spectroscopic type: SN Icn**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021fos](https://wis-tns.weizmann.ac.il/object/2021fos)
+**spectroscopic type: SN Ia**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021agf](https://wis-tns.weizmann.ac.il/object/2021agf)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 22 Mar 2021
+
+
+----------
+### [SN 2021dlb](https://wis-tns.weizmann.ac.il/object/2021dlb)
+**spectroscopic type: SN Ia**
+
+discovery date: 21 Mar 2021
+
+
+----------
+### [SN 2021dsb](https://wis-tns.weizmann.ac.il/object/2021dsb)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 19 Mar 2021
+
+
+----------
+### [SN 2020abdv](https://wis-tns.weizmann.ac.il/object/2020abdv)
+**spectroscopic type: SN Ia**
+
+discovery date: 09 Feb 2021
+
+
+----------
+### [SN 2021dj](https://wis-tns.weizmann.ac.il/object/2021dj)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Feb 2021
+
+
+----------
+### [SN 2021bmu](https://wis-tns.weizmann.ac.il/object/2021bmu)
+**spectroscopic type: SN Ia-91bg-like**
+
+discovery date: 07 Feb 2021
+
+
+----------
+### [SN 2021blv](https://wis-tns.weizmann.ac.il/object/2021blv)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Feb 2021
+
+
+----------
+### [SN 2020aatp](https://wis-tns.weizmann.ac.il/object/2020aatp)
+**spectroscopic type: SN IIP**
+
+discovery date: 07 Feb 2021
+
+
+----------
+### [SN 2020abip](https://wis-tns.weizmann.ac.il/object/2020abip)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Feb 2021
+
+
+----------
+### [SN 2021bmr](https://wis-tns.weizmann.ac.il/object/2021bmr)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Feb 2021
+
+
+----------
+### [SN 2021bjz](https://wis-tns.weizmann.ac.il/object/2021bjz)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Feb 2021
+
+
+----------
+### [SN 2021ali](https://wis-tns.weizmann.ac.il/object/2021ali)
+**spectroscopic type: SLSN-II**
+
+discovery date: 25 Jan 2021
+
+
+----------
+### [SN 2021me](https://wis-tns.weizmann.ac.il/object/2021me)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 25 Jan 2021
+
+
+----------
+### [SN 2020acpc](https://wis-tns.weizmann.ac.il/object/2020acpc)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 Jan 2021
+
+
+----------
+### [SN 2020aeqx](https://wis-tns.weizmann.ac.il/object/2020aeqx)
+**spectroscopic type: SN IIP**
+
+discovery date: 25 Jan 2021
+
+
+----------
+### [SN 2021ajy](https://wis-tns.weizmann.ac.il/object/2021ajy)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Jan 2021
+
+
+----------
+### [SN 2021aul](https://wis-tns.weizmann.ac.il/object/2021aul)
+**spectroscopic type: SN II**
+
+discovery date: 23 Jan 2021
+
+
+----------
+### [SN 2020zko](https://wis-tns.weizmann.ac.il/object/2020zko)
+**spectroscopic type: SN Ia**
+
+discovery date: 21 Jan 2021
+
+
+----------
+### [SN 2020abkq](https://wis-tns.weizmann.ac.il/object/2020abkq)
+**spectroscopic type: SN Ia**
+
+discovery date: 20 Jan 2021
+
+
+----------
+### [SN 2021fg](https://wis-tns.weizmann.ac.il/object/2021fg)
+**spectroscopic type: SN Ia**
+
+discovery date: 20 Jan 2021
+
+
+----------
+### [SN 2020adbk](https://wis-tns.weizmann.ac.il/object/2020adbk)
+**spectroscopic type: SN Ia-pec**
+
+discovery date: 20 Jan 2021
+
+
+----------
+### [SN 2021yk](https://wis-tns.weizmann.ac.il/object/2021yk)
+**spectroscopic type: SN Ia**
+
+discovery date: 20 Jan 2021
+
+
+----------
+### [SN 2020acei](https://wis-tns.weizmann.ac.il/object/2020acei)
+**spectroscopic type: SN Ia**
+
+discovery date: 19 Jan 2021
+
+
+----------
+### [SN 2020pub](https://wis-tns.weizmann.ac.il/object/2020pub)
+**spectroscopic type: SN II**
+
+discovery date: 19 Jan 2021
+
+
+----------
+### [SN 2020adow](https://wis-tns.weizmann.ac.il/object/2020adow)
+**spectroscopic type: SN Ic-BL**
+
+discovery date: 19 Jan 2021
+
+
+----------
+### [SN 2020abab](https://wis-tns.weizmann.ac.il/object/2020abab)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2020aeqm](https://wis-tns.weizmann.ac.il/object/2020aeqm)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2021dn](https://wis-tns.weizmann.ac.il/object/2021dn)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2020aced](https://wis-tns.weizmann.ac.il/object/2020aced)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2020aeuh](https://wis-tns.weizmann.ac.il/object/2020aeuh)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2021gl](https://wis-tns.weizmann.ac.il/object/2021gl)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2020aeuv](https://wis-tns.weizmann.ac.il/object/2020aeuv)
+**spectroscopic type: SN IIn**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2021bnw](https://wis-tns.weizmann.ac.il/object/2021bnw)
+**spectroscopic type: SLSN-I**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2020acvm](https://wis-tns.weizmann.ac.il/object/2020acvm)
+**spectroscopic type: SN Ia**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2020xcu](https://wis-tns.weizmann.ac.il/object/2020xcu)
+**spectroscopic type: SN II**
+
+discovery date: 18 Jan 2021
+
+
+----------
+### [SN 2021fl](https://wis-tns.weizmann.ac.il/object/2021fl)
+**spectroscopic type: SN Ia**
+
+discovery date: 17 Jan 2021
+
+
+----------
+### [SN 2020aaun](https://wis-tns.weizmann.ac.il/object/2020aaun)
+**spectroscopic type: SN II**
+
+discovery date: 17 Jan 2021
+
+
+----------
+### [SN 2021at](https://wis-tns.weizmann.ac.il/object/2021at)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 17 Jan 2021
+
+
+----------
+### [SN 2020aboj](https://wis-tns.weizmann.ac.il/object/2020aboj)
+**spectroscopic type: SN Ia**
+
+discovery date: 16 Jan 2021
+
+
+----------
+### [SN 2020abcn](https://wis-tns.weizmann.ac.il/object/2020abcn)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Jan 2021
+
+
+----------
+### [SN 2020aeeg](https://wis-tns.weizmann.ac.il/object/2020aeeg)
+**spectroscopic type: SN II**
+
+discovery date: 14 Jan 2021
 
