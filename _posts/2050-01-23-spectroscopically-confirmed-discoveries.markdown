@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-09-18 23:45:04 
+date:   2022-09-19 00:45:07 
 categories: discoveries
 ---
 
@@ -2391,4 +2391,480 @@ discovery date: 04 Jan 2021
 **spectroscopic type: SN II**
 
 discovery date: 03 Jan 2021
+
+
+----------
+### [SN 2020adfj](https://wis-tns.weizmann.ac.il/object/2020adfj)
+**spectroscopic type: SN II**
+
+discovery date: 03 Jan 2021
+
+
+----------
+### [SN 2020acfj](https://wis-tns.weizmann.ac.il/object/2020acfj)
+**spectroscopic type: SN Ia**
+
+discovery date: 28 Dec 2020
+
+
+----------
+### [SN 2020zgl](https://wis-tns.weizmann.ac.il/object/2020zgl)
+**spectroscopic type: SN Ib-pec**
+
+discovery date: 28 Dec 2020
+
+
+----------
+### [SN 2020jgl](https://wis-tns.weizmann.ac.il/object/2020jgl)
+**spectroscopic type: SN Ia**
+
+discovery date: 28 Dec 2020
+
+
+----------
+### [SN 2020zkt](https://wis-tns.weizmann.ac.il/object/2020zkt)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020abks](https://wis-tns.weizmann.ac.il/object/2020abks)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020zgu](https://wis-tns.weizmann.ac.il/object/2020zgu)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020aawo](https://wis-tns.weizmann.ac.il/object/2020aawo)
+**spectroscopic type: SN II**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020advm](https://wis-tns.weizmann.ac.il/object/2020advm)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020ywh](https://wis-tns.weizmann.ac.il/object/2020ywh)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020admb](https://wis-tns.weizmann.ac.il/object/2020admb)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020acoo](https://wis-tns.weizmann.ac.il/object/2020acoo)
+**spectroscopic type: SN Ia-91bg-like**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020aatv](https://wis-tns.weizmann.ac.il/object/2020aatv)
+**spectroscopic type: SN II**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020aczg](https://wis-tns.weizmann.ac.il/object/2020aczg)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020ypz](https://wis-tns.weizmann.ac.il/object/2020ypz)
+**spectroscopic type: SN Ia**
+
+discovery date: 27 Dec 2020
+
+
+----------
+### [SN 2020yvv](https://wis-tns.weizmann.ac.il/object/2020yvv)
+**spectroscopic type: SN Ib**
+
+discovery date: 26 Dec 2020
+
+
+----------
+### [SN 2020yxv](https://wis-tns.weizmann.ac.il/object/2020yxv)
+**spectroscopic type: SN Ia**
+
+discovery date: 26 Dec 2020
+
+
+----------
+### [SN 2020wgr](https://wis-tns.weizmann.ac.il/object/2020wgr)
+**spectroscopic type: SN Ia**
+
+discovery date: 26 Dec 2020
+
+
+----------
+### [SN 2020yem](https://wis-tns.weizmann.ac.il/object/2020yem)
+**spectroscopic type: SN Ia**
+
+discovery date: 25 Dec 2020
+
+
+----------
+### [SN 2020acrz](https://wis-tns.weizmann.ac.il/object/2020acrz)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 Dec 2020
+
+
+----------
+### [SN 2020acsn](https://wis-tns.weizmann.ac.il/object/2020acsn)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 Dec 2020
+
+
+----------
+### [SN 2020acmm](https://wis-tns.weizmann.ac.il/object/2020acmm)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Dec 2020
+
+
+----------
+### [SN 2020acca](https://wis-tns.weizmann.ac.il/object/2020acca)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Dec 2020
+
+
+----------
+### [SN 2020abpe](https://wis-tns.weizmann.ac.il/object/2020abpe)
+**spectroscopic type: SN Ia-91bg-like**
+
+discovery date: 15 Dec 2020
+
+
+----------
+### [SN 2020abrp](https://wis-tns.weizmann.ac.il/object/2020abrp)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Dec 2020
+
+
+----------
+### [SN 2020yss](https://wis-tns.weizmann.ac.il/object/2020yss)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Dec 2020
+
+
+----------
+### [SN 2020aavm](https://wis-tns.weizmann.ac.il/object/2020aavm)
+**spectroscopic type: SN IIP**
+
+discovery date: 15 Dec 2020
+
+
+----------
+### [SN 2020ytn](https://wis-tns.weizmann.ac.il/object/2020ytn)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Dec 2020
+
+
+----------
+### [SN 2020zjo](https://wis-tns.weizmann.ac.il/object/2020zjo)
+**spectroscopic type: SN Ia**
+
+discovery date: 15 Dec 2020
+
+
+----------
+### [SN 2020aagu](https://wis-tns.weizmann.ac.il/object/2020aagu)
+**spectroscopic type: SN II**
+
+discovery date: 15 Dec 2020
+
+
+----------
+### [SN 2020aauc](https://wis-tns.weizmann.ac.il/object/2020aauc)
+**spectroscopic type: SN Ic**
+
+discovery date: 14 Dec 2020
+
+
+----------
+### [SN 2020ras](https://wis-tns.weizmann.ac.il/object/2020ras)
+**spectroscopic type: SN II**
+
+discovery date: 14 Dec 2020
+
+
+----------
+### [SN 2020ugz](https://wis-tns.weizmann.ac.il/object/2020ugz)
+**spectroscopic type: SN Ia**
+
+discovery date: 14 Dec 2020
+
+
+----------
+### [SN 2020zjf](https://wis-tns.weizmann.ac.il/object/2020zjf)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 14 Dec 2020
+
+
+----------
+### [SN 2020aapq](https://wis-tns.weizmann.ac.il/object/2020aapq)
+**spectroscopic type: SN II**
+
+discovery date: 14 Dec 2020
+
+
+----------
+### [SN 2020acct](https://wis-tns.weizmann.ac.il/object/2020acct)
+**spectroscopic type: SN IIn**
+
+discovery date: 13 Dec 2020
+
+
+----------
+### [SN 2020abra](https://wis-tns.weizmann.ac.il/object/2020abra)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 13 Dec 2020
+
+
+----------
+### [SN 2020acmr](https://wis-tns.weizmann.ac.il/object/2020acmr)
+**spectroscopic type: SN II-pec**
+
+discovery date: 12 Dec 2020
+
+
+----------
+### [SN 2020aclx](https://wis-tns.weizmann.ac.il/object/2020aclx)
+**spectroscopic type: SN Ia-91bg-like**
+
+discovery date: 12 Dec 2020
+
+
+----------
+### [SN 2020abml](https://wis-tns.weizmann.ac.il/object/2020abml)
+**spectroscopic type: SN II**
+
+discovery date: 10 Dec 2020
+
+
+----------
+### [SN 2020til](https://wis-tns.weizmann.ac.il/object/2020til)
+**spectroscopic type: SN Ia**
+
+discovery date: 10 Dec 2020
+
+
+----------
+### [SN 2020aauh](https://wis-tns.weizmann.ac.il/object/2020aauh)
+**spectroscopic type: SN Ia**
+
+discovery date: 09 Dec 2020
+
+
+----------
+### [SN 2020aagw](https://wis-tns.weizmann.ac.il/object/2020aagw)
+**spectroscopic type: SN Ia**
+
+discovery date: 09 Dec 2020
+
+
+----------
+### [SN 2020acaj](https://wis-tns.weizmann.ac.il/object/2020acaj)
+**spectroscopic type: SN Ia**
+
+discovery date: 09 Dec 2020
+
+
+----------
+### [SN 2019ssg](https://wis-tns.weizmann.ac.il/object/2019ssg)
+**spectroscopic type: SN IIn**
+
+discovery date: 09 Dec 2020
+
+
+----------
+### [SN 2020yvu](https://wis-tns.weizmann.ac.il/object/2020yvu)
+**spectroscopic type: SN Ia**
+
+discovery date: 09 Dec 2020
+
+
+----------
+### [SN 2020abdk](https://wis-tns.weizmann.ac.il/object/2020abdk)
+**spectroscopic type: SN Ia**
+
+discovery date: 09 Dec 2020
+
+
+----------
+### [SN 2020wgs](https://wis-tns.weizmann.ac.il/object/2020wgs)
+**spectroscopic type: SN II**
+
+discovery date: 09 Dec 2020
+
+
+----------
+### [SN 2020aafb](https://wis-tns.weizmann.ac.il/object/2020aafb)
+**spectroscopic type: SN IIn**
+
+discovery date: 09 Dec 2020
+
+
+----------
+### [SN 2020yyg](https://wis-tns.weizmann.ac.il/object/2020yyg)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 09 Dec 2020
+
+
+----------
+### [SN 2020abfa](https://wis-tns.weizmann.ac.il/object/2020abfa)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020vzm](https://wis-tns.weizmann.ac.il/object/2020vzm)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020zsp](https://wis-tns.weizmann.ac.il/object/2020zsp)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020zfp](https://wis-tns.weizmann.ac.il/object/2020zfp)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020aaue](https://wis-tns.weizmann.ac.il/object/2020aaue)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020uem](https://wis-tns.weizmann.ac.il/object/2020uem)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020abmp](https://wis-tns.weizmann.ac.il/object/2020abmp)
+**spectroscopic type: SN Ic**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020abcl](https://wis-tns.weizmann.ac.il/object/2020abcl)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020abty](https://wis-tns.weizmann.ac.il/object/2020abty)
+**spectroscopic type: SN II**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020aabz](https://wis-tns.weizmann.ac.il/object/2020aabz)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [AT 2018gxm](https://wis-tns.weizmann.ac.il/object/2018gxm)
+**spectroscopic type: CV**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020uvf](https://wis-tns.weizmann.ac.il/object/2020uvf)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020xps](https://wis-tns.weizmann.ac.il/object/2020xps)
+**spectroscopic type: SN Ia**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020xkw](https://wis-tns.weizmann.ac.il/object/2020xkw)
+**spectroscopic type: SN IIn**
+
+discovery date: 08 Dec 2020
+
+
+----------
+### [SN 2020uwn](https://wis-tns.weizmann.ac.il/object/2020uwn)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Dec 2020
+
+
+----------
+### [SN 2020tnq](https://wis-tns.weizmann.ac.il/object/2020tnq)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Dec 2020
+
+
+----------
+### [SN 2020zci](https://wis-tns.weizmann.ac.il/object/2020zci)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Dec 2020
+
+
+----------
+### [SN 2013hk](https://wis-tns.weizmann.ac.il/object/2013hk)
+**spectroscopic type: SN Ia**
+
+discovery date: 07 Dec 2020
 
