@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-09-18 18:45:06 
+date:   2022-09-18 19:45:07 
 categories: discoveries
 ---
 
@@ -2678,32 +2678,4 @@ discovery date: 10 Dec 2020
 **spectroscopic type: SN Ia**
 
 discovery date: 10 Dec 2020
-
-
-----------
-### [SN 2020aauh](https://wis-tns.weizmann.ac.il/object/2020aauh)
-**spectroscopic type: SN Ia**
-
-discovery date: 09 Dec 2020
-
-
-----------
-### [SN 2020aagw](https://wis-tns.weizmann.ac.il/object/2020aagw)
-**spectroscopic type: SN Ia**
-
-discovery date: 09 Dec 2020
-
-
-----------
-### [SN 2020acaj](https://wis-tns.weizmann.ac.il/object/2020acaj)
-**spectroscopic type: SN Ia**
-
-discovery date: 09 Dec 2020
-
-
-----------
-### [SN 2019ssg](https://wis-tns.weizmann.ac.il/object/2019ssg)
-**spectroscopic type: SN IIn**
-
-discovery date: 09 Dec 2020
 
