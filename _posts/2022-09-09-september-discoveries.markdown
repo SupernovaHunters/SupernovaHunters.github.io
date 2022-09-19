@@ -8,6 +8,27 @@ categories: discoveries
 
 
 ----------
+### [AT 2022ujz](https://www.wis-tns.org/object/2022ujz)
+score: 0.992783
+
+discovery date: 19 Sep 2022
+
+*'Michele T. Mazzucato'* **'Andres Eloy Martinez Rojas'** **'Cledison Marcos da Silva'** **'B L Goodwin'** 'Henryk Krawczyk' 'Meryl Goulbourne' 'C.D'silva ' 'Benoît ROUSSEAU' 'Valmir Martins de Morais' 
+
+80560182
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/87d0c004-93bf-4030-a7d2-f0df67dd12c7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/20341cc8-453a-48ce-89d4-85f1c92613c9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cef6a10d-af0e-4d2d-902d-f6df795078cd.jpeg" width="200"/>
+
+80560188
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0d907344-bfa7-42be-b6aa-3560448b557c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/76cc7341-f51e-4eb5-bd87-d7da0a27b2f7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6f19c0b9-6025-42f0-9bc4-b92e02148a7b.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022qlk](https://www.wis-tns.org/object/2022qlk)
 score: 0.908681
 
