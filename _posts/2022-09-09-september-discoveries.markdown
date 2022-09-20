@@ -8,6 +8,29 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vfb](https://www.wis-tns.org/object/2022vfb)
+aka. **PS22jep**
+
+score: 0.932565
+
+discovery date: 20 Sep 2022
+
+***'Elisabeth Baeten'*** **'Henryk Krawczyk'** **'Meryl Goulbourne'** 'Cledison Marcos da Silva' 'B L Goodwin' 'Valmir Martins de Morais' 'Rosemary Billington' 
+
+80586584
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/522a7e19-393f-4614-9ccd-b9f7453a39a2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7a7a86cd-7905-4ecf-995c-92048f473a4f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/eaa4769d-117f-45d7-ab28-1ff69ec3b217.jpeg" width="200"/>
+
+80586585
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8a7833ca-4482-4ff4-adfe-0f16fcc6dd73.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8b60fb19-cbb7-4fbc-a18a-0daf33c1a40f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6f41e379-667c-4b01-83a2-e9bbb4930eb0.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022uzg](https://www.wis-tns.org/object/2022uzg)
 aka. **PS22izc**
 
