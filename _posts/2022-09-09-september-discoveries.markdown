@@ -8,6 +8,44 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vfc](https://www.wis-tns.org/object/2022vfc)
+aka. **PS22jer**
+
+score: 0.900737
+
+discovery date: 22 Sep 2022
+
+*'Henryk Krawczyk'* **'B L Goodwin'** **'Robert Bankowski'** **'Sauro Gaudenzi'** 'Cledison Marcos da Silva' 'Meryl Goulbourne' 'Elisabeth Baeten' 'Valmir Martins de Morais' 'Ishika Jain' 'Rosemary Billington' 'LUCIA MARIA FERREIRA LIMA' 'Michele T. Mazzucato' 
+
+80585867
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1ef3aba6-7e68-47ea-8b67-1f45ea627a84.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5aad8d39-1746-4b5d-b073-b42a4ded8249.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1e7b4a5b-a4fa-4441-bc3f-ba3327e18ae2.jpeg" width="200"/>
+
+80585869
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/60868a80-3873-44ef-843b-e763e44bc9f8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dcaff83a-3c61-4ca1-a9cd-551277f36330.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5478f0ed-977f-42fa-a0e6-125fdcc78ea0.jpeg" width="200"/>
+
+80585871
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dc4c51b4-f751-46d0-a8fc-9aea6f7174f5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/396f2f81-a2e8-4db5-a558-8df44d177567.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b246b1e3-c075-4854-a141-da4744b6b855.jpeg" width="200"/>
+
+80585873
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0fdf310c-cc8c-4fdc-88f7-250d587249ec.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/260bef37-2079-47df-9cbd-fa923430d569.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2f835974-4192-48e7-8a33-dbe3345a2c30.jpeg" width="200"/>
+
+80585875
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a3df3ae2-195f-4652-b768-3b4c4ab4acdf.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9e94f9f1-36b0-48c7-af77-34250f660e2b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/41255003-0068-40d4-ac12-f52d44c27846.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022vah](https://www.wis-tns.org/object/2022vah)
 aka. **PS22jae**
 
