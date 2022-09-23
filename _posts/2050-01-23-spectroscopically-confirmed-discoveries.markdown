@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-09-23 01:45:30 
+date:   2022-09-23 02:45:31 
 categories: discoveries
 ---
 
@@ -757,41 +757,6 @@ discovery date: 24 May 2021
 
 ----------
 ### [SN 2021dcu](https://wis-tns.weizmann.ac.il/object/2021dcu)
-**spectroscopic type: SN Ia**
-
-discovery date: 24 May 2021
-
-
-----------
-### [SN 2021lta](https://wis-tns.weizmann.ac.il/object/2021lta)
-**spectroscopic type: SN Ia**
-
-discovery date: 24 May 2021
-
-
-----------
-### [SN 2021fbc](https://wis-tns.weizmann.ac.il/object/2021fbc)
-**spectroscopic type: SN Ia**
-
-discovery date: 24 May 2021
-
-
-----------
-### [SN 2021mfn](https://wis-tns.weizmann.ac.il/object/2021mfn)
-**spectroscopic type: SN Ia**
-
-discovery date: 24 May 2021
-
-
-----------
-### [SN 2021dks](https://wis-tns.weizmann.ac.il/object/2021dks)
-**spectroscopic type: SN Ia**
-
-discovery date: 24 May 2021
-
-
-----------
-### [SN 2021hem](https://wis-tns.weizmann.ac.il/object/2021hem)
 **spectroscopic type: SN Ia**
 
 discovery date: 24 May 2021
