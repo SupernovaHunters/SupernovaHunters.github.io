@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-09-25 18:45:02 
+date:   2022-09-25 19:45:03 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2022vcv](https://wis-tns.weizmann.ac.il/object/2022vcv)
+**spectroscopic type: SN Ia-91T-like**
+
+discovery date: 25 Sep 2022
 
 
 ----------
