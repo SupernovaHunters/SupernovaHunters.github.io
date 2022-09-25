@@ -8,6 +8,73 @@ categories: discoveries
 
 
 ----------
+### [SN 2022vcv](https://www.wis-tns.org/object/2022vcv)
+
+**Spectroscopic type: SN Ia-91T-like**
+
+aka. **PS22jde**
+
+score: 0.974752
+
+discovery date: 25 Sep 2022
+
+*'Michele T. Mazzucato'* **'Sauro Gaudenzi'** **'Dan Crowson'** **'Emily Jackson'** 'Henryk Krawczyk' 'Cledison Marcos da Silva' 'Meryl Goulbourne' 'Valmir Martins de Morais' 'Michał Biesiada' 'Khushi Arora' 'jyoti kewat' 'Elisabeth Baeten' 'B L Goodwin' 'Ashok Ghosh' 'Virgilio Gonano' 'gachrysc' 'Robert Bankowski' 'WRSunset' 
+
+80585761
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/99242c1b-fae5-42c6-bb32-7223d49007e3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/11ad8291-84a9-42d6-9807-2ccb23fce4e7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5d89727a-5361-48d8-a8f4-9ba04703e71d.jpeg" width="200"/>
+
+80585764
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/71758600-e0a8-464d-a41a-6330c02fdfab.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fa736e41-1d86-4009-b609-ace7853e6023.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c43373ec-6870-4d78-b197-c9c9fa7fed98.jpeg" width="200"/>
+
+80585766
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/eb9e1532-9f35-4a1f-b800-6fc8cdc6e7d4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/872fc231-0eee-4931-bf0e-eff7d0917fff.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dce64fe3-075e-451e-989e-835f94ff11b2.jpeg" width="200"/>
+
+80585769
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b9ee9234-fc17-4a76-b651-0572ec880986.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9973e878-92da-42d3-91c1-562df8cb816e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8703a41f-9121-4360-995b-44761c3ef0bb.jpeg" width="200"/>
+
+80585771
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b0b9c428-dce8-4888-84a2-05d219dc7212.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0e60f836-8468-4a49-a7a8-aae1ad2797f1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c471f119-cb29-4a0e-9438-ea7f64abb458.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022sph](https://www.wis-tns.org/object/2022sph)
+score: 0.991661
+
+discovery date: 25 Sep 2022
+
+*'Michele T. Mazzucato'* **'Meryl Goulbourne'** **'Cledison Marcos da Silva'** **'Dan Crowson'** 'Henryk Krawczyk' 'Michał Biesiada' 'Lukas2117' 'Valmir Martins de Morais' 'B L Goodwin' 'Ashok Ghosh' 'Virgilio Gonano' 'gachrysc' 'Giovanni Colombo' 'Benoît ROUSSEAU' 
+
+80583831
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c9af351f-d6f3-4e26-9330-7215bd424921.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d4a873fb-fbc5-4954-87de-27eca2b95527.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3559e177-53d2-44a9-a455-3e82e7574115.jpeg" width="200"/>
+
+80583832
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/88f2fb5c-6842-4bc4-a7d0-0a4618604841.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f36e173a-1538-438c-8d69-c573c272a397.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8fc55357-33cf-42c2-b1a1-3e50e9c9de3a.jpeg" width="200"/>
+
+80583833
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/99b6b2aa-f208-41e8-85fb-ac761329c125.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b6d68aba-68dc-4349-aeac-f6e7c59df346.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/57605691-6f4a-42fc-9ec3-2d6f525d9f0e.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022vfe](https://www.wis-tns.org/object/2022vfe)
 aka. **PS22jet**
 
