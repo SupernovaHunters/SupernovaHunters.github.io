@@ -8,6 +8,39 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vfe](https://www.wis-tns.org/object/2022vfe)
+aka. **PS22jet**
+
+score: 0.979007
+
+discovery date: 25 Sep 2022
+
+***'Henryk Krawczyk'*** **'Ishika Jain'** **'Ashok Ghosh'** 'Cledison Marcos da Silva' 'Elisabeth Baeten' 'Meryl Goulbourne' 'Giovanni Colombo' 'Valmir Martins de Morais' 'Benoît ROUSSEAU' 'Rosemary Billington' 'LUCIA MARIA FERREIRA LIMA' 'Michele T. Mazzucato' 'B L Goodwin' 'Dan Crowson' 
+
+80585672
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/456b18a5-fe18-4008-83e6-8ded33aea46a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/44ad1799-9344-46f9-a308-ef790fdb1935.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bd74c999-c97a-4813-a760-a7826887a7ac.jpeg" width="200"/>
+
+80585674
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/84bd8cb7-e23d-4133-9e26-f86bb9e58320.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b21041a9-0106-4d1b-b547-5aa47f653742.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/16f5196c-f9ed-44fe-89fb-8e1841f327b9.jpeg" width="200"/>
+
+80585676
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/40eb2439-3395-427a-a763-0532b202aa97.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c0b39325-10d0-457f-8e1c-7d28ef5cea50.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1418ef9d-4c6a-4c6e-b0fb-ad219f43f797.jpeg" width="200"/>
+
+80585678
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c1f20e73-3153-4081-bc5e-d6ed3ca3cd25.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/56003cf1-a582-4483-8e36-8ed38d54ca73.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/473689b5-cf07-4869-9b44-afc89567a019.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022vfc](https://www.wis-tns.org/object/2022vfc)
 aka. **PS22jer**
 
