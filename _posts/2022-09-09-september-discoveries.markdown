@@ -8,6 +8,40 @@ categories: discoveries
 
 
 ----------
+### [SN 2022ufp](https://www.wis-tns.org/object/2022ufp)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.968046
+
+discovery date: 27 Sep 2022
+
+*'Michele T. Mazzucato'* **'Dan Crowson'** **'Cledison Marcos da Silva'** **'gachrysc'** 'Sumit Kewat' 'Henryk Krawczyk' 'Valmir Martins de Morais' 'Meryl Goulbourne' 'Sophia Shannon' 'Ashok Ghosh' 'Robert Bankowski' 'B L Goodwin' 'Michał Biesiada' 'Virgilio Gonano' 'Giovanni Colombo' 'WRSunset' 'Georgios Lekkas' 
+
+80580861
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3140057f-7d61-46c4-95a7-b7a343528154.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3db0049b-68b9-43f2-946a-931c854475d5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7f30d157-6533-4e6b-9931-04ee803dd177.jpeg" width="200"/>
+
+80580862
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d128bd98-4ae5-473f-8474-6700de49288c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9d8d8746-1c86-4d29-87a4-b7ffc73710d9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9d457fae-2372-4783-a5af-4ea435b9d4e7.jpeg" width="200"/>
+
+80580863
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4191237a-5f57-4fb4-aaf8-5f55996d62d6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9a8c7277-2f07-440b-9472-6cdc46f80c9d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/88ede001-b71d-496d-b7c9-b026409f0016.jpeg" width="200"/>
+
+80580864
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/807ddf4a-1753-4851-88fc-edc7e34eb137.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d6a73a02-8ec1-4498-aa20-8157853b399d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f007b0e6-4e81-44ef-8acd-30b34785fb2f.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022ujw](https://www.wis-tns.org/object/2022ujw)
 score: 0.970598
 
