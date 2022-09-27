@@ -8,6 +8,44 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vfd](https://www.wis-tns.org/object/2022vfd)
+aka. **PS22jes**
+
+score: 0.972179
+
+discovery date: 27 Sep 2022
+
+*'Henryk Krawczyk'* **'Hassan Zia'** **'Meryl Goulbourne'** **'Valmir Martins de Morais'** 'Elisabeth Baeten' 'B L Goodwin' 'Giovanni Colombo' 'Benoît ROUSSEAU' 'Sauro Gaudenzi' 'Cledison Marcos da Silva' 'Michele T. Mazzucato' 'Amit Raka' 'Michał Biesiada' 'Ashok Ghosh' 'Virgilio Gonano' 'gachrysc' 'Oria Troka' 'Georgios Lekkas' 
+
+80586458
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/58f0cdb3-f74e-4c26-b10f-f5b85c4b1ae8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/62f80567-2fe6-4ee1-9f73-3be6f6e2d252.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b6cf6af3-0af1-467b-b7e0-a08f95299eca.jpeg" width="200"/>
+
+80586460
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/120c7f16-d36d-4470-86ad-521a2342356d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/74ada5e0-2229-4294-9d73-fd57a047dfc7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/21b2f2fd-ffcf-43e5-ac77-e0b57245d44f.jpeg" width="200"/>
+
+80586463
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/90bcb290-9e9c-4ac0-80fa-947c8c6b405e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f46bf2bf-7b9f-4101-9c75-3853d8ac073c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fba26083-af80-41c9-a796-682bc513c111.jpeg" width="200"/>
+
+80586464
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a09f00ea-fe88-4cfb-9229-d5f645e0fce7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/399f320e-3cff-4c23-a6b9-77abe801c178.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/666da15c-bc97-41b8-bdc7-df88786b90bd.jpeg" width="200"/>
+
+80586465
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5b7317a7-1e32-47d7-bb97-85370e02f292.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c9f43c05-1aaa-404f-bd0f-4a2c55f97db6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cd183e9e-54b8-43bc-aa20-28747600d1b8.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2022ufp](https://www.wis-tns.org/object/2022ufp)
 
 **Spectroscopic type: SN Ia**
