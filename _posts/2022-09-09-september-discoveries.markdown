@@ -1196,7 +1196,10 @@ discovery date: 26 Sep 2022
 
 
 ----------
-### [AT 2022ryo](https://www.wis-tns.org/object/2022ryo)
+### [SN 2022ryo](https://www.wis-tns.org/object/2022ryo)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.968888
 
 discovery date: 26 Sep 2022
