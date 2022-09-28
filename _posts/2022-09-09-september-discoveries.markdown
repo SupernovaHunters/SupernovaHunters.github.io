@@ -8,6 +8,39 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vcb](https://www.wis-tns.org/object/2022vcb)
+aka. **PS22jby**
+
+score: 0.970191
+
+discovery date: 28 Sep 2022
+
+*'Michele T. Mazzucato'* **'B L Goodwin'** **'WRSunset'** **'Sauro Gaudenzi'** 'Henryk Krawczyk' 'Amit Raka' 'Rosemary Billington' 'Sophia Shannon' 'Valmir Martins de Morais' 'Cledison Marcos da Silva' 'Nichole Coryell' 'Ashok Ghosh' 'Virgilio Gonano' 'gachrysc' 'Giovanni Colombo' 'Michał Biesiada' 'Benoît ROUSSEAU' 
+
+80580894
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/19420d4d-f219-441b-bc22-a5611c53cf6e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9925eff3-0493-43f8-89e2-85827027d361.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/02fe26e6-9ed3-4f99-bedd-95935e38cd7c.jpeg" width="200"/>
+
+80580895
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/432f7ae1-93b7-4660-bdee-ccb6e7baf1e7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2c8b09c0-6d04-4642-9614-f9525b0f50e1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b549b262-64fa-4ae1-977d-d017fa4b9800.jpeg" width="200"/>
+
+80580896
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/59a1afa2-07af-493a-9f9a-e72d6d91951b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7bf94007-e875-42df-98e1-3c4a41bd7dce.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ebe6a7be-8c16-41ab-9dba-8682bdba93e8.jpeg" width="200"/>
+
+80580897
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/11290c97-b74c-47a2-9a4b-98d41074ad8a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2a096471-43c9-47fc-a6e6-a49a9bc82511.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/01c16024-8bb6-435c-abde-f0cbf4a5c577.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022vcp](https://www.wis-tns.org/object/2022vcp)
 aka. **PS22jct**
 
