@@ -8,6 +8,42 @@ categories: discoveries
 
 
 ----------
+### [AT 2022oeb](https://www.wis-tns.org/object/2022oeb)
+score: 0.995448
+
+discovery date: 30 Sep 2022
+
+*'Henryk Krawczyk'* **'B L Goodwin'** **'Meryl Goulbourne'** **'Cledison Marcos da Silva'** 'Amit Raka' 'Michele T. Mazzucato' 'Rosemary Billington' 'Valmir Martins de Morais' 'Benoît ROUSSEAU' 'Khushi Arora' 'Ashok Ghosh' 'Robert Bankowski' 'Daniel Sánchez Solís' 'Virgilio Gonano' 'gachrysc' 'Georgios Lekkas' 'Michał Biesiada' 
+
+80587145
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1ce9da9d-c332-4e59-b76d-8aad2619881f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b1542e9c-8a9c-4ffb-ae1c-28c7dd1bbb1d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5144d2fa-dba9-4166-8715-952efdfe38f4.jpeg" width="200"/>
+
+80587148
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fde1a7dd-2363-406a-90df-26c6d610a43d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ebff37c0-36d3-4361-ad7b-8e28249b5cb7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/47db6ece-8917-409b-917b-ee3ee529b5f2.jpeg" width="200"/>
+
+80587151
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1da5f453-47a6-43ae-aa96-6b874c2b3cab.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/addb70ac-7b19-447b-a314-2e74b0c46385.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8729da2a-7d12-4b44-91a4-9193e15367b8.jpeg" width="200"/>
+
+80587153
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2b03b823-1e08-45bd-8d29-bdd94e604f17.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/07bd2de6-4e6e-4451-9118-cc0373081d44.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4c3ccd67-81fd-41b9-b69a-3819db8ec961.jpeg" width="200"/>
+
+80587155
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/604df97e-c553-46c7-a713-1e3c66a187da.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7a96e093-d951-42bb-b940-5e23a452f010.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/81148ea8-fb0d-4c2f-816c-3c6f9281fb24.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022qfc](https://www.wis-tns.org/object/2022qfc)
 score: 0.942475
 
@@ -830,7 +866,10 @@ discovery date: 26 Sep 2022
 
 
 ----------
-### [AT 2022vcz](https://www.wis-tns.org/object/2022vcz)
+### [SN 2022vcz](https://www.wis-tns.org/object/2022vcz)
+
+**Spectroscopic type: SN Ic-BL**
+
 aka. **PS22jdl**
 
 score: 0.995042
@@ -1708,7 +1747,10 @@ discovery date: 21 Sep 2022
 
 
 ----------
-### [AT 2022vfh](https://www.wis-tns.org/object/2022vfh)
+### [SN 2022vfh](https://www.wis-tns.org/object/2022vfh)
+
+**Spectroscopic type: SN Ia**
+
 aka. **PS22jew**
 
 score: 0.997655
