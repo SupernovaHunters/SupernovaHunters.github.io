@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vwb](https://www.wis-tns.org/object/2022vwb)
+score: 0.952923
+
+discovery date: 30 Sep 2022
+
+*'Cledison Marcos da Silva'* **'Valmir Martins de Morais'** **'Pritam Raikar'** **'B L Goodwin'** 'Henryk Krawczyk' 'Virgilio Gonano' 'Sauro Gaudenzi' 'Michele T. Mazzucato' 'Ashok Ghosh' 'Michał Biesiada' 'Giovanni Colombo' 'Khushi Arora' 
+
+80693292
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f756d1bd-2aa3-431c-bfbb-7cd732c103af.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dda2a82c-8652-4aec-811f-5d90ad059f78.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cc4efaaf-60b0-42d1-9f47-5d8f4f2a1859.jpeg" width="200"/>
+
+80693294
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e1c208f7-ac6f-4f10-9bc3-bf5a841033e9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c5c5c5e1-6cd8-4d06-b7ed-8a263454d49d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a25d2775-7700-4ad1-aec3-4b8835e39ede.jpeg" width="200"/>
+
+80693296
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/43227706-f778-4f36-9e19-2f18b24a1add.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/12b8467d-8a4c-4c49-81ba-1ec463d299cd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f2423332-2a42-4617-9621-1f65e15ebdac.jpeg" width="200"/>
+
+80693299
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/07b15c67-2716-4fea-bf1d-1f7a3f050b81.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dc1ffbb3-92ba-4d78-8ec8-531e420bfb58.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1d8fc47c-241f-4711-92e5-77e8dc9c901c.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022oeb](https://www.wis-tns.org/object/2022oeb)
 score: 0.995448
 
