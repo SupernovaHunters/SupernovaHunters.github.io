@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vnb](https://www.wis-tns.org/object/2022vnb)
+score: 0.938925
+
+discovery date: 01 Oct 2022
+
+*'Valmir Martins de Morais'* **'Jayanta Ghosh'** **'Ashok Ghosh'** **'Sara Thorsell'** 'Henryk Krawczyk' 'Sauro Gaudenzi' 'Michele T. Mazzucato' 'Daniel Sánchez Solís' 'B L Goodwin' 'Virgilio Gonano' 'Rosemary Billington' 'Michał Biesiada' 'Clément Violette' 'Dean Joseph Simister' 'Sumit Kewat' 
+
+80684208
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fd4c8cde-daa2-4f19-9a59-c53e16298ed3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2f858853-f9ea-4136-abe7-a063d7381b9d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5a4fe235-a80b-45ab-893b-05ce31cf4b27.jpeg" width="200"/>
+
+80684209
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/54af8ac7-0c01-4a1d-ab30-ce9ffd7a780a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6d82a3c9-d100-4ef2-9a96-5af386e01fc8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a9a82374-9da7-4b2d-a1fd-be4900d59280.jpeg" width="200"/>
+
+80684211
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d2b15272-8e8a-406a-b26c-6ae2c1080dc3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c40133a9-1267-494f-90fc-d20bf4fa8731.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f369cbe3-6e25-4bcb-8308-87b2153341fb.jpeg" width="200"/>
+
+80684213
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d04031e5-401d-4e0e-9f2f-6e8cd2a959b2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/567d1d4c-5a4c-4696-9ffb-3c1b735a51ff.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/54cd1a1f-9e6e-44f4-bbbd-98ba3c1a3ccc.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2022quh](https://www.wis-tns.org/object/2022quh)
 
 **Spectroscopic type: SN II**
