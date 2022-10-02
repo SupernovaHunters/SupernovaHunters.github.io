@@ -8,6 +8,40 @@ categories: discoveries
 
 
 ----------
+### [SN 2022suv](https://www.wis-tns.org/object/2022suv)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.972707
+
+discovery date: 02 Oct 2022
+
+***'Cledison Marcos da Silva'*** **'Pritam Raikar'** **'B L Goodwin'** 'Valmir Martins de Morais' 'Henryk Krawczyk' 'Sauro Gaudenzi' 'Michele T. Mazzucato' 'Michał Biesiada' 'Ashok Ghosh' 'Virgilio Gonano' 'Jayanta Ghosh' 'Khushi Arora' 'Meryl Goulbourne' 'Clément Violette' 'Elisabeth Baeten' 'PreJhTrg' 
+
+80686047
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e95b302f-b490-472e-8244-831e5e6cbb20.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b60129e8-f725-47f1-a10a-582450e61c0c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/38c4f424-1873-4969-a9e1-5dc813df226b.jpeg" width="200"/>
+
+80686048
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/41b37fdd-2a12-4601-b9c5-2e7f7f5499c1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/77ca7ba1-83d8-490b-b83b-34eb5b4aa86a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cb7da28c-caaa-495b-a3b2-3c60b6a1bffa.jpeg" width="200"/>
+
+80686050
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/90425f49-877a-4e3f-96c8-3ec8b6e6f2c8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fc9ee959-ae4e-46ee-9b5c-ffc7c6875fb0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/58dc2fd0-6b76-4435-9ac9-0d83680b0aa0.jpeg" width="200"/>
+
+80686051
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ec1b7268-17b8-47a6-882e-27cb6724c9e7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c9ae6d4b-7115-4e0a-b384-7e114d4cb234.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c3f62692-aaad-4d0d-8862-632531d7e6fa.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022skn](https://www.wis-tns.org/object/2022skn)
 score: 0.916208
 
