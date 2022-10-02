@@ -8,6 +8,73 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vwt](https://www.wis-tns.org/object/2022vwt)
+score: 0.980991
+
+discovery date: 02 Oct 2022
+
+*'Valmir Martins de Morais'* **'Kerry Knight'** **'Dean Joseph Simister'** **'Ashok Ghosh'** 'Vikrant Kurmude' 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Pritam Raikar' 'Virgilio Gonano' 'Cledison Marcos da Silva' 'Mark_Moffatt' 'Jayanta Ghosh' 'Michał Biesiada' 'Clément Violette' 'Elisabeth Baeten' 'Robert Bankowski' 'Benoît ROUSSEAU' 
+
+80688603
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3df7d260-6f33-4168-9aaa-55d63d909e02.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/20dd3d8b-1e5d-4d1e-bf23-697d5690a468.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3eea61d7-97ab-4d27-9597-37619cb77b5a.jpeg" width="200"/>
+
+80688606
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9b583a14-136f-421e-a789-cb3fa8a3d8c3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dce9c9d7-595d-4bf3-96f1-6702867f8cb9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d37461c6-8098-4c3b-b34f-2760f2ca5840.jpeg" width="200"/>
+
+80688608
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e9e691e9-7fc2-4d1f-a491-35793f0e29ad.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7e68d9fc-8ab4-4654-ab59-fe13951d71b8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ab2053e5-8e07-44c6-bb99-a4b2836f7aa9.jpeg" width="200"/>
+
+80688612
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f73bf594-e958-4834-b5dc-5a6597b29b29.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9829b364-fa03-4dd3-9b01-5ae8eb7c7fc3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c1bf144f-15b6-422f-852a-2da00b3a8a60.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022wmr](https://www.wis-tns.org/object/2022wmr)
+score: 0.988471
+
+discovery date: 02 Oct 2022
+
+*'Benoît ROUSSEAU'* **'leonie_van_vliet'** **'Pritam Raikar'** **'Mark_Moffatt'** 'Cledison Marcos da Silva' 'Valmir Martins de Morais' 'Henryk Krawczyk' 'Sauro Gaudenzi' 'Virgilio Gonano' 'Michele T. Mazzucato' 'Michał Biesiada' 'Dan Crowson' 'Jayanta Ghosh' 'Robert Bankowski' 'Khushi Arora' 'Elisabeth Baeten' 'Vikrant Kurmude' 'PreJhTrg' 'B L Goodwin' 'Giovanni Colombo' 
+
+80683837
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/31cecf5d-8110-49be-b7a9-149c1f7f8402.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/93efab07-e72f-4913-9b0d-01d94231a94a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4cf56467-c3e8-4fa5-9491-9a8fd3d800d8.jpeg" width="200"/>
+
+80683844
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a18c07e9-070f-437a-9a1d-d1da57d55cfa.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e63d2020-4d70-4b76-a528-e16ebc8b028c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6f69ad91-9978-4437-bf79-ee6945220b2f.jpeg" width="200"/>
+
+80683847
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bf8c2dbc-5e54-4a42-99bd-9bf5ab75d892.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d4fa7c01-a1fe-4fe1-8bc5-c718211d224f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1805d0ab-e9df-4a3c-ab3a-a51807051295.jpeg" width="200"/>
+
+80683851
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7caaec8f-9204-476e-814d-feefde5ad96d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/254ddba8-d882-40ba-950c-de0b7b22e6de.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0ac1f697-5164-430a-a138-69b5c09c2373.jpeg" width="200"/>
+
+80683855
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/17b82b14-4a2b-4980-ad0c-f75ecce52552.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a596ad4b-fd6a-4cc9-83e7-8418e2e6b524.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/80b7ef9d-1bf8-4607-b8d9-b34c436b7194.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022pgz](https://www.wis-tns.org/object/2022pgz)
 score: 0.964494
 
