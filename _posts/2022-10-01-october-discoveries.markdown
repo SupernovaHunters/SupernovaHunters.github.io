@@ -8,6 +8,42 @@ categories: discoveries
 
 
 ----------
+### [AT 2022pgz](https://www.wis-tns.org/object/2022pgz)
+score: 0.964494
+
+discovery date: 02 Oct 2022
+
+*'Cledison Marcos da Silva'* **'Valmir Martins de Morais'** **'Edwina Pinkett'** **'Ashok Ghosh'** 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Pritam Raikar' 'B L Goodwin' 'Benoît ROUSSEAU' 'Virgilio Gonano' 'Michał Biesiada' 'Sauro Gaudenzi' 'Mark_Moffatt' 'Jayanta Ghosh' 'Clément Violette' 'Georgios Lekkas' 'PreJhTrg' 
+
+80692360
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/17a703ea-ee5a-415b-9861-507c07e803c8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7034dd91-1bc6-4d2d-ae14-909e24e93191.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/76b935bf-e3cc-46ce-9d1b-c21980a42f78.jpeg" width="200"/>
+
+80692361
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d1031031-742e-4b91-851a-d548422ff177.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7bd04ed7-0cd9-4162-9670-a933cbcbed62.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d44df1d3-1e67-43cc-9a69-58c6a20c8981.jpeg" width="200"/>
+
+80692362
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/517cbe14-71a5-4b5b-a9ab-38bbdaa4bc97.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a01dd5fa-a325-4e63-97f5-d7b625ad6403.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/21218e9f-e04b-4f05-a227-b871c2de3deb.jpeg" width="200"/>
+
+80692363
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/23ebb13a-a2d8-4738-bd54-8a29779457fd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/63878548-e742-4b23-bbd5-b3c0f35ceb88.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/523dbb51-bab0-4ad1-9f3a-ecee16edeac9.jpeg" width="200"/>
+
+80692364
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/32b831e6-af42-464d-868b-6a8c3031af78.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ba9b9afa-6f48-430d-83b0-1ab0433d9275.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f3a886fb-b8ef-4e87-a9d6-1805910ab192.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2022vrv](https://www.wis-tns.org/object/2022vrv)
 
 **Spectroscopic type: SN Ia**
