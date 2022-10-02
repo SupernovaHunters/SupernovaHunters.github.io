@@ -8,6 +8,97 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vxu](https://www.wis-tns.org/object/2022vxu)
+aka. **PS22jlj**
+
+score: 0.919433
+
+discovery date: 02 Oct 2022
+
+*'Valmir Martins de Morais'* **'Mark_Moffatt'** **'Pritam Raikar'** **'Sauro Gaudenzi'** 'Henryk Krawczyk' 'Cledison Marcos da Silva' 'Michele T. Mazzucato' 'Virgilio Gonano' 'Andres Eloy Martinez Rojas' 'Giovanni Colombo' 'Daniel Sánchez Solís' 'Jayanta Ghosh' 'Michał Biesiada' 'Clément Violette' 'Khushi Arora' 'Benoît ROUSSEAU' 'PreJhTrg' 
+
+80692406
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/80e10acb-413a-4467-ba9b-48d6b5804c4f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b713a04a-09bc-4c05-8d94-fb184517320b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b65a4775-75b1-4e8d-9097-7d3d72b82e0f.jpeg" width="200"/>
+
+80692408
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ab7b23bb-e257-40fa-8e40-72cb73191322.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/759d72ef-0e9a-4e26-93fa-1baec8a50328.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/450f9747-75c8-4535-aa06-0a8b4feaf24f.jpeg" width="200"/>
+
+80692409
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7efee98c-8af0-43d3-8f63-3a32392d257f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/27b8669b-5a68-4723-86e4-73b7b8d28178.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/13c905f2-23b8-4baa-a61f-a060772f3ed0.jpeg" width="200"/>
+
+80692410
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4d666434-f1d2-46f6-8fc5-1efca20e9b98.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/466e608f-c104-4abd-9061-b678211efe83.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5502690b-cb1f-4797-9bb8-bab03a37d958.jpeg" width="200"/>
+
+80692411
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5232fe18-b295-454f-831d-7b2e2ae4c05f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4e1597ed-22e4-4eef-81cf-5d48b77ee074.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bdc1e88e-4b9c-42b1-a08d-b50f8a784429.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022vjt](https://www.wis-tns.org/object/2022vjt)
+aka. **PS22jgd**
+
+score: 0.988455
+
+discovery date: 02 Oct 2022
+
+*'Valmir Martins de Morais'* **'Robert Bankowski'** **'Elisabeth Baeten'** **'Mark_Moffatt'** 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Pritam Raikar' 'Khushi Arora' 'Virgilio Gonano' 'Oria Troka' 'Ashok Ghosh' 'Dan Crowson' 'Benoît ROUSSEAU' 'Giovanni Colombo' 'Michał Biesiada' 'Jayanta Ghosh' 'B L Goodwin' 'Vikrant Kurmude' 'Meryl Goulbourne' 'Elizabeth Sherrock' 
+
+80692994
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/37668c4c-4137-423b-865b-1f4b2c5bfe70.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/60c2d335-00d0-4287-92c2-3287405156f4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0df0cac3-69cb-40e3-b6c4-5ba71e6c0958.jpeg" width="200"/>
+
+80692995
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d8d9e5af-bfd7-4c0c-881a-918b73f81490.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/457d1d1f-4f6b-4d2f-9ad4-4c3b6f213073.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/491227b9-00ea-41a0-b4bf-95174c8faabb.jpeg" width="200"/>
+
+80692997
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f6472e50-5102-4e29-9670-125b9095963d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/84b02783-ebaf-4ea8-bdc8-b41abff41913.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8022cdcf-cb26-43ca-80e0-e7a56fb39105.jpeg" width="200"/>
+
+80693000
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e6ac8ebd-6eee-450f-a38a-42d6c1698252.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6a6df623-5a5a-4dcf-aa31-2d4691c68a6b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9b552ca6-0960-4dd8-9c6c-fb8916aec057.jpeg" width="200"/>
+
+80693005
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0fd6c9a3-e787-4888-9807-ba3668b764dd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/42e72662-d42f-45d9-993a-6202aba4433d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/75e551c6-603d-421f-a81e-ec3958b5aefe.jpeg" width="200"/>
+
+80693007
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/98750bbe-93a9-4bf2-99d6-090d18255a2f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/54d85dfe-392f-4f52-b5ec-348af9fcc419.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a0c4148d-b321-4681-b7a2-46c9cf3c844d.jpeg" width="200"/>
+
+80693013
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b9fc5704-6c09-4fc5-8e3a-382cba320140.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a373292e-4fd0-41e4-bd71-cf36192ea158.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7f37c7e5-32d6-4897-95ff-aaab4fba5d53.jpeg" width="200"/>
+
+80693015
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b351691c-47e6-401d-add7-f23414541785.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4c2b589a-1716-4e13-8e1d-33641464b96a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2ca905dc-82e2-41c5-add0-de6c458298ab.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2022suv](https://www.wis-tns.org/object/2022suv)
 
 **Spectroscopic type: SN Ia**
