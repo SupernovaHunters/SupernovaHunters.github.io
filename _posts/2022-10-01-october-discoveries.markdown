@@ -8,6 +8,70 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vjn](https://www.wis-tns.org/object/2022vjn)
+aka. **PS22jfw**
+
+score: 0.963083
+
+discovery date: 03 Oct 2022
+
+*'Valmir Martins de Morais'* **'Meryl Goulbourne'** **'B L Goodwin'** **'Henryk Krawczyk'** 'Virgilio Gonano' 'Michele T. Mazzucato' 'Pritam Raikar' 'Sauro Gaudenzi' 'Piyush R. Maharana' 'Mark_Moffatt' 'Jayanta Ghosh' 'leonie_van_vliet' 'Michał Biesiada' 'Clément Violette' 'Khushi Arora' 'Elisabeth Baeten' 'Dean Joseph Simister' 'Oria Troka' 'PreJhTrg' 'Elliot Fry' 'Cledison Marcos da Silva' 
+
+80696075
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d4783b87-6d09-4087-98dc-8aeebfaa2c86.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/24ad8c80-8cbb-4330-939b-4c1bd1042cb8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/71c72dad-4d8f-406e-944a-67989d7eacbf.jpeg" width="200"/>
+
+80696077
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3f10a612-31a2-4619-ac34-e94a165dc510.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/31ef1776-198e-48d6-ae61-f07a8c6a6ebb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/31f58c86-0b4c-4894-bc00-332f428f0fa2.jpeg" width="200"/>
+
+80696079
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/876a63f0-eef0-4faf-8f09-9f08514a14f1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/08fda39f-57f0-4279-94be-afba0f82b1f9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c212efbc-51ac-4a0e-827c-249a29603251.jpeg" width="200"/>
+
+80696082
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e8437d66-95e7-4975-b8de-8a3a8f92de1c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d79b1049-7a7f-4e6c-aab1-fc4a6572308c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/93facc2a-987c-4b49-9216-a59982ff1390.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022whi](https://www.wis-tns.org/object/2022whi)
+score: 0.901316
+
+discovery date: 03 Oct 2022
+
+*'Valmir Martins de Morais'* **'Henryk Krawczyk'** **'Sauro Gaudenzi'** **'Jayanta Ghosh'** 'Michele T. Mazzucato' 'Giovanni Colombo' 'Cledison Marcos da Silva' 'Michał Biesiada' 'Mark_Moffatt' 'Elisabeth Baeten' 'Vikrant Kurmude' 'Virgilio Gonano' 'Clément Violette' 'Shourjya Pal ' 'B L Goodwin' 'PreJhTrg' 'Benoît ROUSSEAU' 
+
+80685602
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c688d03a-d410-4d2a-b716-a84029b4a6e8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/61609cf8-64ef-4f18-b29c-e542bb68077f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a7edce8f-f281-40bc-9a91-a373aa27236d.jpeg" width="200"/>
+
+80685603
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/effa3131-3e32-4118-84f8-40315fd1ac8a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/aa585574-b6c2-47b2-8134-814c479fca54.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ebd23809-b346-4eb8-acc9-b248eab333b9.jpeg" width="200"/>
+
+80685604
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8f44a797-d26b-4336-b9ee-c6a8be48cac3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c81c5ac3-188f-4f7c-917a-5c0d5a3966d1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b2e959b2-2625-46b3-b0d0-24d074268692.jpeg" width="200"/>
+
+80685605
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f58961f2-7bdb-4725-a0d1-f68f2f2ce687.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/164e133e-d463-44d7-ba15-3697db7eb472.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cfa365c4-6d54-42e2-93f5-c2a9c9c24d96.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022vmn](https://www.wis-tns.org/object/2022vmn)
 aka. **PS22jgq**
 
