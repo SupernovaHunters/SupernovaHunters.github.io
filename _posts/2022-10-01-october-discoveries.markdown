@@ -8,6 +8,42 @@ categories: discoveries
 
 
 ----------
+### [AT 2022wbm](https://www.wis-tns.org/object/2022wbm)
+score: 0.943071
+
+discovery date: 04 Oct 2022
+
+***'Valmir Martins de Morais'*** **'Henryk Krawczyk'** **'Pritam Raikar'** 'PreJhTrg' 'Michał Biesiada' 'Virgilio Gonano' 'Clément Violette' 'Jayanta Ghosh' 'Benoît ROUSSEAU' 'Sauro Gaudenzi' 'Cledison Marcos da Silva' 'Michele T. Mazzucato' 'B L Goodwin' 
+
+80809360
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1de406c6-5af7-4cd5-8740-d832981142d8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3bd6f4af-539a-4b48-b0df-3399a290b001.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/893f70dd-2282-4bba-8454-aaa05432be76.jpeg" width="200"/>
+
+80809661
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8226dc07-fe05-4d6d-a1d9-74fff3823305.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7f1ca134-4a4a-4709-9efd-835c5a65005d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9058dc82-1637-414c-84cd-c92eac5cea8b.jpeg" width="200"/>
+
+80809665
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/48af762d-08eb-4102-ba2e-a99d41ed4764.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c7ad7986-1831-485c-9b83-5f629563cec8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6a0345f0-ee3e-4f6a-938c-37e5f0f27a73.jpeg" width="200"/>
+
+80809668
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ffb67b95-621f-4f8f-9087-37a0dacd40a2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b77cbd45-becf-43c0-82f7-5bd99d1a1f47.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/29ce21e8-133a-4f33-828b-374059f1aa45.jpeg" width="200"/>
+
+80809669
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cd49dd56-7dec-4b8a-97fe-913c377844e4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5c7dc8e0-5ef5-4e2a-9821-68ad379b2f29.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/04dbcf77-815e-4698-a8c3-878d35bf1db0.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022whz](https://www.wis-tns.org/object/2022whz)
 aka. **PS22jpc**
 
