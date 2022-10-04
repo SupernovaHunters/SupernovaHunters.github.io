@@ -8,6 +8,27 @@ categories: discoveries
 
 
 ----------
+### [AT 2022wbd](https://www.wis-tns.org/object/2022wbd)
+score: 0.926559
+
+discovery date: 04 Oct 2022
+
+***'Valmir Martins de Morais'*** **'Pritam Raikar'** **'PreJhTrg'** 'Henryk Krawczyk' 'Michał Biesiada' 'Virgilio Gonano' 'Jayanta Ghosh' 'Benoît ROUSSEAU' 'Michele T. Mazzucato' 
+
+80787174
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8e0be0dc-8418-4ade-aaf0-a6cc89b31498.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/25f64c69-ad2e-4458-b85f-8b39ad757726.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/33e7594e-2971-4759-b24a-f9db52526d6d.jpeg" width="200"/>
+
+80787359
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/013b4d02-f12c-4f9e-9648-bcb7f07cda13.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a1246c2b-6759-4480-9c46-039b241c5878.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/54e9449b-34f7-4a30-b7fa-bf8b0b4a1cd5.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022vxn](https://www.wis-tns.org/object/2022vxn)
 aka. **PS22jlb**
 
