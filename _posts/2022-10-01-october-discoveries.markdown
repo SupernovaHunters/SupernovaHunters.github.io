@@ -8,6 +8,39 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vlz](https://www.wis-tns.org/object/2022vlz)
+aka. **PS22jgg**
+
+score: 0.961483
+
+discovery date: 05 Oct 2022
+
+*'Valmir Martins de Morais'* **'Mark_Moffatt'** **'Jayanta Ghosh'** **'PreJhTrg'** 'Sauro Gaudenzi' 'Henryk Krawczyk' 'Michele T. Mazzucato' 'Cledison Marcos da Silva' 'Giovanni Colombo' 'Virgilio Gonano' 'Michał Biesiada' 'Robert Bankowski' 'Gustavo Afonso Gomes' 'Akihiro Akai' 
+
+80694132
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b4224b4c-b676-403e-89b5-29b790616407.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/aefb41cb-a3be-4fdc-8811-390639cbe759.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/47a4fad7-57fc-4472-864e-48032759f3cc.jpeg" width="200"/>
+
+80694136
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/354fcec2-34a6-4944-ae9b-fe828cf72a89.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1587396d-b840-4050-a2cb-9f152f908db6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fdf83579-1dea-4daa-a5a1-cf58b653e5a1.jpeg" width="200"/>
+
+80694140
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6643e15f-370a-4f84-98cc-d98fc8e130e3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5f1badbe-41a2-473e-bdf2-e893218d4079.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3681a09c-d329-4595-b07a-2f0a18d42c36.jpeg" width="200"/>
+
+80694143
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b2b8754e-4c1f-44ea-ab88-b042ba19a4be.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2457a2aa-0b68-45f6-8f1a-05163e763c46.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0decb49e-d0d8-4909-8248-6fe62bac125b.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022vvy](https://www.wis-tns.org/object/2022vvy)
 score: 0.964494
 
