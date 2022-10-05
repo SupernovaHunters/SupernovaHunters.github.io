@@ -2284,7 +2284,10 @@ discovery date: 02 Oct 2022
 
 
 ----------
-### [AT 2022uva](https://www.wis-tns.org/object/2022uva)
+### [SN 2022uva](https://www.wis-tns.org/object/2022uva)
+
+**Spectroscopic type: SN IIb**
+
 score: 0.983439
 
 discovery date: 01 Oct 2022
