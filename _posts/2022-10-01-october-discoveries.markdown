@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2022wja](https://www.wis-tns.org/object/2022wja)
+score: 0.979925
+
+discovery date: 05 Oct 2022
+
+***'Oria Troka'*** **'PreJhTrg'** **'Valmir Martins de Morais'** 'Elliot Fry' 'Pritam Raikar' 'Henryk Krawczyk' 'Michał Biesiada' 'Virgilio Gonano' 'Jayanta Ghosh' 'Piyush R. Maharana' 'Charlie Steiner' 'Michele T. Mazzucato' 'Sovan acharya' 'Cledison Marcos da Silva' 'Vikrant Kurmude' 'Akihiro Akai' 
+
+80775831
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7001bc5f-5283-4eee-b72b-9fd84a592170.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ea2e67eb-4e2c-4d53-96c8-363708d714b1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/41ea3042-c44d-4a36-9875-5130c6ecf23f.jpeg" width="200"/>
+
+80775833
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d4bfc850-70d5-432f-b0f7-986461c0daa8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/76503c29-f0f2-4d05-bc19-b9db8ed26c46.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/282e2d91-be69-4571-aae5-f0c3ab096e68.jpeg" width="200"/>
+
+80775836
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f52b6c2d-1700-44c9-9858-45f58c50af6b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9509097d-8554-40a8-b8dd-50917cd4b63d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8fb9c234-f3d1-4e67-8b25-2f668a754043.jpeg" width="200"/>
+
+80775837
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2f2c8e4b-c029-4b33-a3dd-1653e41952a2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/053683cf-b3f7-435b-8854-f6d28fa4b0e8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/25f807f6-467c-4108-8de4-9f816d1e48ce.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022uxl](https://www.wis-tns.org/object/2022uxl)
 score: 0.992063
 
