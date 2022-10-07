@@ -604,7 +604,10 @@ discovery date: 07 Oct 2022
 
 
 ----------
-### [AT 2022tmo](https://www.wis-tns.org/object/2022tmo)
+### [SN 2022tmo](https://www.wis-tns.org/object/2022tmo)
+
+**Spectroscopic type: SN IIn**
+
 score: 0.960732
 
 discovery date: 07 Oct 2022
