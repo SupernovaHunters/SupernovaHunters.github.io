@@ -8,6 +8,39 @@ categories: discoveries
 
 
 ----------
+### [AT 2022wnv](https://www.wis-tns.org/object/2022wnv)
+aka. **PS22jqt**
+
+score: 0.963822
+
+discovery date: 07 Oct 2022
+
+*'Henryk Krawczyk'* **'Jennifer Benjamin'** **'Akihiro Akai'** **'Jayanta Ghosh'** 'Valmir Martins de Morais' 'Michał Biesiada' 'Virgilio Gonano' 'Michele T. Mazzucato' 'Cledison Marcos da Silva' 'Meryl Goulbourne' 'Elisabeth Baeten' 'Rosemary Billington' 'Robert Bankowski' 'B L Goodwin' 'Vikrant Kurmude' 'Sumit Kewat' 'Sallyann Chesson' 
+
+80800680
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d2fef8b2-fc54-44ee-af88-2d89ecb745ab.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/515d672f-f2f2-4dc3-a2af-fa3d3e71676e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7cb3603a-6c41-4d34-91a0-c4589d31c83d.jpeg" width="200"/>
+
+80800683
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5595054c-e0f6-43e1-875f-5295b13f1ab1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/57e70af8-f814-4c57-ac9d-2a69f81fcd3f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/10556bab-4e4a-4f04-8b1f-7b01fcda0513.jpeg" width="200"/>
+
+80800686
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/58bca29f-32b3-4d41-baa7-09d73a145b4b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bb122687-ca73-4e96-855b-d58d7f916442.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ab6e6c2f-dea3-4fbd-bcfd-6331fc422ed2.jpeg" width="200"/>
+
+80800852
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a2ed1158-787f-4289-bf9b-df7aa798181d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0fbd9473-ea7f-402f-b252-43eb5bc4795c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7d0274ad-9a4c-4f4a-b551-246a6d5210e5.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022wow](https://www.wis-tns.org/object/2022wow)
 aka. **PS22jrm**
 
