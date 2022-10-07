@@ -8,6 +8,27 @@ categories: discoveries
 
 
 ----------
+### [AT 2022vqj](https://www.wis-tns.org/object/2022vqj)
+score: 0.944571
+
+discovery date: 07 Oct 2022
+
+***'Valmir Martins de Morais'*** **'Pritam Raikar'** **'Henryk Krawczyk'** 'Michele T. Mazzucato' 'Gunjan Thakur' 'Cledison Marcos da Silva' 'Virgilio Gonano' 'x303' 'Jayanta Ghosh' 'Robert Bankowski' 'Sovan acharya' 'B L Goodwin' 'Michał Biesiada' 
+
+80823673
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/45eff472-be90-4cc0-b0a8-a231c2d843a0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/527c210c-f51e-406e-9b76-f31a263af644.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/074e2bb4-3b4a-4f99-96d0-a6b14b28f7d0.jpeg" width="200"/>
+
+80823674
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7ae299ca-0690-4324-a513-896c547683b5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d70375e6-c213-4706-ae9e-4899e637aa84.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2acb1eec-3cec-4ee5-abfa-e68918ae479f.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022vmp](https://www.wis-tns.org/object/2022vmp)
 aka. **PS22jgs**
 
