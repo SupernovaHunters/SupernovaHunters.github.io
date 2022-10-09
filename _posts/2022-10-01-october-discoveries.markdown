@@ -8,6 +8,40 @@ categories: discoveries
 
 
 ----------
+### [SN 2022wbp](https://www.wis-tns.org/object/2022wbp)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.952708
+
+discovery date: 09 Oct 2022
+
+***'Cledison Marcos da Silva'*** **'Pritam Raikar'** **'Herbert Gunell'** 'Henryk Krawczyk' 'Akihiro Akai' 'Benoît ROUSSEAU' 'Elisabeth Baeten' 
+
+80994106
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b38f824d-1410-4eca-9018-3bdfcd74fc38.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bed8be49-d76a-444f-b1d2-aa42e8c1d820.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/107e68b1-b950-4a13-95fe-9faca24c42ed.jpeg" width="200"/>
+
+80994107
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/60a57228-1cff-4efd-a0eb-453659ba4000.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/05583334-5373-488e-a1b9-d0d7e88b59f0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fc8a79ff-63b0-4734-826a-c5db5d7a10a5.jpeg" width="200"/>
+
+80994108
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4549fed9-ecd7-46f1-80db-44a3819ebef0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fceccce0-4c16-4b74-bf41-76aceedf0c2d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/af58dbc6-6e83-40d0-a95d-ede20c3fca1c.jpeg" width="200"/>
+
+80994109
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ca037392-2404-4f77-90e8-b41ba3234f0b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e425a59f-2582-4548-b90b-0c9f155978c7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/852333de-0dfc-41ad-8ae0-f87b1a05f96f.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022wnp](https://www.wis-tns.org/object/2022wnp)
 aka. **PS22jql**
 
