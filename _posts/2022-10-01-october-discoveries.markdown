@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2022rom](https://www.wis-tns.org/object/2022rom)
+score: 0.961156
+
+discovery date: 11 Oct 2022
+
+***'Henryk Krawczyk'*** **'Cledison Marcos da Silva'** **'Akihiro Akai'** 'Michele T. Mazzucato' 'Benoît ROUSSEAU' 'Ronsku' 'Sallyann Chesson' 'Pritam Raikar' 'Rosemary Billington' 
+
+81014760
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cad73145-2c07-4579-ad35-d3fc71d8872d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/358eb01e-b423-4c78-8d5e-50af253cb36e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8bdd4079-7f64-4fa8-89b1-8d18f64a87f3.jpeg" width="200"/>
+
+81014768
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cc708900-25a4-4ba4-8d11-27ea7a16b3b9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/669ded6a-f38b-4e1c-befc-afa9ac056ea5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/03c58b62-7e42-4bfa-8191-6d00c0c578f7.jpeg" width="200"/>
+
+81014774
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/081ac7a6-13e8-4bd9-898b-cde08ccd7064.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ec769eea-7710-4bd0-9c6f-7ef15e34ad96.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a759ce78-7dbf-462e-b115-1008ee2cff13.jpeg" width="200"/>
+
+81014785
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bc3797fe-564a-4327-88b4-7e3c900727d3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/885dbd54-5b5d-4a3d-8bfc-0553e0543258.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f77fdca2-b3da-4e71-9018-d95c5c9bb779.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022vgh](https://www.wis-tns.org/object/2022vgh)
 score: 0.982993
 
