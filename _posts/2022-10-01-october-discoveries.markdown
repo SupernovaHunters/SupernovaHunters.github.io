@@ -8,6 +8,27 @@ categories: discoveries
 
 
 ----------
+### [AT 2022som](https://www.wis-tns.org/object/2022som)
+score: 0.918819
+
+discovery date: 12 Oct 2022
+
+***'Akihiro Akai'*** **'Rosemary Billington'** **'Cledison Marcos da Silva'** 'Benoît ROUSSEAU' 'Michele T. Mazzucato' 'Pritam Raikar' 'Virgilio Gonano' 'Sallyann Chesson' 'Lena' 
+
+81033617
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/60eb4222-d0ff-44e0-9477-691460fa414a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/993f4880-60a7-4a99-aaea-b59c7276a127.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4746a809-5f9d-4e37-9f15-0affd0865d4b.jpeg" width="200"/>
+
+81033618
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3512f2f0-b853-4267-b381-12356264ed68.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0c0f3c05-e12e-4071-836e-948d28a1fd55.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/40dbced2-4cb1-4b6d-9f6a-b1e34ee6607a.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2018hhq](https://www.wis-tns.org/object/2018hhq)
 score: 0.975103
 
