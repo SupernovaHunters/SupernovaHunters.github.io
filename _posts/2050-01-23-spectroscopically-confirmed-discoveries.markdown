@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-10-21 09:45:02 
+date:   2022-10-21 10:45:02 
 categories: discoveries
 ---
 
@@ -58,6 +58,13 @@ discovery date: 09 Oct 2022
 ----------
 ### [AT 2018fac](https://wis-tns.weizmann.ac.il/object/2018fac)
 **spectroscopic type: CV**
+
+discovery date: 07 Oct 2022
+
+
+----------
+### [SN 2022wov](https://wis-tns.weizmann.ac.il/object/2022wov)
+**spectroscopic type: SN Ia**
 
 discovery date: 07 Oct 2022
 

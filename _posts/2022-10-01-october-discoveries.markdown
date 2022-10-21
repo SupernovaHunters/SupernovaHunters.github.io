@@ -1370,7 +1370,10 @@ discovery date: 07 Oct 2022
 
 
 ----------
-### [AT 2022wov](https://www.wis-tns.org/object/2022wov)
+### [SN 2022wov](https://www.wis-tns.org/object/2022wov)
+
+**Spectroscopic type: SN Ia**
+
 aka. **PS22jrl**
 
 score: 0.946567
