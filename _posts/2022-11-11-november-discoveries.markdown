@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2022zwj](https://www.wis-tns.org/object/2022zwj)
+score: 0.99336
+
+discovery date: 12 Nov 2022
+
+*'Cledison Marcos da Silva'* **'Henryk Krawczyk'** **'Pritam Raikar'** **'Benoit ROUSSEAU'** 'Akihiro Akai' 'Virgilio Gonano' 'Michele T. Mazzucato' 'Rosemary Billington' 'Robert Pickard' 'Sovan acharya' 'Elisabeth Baeten' 
+
+82496292
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7c06d6b9-2244-47c4-83c5-52c5104e3af4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ae81e2be-c599-4ce9-ab35-42f178034ea8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/be4597e8-4316-428e-8a64-e496005ee0e5.jpeg" width="200"/>
+
+82496293
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d62de80f-0900-406c-a81f-b9ac73ec4860.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1ead0223-fe2f-4e04-a58d-fe8ec3d50e83.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e6420fa4-c19a-4193-b44c-d0aaac96e185.jpeg" width="200"/>
+
+82496294
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d275f7d0-333c-4103-aade-5932f249e677.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f4b41986-49f6-442b-a2e5-66684a8b52c1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f7ba2a8e-478e-4510-868f-81ab9661edef.jpeg" width="200"/>
+
+82496295
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a0dfd686-3453-48fc-b5aa-d8ce6b9a05de.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/90eee97f-e59f-4c15-a119-94adfaf00baf.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6550de57-20fb-4ce4-b716-2e7f088f5119.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022xiq](https://www.wis-tns.org/object/2022xiq)
 score: 0.980973
 
