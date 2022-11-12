@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2022xiq](https://www.wis-tns.org/object/2022xiq)
+score: 0.980973
+
+discovery date: 12 Nov 2022
+
+*'Henryk Krawczyk'* **'Pritam Raikar'** **'Dan Crowson'** **'Valmir Martins de Morais'** 'Giovanni Colombo' 'Benoit ROUSSEAU' 'Michele T. Mazzucato' 'Rosemary Billington' 'Sovan acharya' 'Robert Bankowski' 'Michał Biesiada' 'Akihiro Akai' 
+
+82453087
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/11cc25e8-4d31-47b6-8dab-b8486c95f369.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e4144755-bc8a-43b6-8dac-6fdbaa3cd3b4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6bc4e125-ece1-4fe8-9bac-1015783984ff.jpeg" width="200"/>
+
+82453099
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/09d8eeb0-62dd-4c01-a19d-92ce262a858c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/38220622-b22e-4bee-afe8-4d4e3ea8d9b8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4c9e1794-e05d-47c1-866b-46cadea2c49c.jpeg" width="200"/>
+
+82453110
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c6568c20-7495-403a-ba5c-94764fcdec74.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f31ddb2b-43e7-41b0-9bfd-199ebf756062.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/eb1d5597-01e0-4b83-ab7c-53577e3b6745.jpeg" width="200"/>
+
+82453111
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/63c90e63-4685-49f5-b157-66367ec9b0da.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e4e47be3-8835-43c3-b9cf-d552c4a03295.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b1ae776c-4d6e-498f-80f0-aad3b7862144.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022ywi](https://www.wis-tns.org/object/2022ywi)
 score: 0.978467
 
