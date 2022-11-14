@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-11-14 19:45:02 
+date:   2022-11-14 20:45:02 
 categories: discoveries
 ---
 
@@ -25,6 +25,13 @@ discovery date: 13 Nov 2022
 **spectroscopic type: SN Ia**
 
 discovery date: 13 Nov 2022
+
+
+----------
+### [SN 2022zmb](https://wis-tns.weizmann.ac.il/object/2022zmb)
+**spectroscopic type: SN II**
+
+discovery date: 11 Nov 2022
 
 
 ----------
