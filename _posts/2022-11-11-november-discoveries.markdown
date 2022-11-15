@@ -683,7 +683,10 @@ discovery date: 11 Nov 2022
 
 
 ----------
-### [AT 2022zkc](https://www.wis-tns.org/object/2022zkc)
+### [SN 2022zkc](https://www.wis-tns.org/object/2022zkc)
+
+**Spectroscopic type: SN II**
+
 score: 0.997804
 
 discovery date: 11 Nov 2022
