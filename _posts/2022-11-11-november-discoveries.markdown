@@ -8,6 +8,27 @@ categories: discoveries
 
 
 ----------
+### [AT 2022aacx](https://www.wis-tns.org/object/2022aacx)
+score: 0.973229
+
+discovery date: 15 Nov 2022
+
+***'Cledison Marcos da Silva'*** **'Pritam Raikar'** **'B L Goodwin'** 'VIRGILIO GONANO' 'Benoit ROUSSEAU' 'Henryk Krawczyk' 'M.T. Mazzucato' 'Akihiro Akai' 'Dennis Richards' 
+
+82589658
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/31b514d1-513d-4ec8-80f6-27754665fd40.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c6f35f10-7693-4311-9581-f10118b4364a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e9c5430a-49ee-4922-9c25-39a184fc8680.jpeg" width="200"/>
+
+82589660
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/05d17e35-6eb4-467e-9920-bfe7730ad670.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/12b27645-5914-49eb-ade1-751ef108721b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c2da6b5a-0448-44b5-afdd-1fbec577423d.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2022pru](https://www.wis-tns.org/object/2022pru)
 
 **Spectroscopic type: SN II**
