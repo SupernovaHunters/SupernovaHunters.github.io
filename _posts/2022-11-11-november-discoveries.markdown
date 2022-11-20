@@ -75,7 +75,10 @@ discovery date: 20 Nov 2022
 
 
 ----------
-### [AT 2022zsy](https://www.wis-tns.org/object/2022zsy)
+### [SN 2022zsy](https://www.wis-tns.org/object/2022zsy)
+
+**Spectroscopic type: SN Ia-91T-like**
+
 score: 0.991554
 
 discovery date: 20 Nov 2022
