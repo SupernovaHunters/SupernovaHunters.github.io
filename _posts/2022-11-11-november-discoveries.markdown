@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2022aapa](https://www.wis-tns.org/object/2022aapa)
+score: 0.980587
+
+discovery date: 21 Nov 2022
+
+*'Henryk Krawczyk'* **'B L Goodwin'** **'Herbert Gunell'** **'VIRGILIO GONANO'** 'Benoit ROUSSEAU' 'Akihiro Akai' 'Pritam Raikar' 'Robert Pickard' 'M.T. Mazzucato' 'Frank Helk' 'Dennis Richards' 'LCDripipi2' 'Tony Hoffman' 'Robert Bankowski' 
+
+82849394
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/43268953-1b25-457c-b03a-4f9d2971be9b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f6411773-a129-491f-b6bd-57c2a50f8b5d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/58b0acb4-a29a-47d4-9b53-59294c81cd20.jpeg" width="200"/>
+
+82849395
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e211de4a-5c5b-4eb5-a977-19cf35d7edab.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5084f64a-9760-490d-b992-b805bab8f8a6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9b918745-6ce9-44ae-b60a-2381d1a7c6e3.jpeg" width="200"/>
+
+82849397
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/87ec9c0b-c31b-4451-97d7-f2799c3731d2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4453a7b4-ac35-4569-88e1-a283f3309e31.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/82f280e7-14c9-47d0-b279-6fd4c20b4d84.jpeg" width="200"/>
+
+82849398
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5e8a59ed-50a1-4a93-98b9-45858f0a5135.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/026d1725-5e5f-44e3-a47b-529019dafee2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/72dc4a26-e926-4f96-8a41-73f818b5b19a.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2022aaaq](https://www.wis-tns.org/object/2022aaaq)
 
 **Spectroscopic type: SN Ia**
