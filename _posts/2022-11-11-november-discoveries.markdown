@@ -8,7 +8,41 @@ categories: discoveries
 
 
 ----------
-### [AT 2022pr](https://www.wis-tns.org/object/2022pr)
+### [AT 2022aaxr](https://www.wis-tns.org/object/2022aaxr)
+score: 0.978175
+
+discovery date: 24 Nov 2022
+
+*'Akihiro Akai'* **'Cledison Marcos da Silva'** **'Rosemary Billington'** **'Giovanni Colombo'** 'M.T. Mazzucato' 'Robert Pickard' 'Benoit ROUSSEAU' 'Pritam Raikar' 'Henryk Krawczyk' 'Michał Biesiada' 'Herbert Gunell' 
+
+82945820
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ad4456b4-a66f-4432-87e5-ceba1103c458.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/df58a01d-0b97-4410-ade4-d2e5282f7c24.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/48cca1aa-6a78-4219-a2c3-2cd8df0477ed.jpeg" width="200"/>
+
+82945821
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/db2b80a5-b469-4a8a-88e4-6a2937763819.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9181da8b-cedc-4abc-bbd9-65d192c17826.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/09bbb419-720b-4352-a027-4d81f1377be9.jpeg" width="200"/>
+
+82945822
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7a1735d6-7e96-41a6-bc5c-9e05b526a977.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c54ea966-2fb3-4cda-9ba2-c8ae26f09d74.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2a4fed2f-6662-432a-9bdd-e1b4dbd46d70.jpeg" width="200"/>
+
+82945823
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/be1374c2-4252-413c-8c01-2ed9251904dc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/498ed401-b38f-4479-9795-1e926f6ba2d6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/25218f2b-546f-4214-94e0-b3998dc29e9a.jpeg" width="200"/>
+
+
+
+
+----------
+### [SN 2022pr](https://www.wis-tns.org/object/2022pr)
+
+**Spectroscopic type: SLSN-II**
+
 score: 0.97323
 
 discovery date: 24 Nov 2022
@@ -34,7 +68,10 @@ discovery date: 24 Nov 2022
 
 
 ----------
-### [AT 2022xaw](https://www.wis-tns.org/object/2022xaw)
+### [SN 2022xaw](https://www.wis-tns.org/object/2022xaw)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.968952
 
 discovery date: 24 Nov 2022
@@ -163,7 +200,10 @@ discovery date: 24 Nov 2022
 
 
 ----------
-### [AT 2022yyc](https://www.wis-tns.org/object/2022yyc)
+### [SN 2022yyc](https://www.wis-tns.org/object/2022yyc)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.94872
 
 discovery date: 24 Nov 2022
@@ -282,7 +322,10 @@ discovery date: 24 Nov 2022
 
 
 ----------
-### [AT 2022vra](https://www.wis-tns.org/object/2022vra)
+### [SN 2022vra](https://www.wis-tns.org/object/2022vra)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.991483
 
 discovery date: 24 Nov 2022
