@@ -1,9 +1,37 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-11-24 19:45:05 
+date:   2022-11-24 20:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2022vra](https://wis-tns.weizmann.ac.il/object/2022vra)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Nov 2022
+
+
+----------
+### [SN 2022yyc](https://wis-tns.weizmann.ac.il/object/2022yyc)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Nov 2022
+
+
+----------
+### [SN 2022xaw](https://wis-tns.weizmann.ac.il/object/2022xaw)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Nov 2022
+
+
+----------
+### [SN 2022pr](https://wis-tns.weizmann.ac.il/object/2022pr)
+**spectroscopic type: SLSN-II**
+
+discovery date: 24 Nov 2022
 
 
 ----------
