@@ -8,6 +8,161 @@ categories: discoveries
 
 
 ----------
+### [AT 2022xwn](https://www.wis-tns.org/object/2022xwn)
+score: 0.916932
+
+discovery date: 24 Nov 2022
+
+***'Pritam Raikar'*** **'Henryk Krawczyk'** **'Robert Pickard'** 'M.T. Mazzucato' 'Akihiro Akai' 'Giovanni Colombo' 'Cledison Marcos da Silva' 'Sallyann Chesson' 'Elisabeth Baeten' 
+
+82947295
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/189f4183-fa52-4672-a927-c595cce0e714.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/16e94d90-3a8f-4c8e-8837-9dcfeed98bfd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/18acb813-43c0-4247-8809-76728e5fb03a.jpeg" width="200"/>
+
+82947296
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6bdce382-d9f2-44c9-a582-5feb72c84340.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/af086930-9d41-4a27-b7cb-490f27465651.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/da2449cc-b0bb-4a59-8779-9cd384ef4576.jpeg" width="200"/>
+
+82947298
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/00183452-db04-47a3-affb-71f745fd55e8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7ddcb47d-f073-4509-8318-a5821581d00b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9f429f8a-e97c-4206-a77c-84c0653d0363.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022abdy](https://www.wis-tns.org/object/2022abdy)
+score: 0.950534
+
+discovery date: 24 Nov 2022
+
+*'Akihiro Akai'* **'Elisabeth Baeten'** **'Giovanni Colombo'** **'Dan Crowson'** 'M.T. Mazzucato' 'Pritam Raikar' 'Henryk Krawczyk' 'Cledison Marcos da Silva' 'Robert Bankowski' 
+
+82947435
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f4af8b91-ae72-46e3-8a45-5eee13e89e2d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d5795b05-193b-4467-a0c4-91c575f22577.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/abf0e32d-769f-4ef6-a4b4-0adc06d692e8.jpeg" width="200"/>
+
+82947436
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c6a8cd75-f489-4d6c-97d2-5508e8532291.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a450c444-7aac-457e-a38d-207f9dad0854.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7b9a1bed-02d6-40f2-9fcd-a08629f92e2b.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022abfj](https://www.wis-tns.org/object/2022abfj)
+score: 0.941351
+
+discovery date: 24 Nov 2022
+
+***'Akihiro Akai'*** **'Elisabeth Baeten'** **'Cledison Marcos da Silva'** 'M.T. Mazzucato' 'Robert Pickard' 'Henryk Krawczyk' 'Rosemary Billington' 'Pritam Raikar' 'Benoit ROUSSEAU' 'Michał Biesiada' 'Robert Bankowski' 'Herbert Gunell' 
+
+82947067
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/579dda94-3cea-48c0-8b55-d7986367745b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/22c68425-f990-4b0c-9e46-702826d46cac.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ec5ddcd7-ec26-4593-a282-ed2d8d6a7b24.jpeg" width="200"/>
+
+82947068
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ac85c495-c7b2-461b-a5bc-851799c25a14.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/06cfb4e0-9416-4c57-b99d-7daa9c25fa47.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2bf277dd-05ee-4bbe-af65-adbc7b35dd5e.jpeg" width="200"/>
+
+82947069
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ff2ba1c7-8e0a-4efb-93d9-952477b83251.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/eed5b259-5203-4c1b-9366-de9a224c18bd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d8c7b9c5-b770-4b11-ad11-4add2e62bae7.jpeg" width="200"/>
+
+82947070
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/574c3c97-e3c4-465a-9572-50b8213a2609.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4c8a00f4-7ef3-499e-b8c2-caed7e0bf79b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e51fe4b9-b45f-40ed-a0da-e05285c5d4a4.jpeg" width="200"/>
+
+82947071
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e1013856-14b2-4b65-beda-28eaf81dc9a5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/95f09da8-9a16-4ff5-80e1-9878a1c5fc4f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e7926264-280d-472b-9a55-d39107bb6d00.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022yzu](https://www.wis-tns.org/object/2022yzu)
+score: 0.934498
+
+discovery date: 24 Nov 2022
+
+*'Cledison Marcos da Silva'* **'Elisabeth Baeten'** **'Dan Crowson'** **'M.T. Mazzucato'** 'Akihiro Akai' 'Pritam Raikar' 'Henryk Krawczyk' 'Robert Pickard' 'Herbert Gunell' 
+
+82946904
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6472e1c2-eb61-432a-8bea-ae5a7c917768.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/13f11cfc-5102-4a53-abd1-5787fadd1ed8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/de204e63-7f28-40dd-bbc1-efe499bc9d24.jpeg" width="200"/>
+
+82946905
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ebf75a82-4691-4294-90f7-de21b8827237.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/90c77ddb-0c3d-4b63-b444-7d6448d33985.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/61ab3322-0650-4c13-905f-0687e137b23f.jpeg" width="200"/>
+
+82946906
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/094c5bc3-bc7f-4502-9962-5a732d2fa380.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/67706e9b-6e71-4e10-82a1-78062eda7dde.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2c822d06-9e38-47f3-b35d-bdc1fa09117d.jpeg" width="200"/>
+
+82946907
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c96c03f9-0fa5-4a2e-822f-f20ccfc8691a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7e298333-ff4f-4668-97c8-459315873a20.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/59258489-ec75-4262-abe5-9f24ec68f183.jpeg" width="200"/>
+
+82946908
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2bee2c0b-3259-454f-a998-887434700612.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/041746e8-4090-4d6f-bb00-14e66a3acfc4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a1359a83-cf86-4fa3-ab70-808c095fe675.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022abgg](https://www.wis-tns.org/object/2022abgg)
+score: 0.927631
+
+discovery date: 24 Nov 2022
+
+*'Cledison Marcos da Silva'* **'Robert Pickard'** **'Robert Bankowski'** **'VIRGILIO GONANO'** 'Akihiro Akai' 'Pritam Raikar' 'Henryk Krawczyk' 'M.T. Mazzucato' 'Giovanni Colombo' 'Benoit ROUSSEAU' 'Elisabeth Baeten' 
+
+82946699
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/755269ad-4d93-493c-9e7d-90b958cf6a85.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/55596860-9e15-4655-adb8-718a620ac530.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b3d7e800-4434-4c7f-a360-95f3e9a1e7a2.jpeg" width="200"/>
+
+82946700
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/88bfba0e-1665-4c12-b551-5d15fb8b761c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4e15e447-c9a1-41a6-adfc-d13a2637bee1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1217792c-b22a-430b-87fd-773b3b128e2b.jpeg" width="200"/>
+
+82946701
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a822be8a-0797-4367-8922-8e5019baf821.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ca03f070-e381-481d-aa72-dae6343bd40f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5b51783b-9429-4bfe-a955-7843ec4aed50.jpeg" width="200"/>
+
+82946702
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6876eb0a-aa73-4e5f-8f52-2eeddd5bfb7a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4fa0eb12-8da5-43f3-b38f-a827fc70871a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7230390b-44fa-4d8d-866c-57f134710beb.jpeg" width="200"/>
+
+82946703
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3be166cf-96cf-4031-9ea5-88c8dfa86510.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5c69bacc-4bd9-4e6a-becb-d5c5e0458d13.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f358f996-23a0-41d9-b99f-4f2f81f37df4.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022aaxr](https://www.wis-tns.org/object/2022aaxr)
 score: 0.978175
 
