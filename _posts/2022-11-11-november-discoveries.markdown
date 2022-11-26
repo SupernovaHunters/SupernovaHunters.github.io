@@ -8,6 +8,73 @@ categories: discoveries
 
 
 ----------
+### [AT 2022aard](https://www.wis-tns.org/object/2022aard)
+score: 0.984754
+
+discovery date: 26 Nov 2022
+
+*'Robert Bankowski'* **'Robert Pickard'** **'B L Goodwin'** **'M.T. Mazzucato'** 'Henryk Krawczyk' 'Akihiro Akai' 'Benoit ROUSSEAU' 'Pritam Raikar' 
+
+82955223
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/89c22de3-28ec-4f2c-8074-8176f845afb0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/287da620-fc84-4e07-ae85-8c13d99849e2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7a039487-1032-41b0-abfc-f1ef1439c027.jpeg" width="200"/>
+
+82955224
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9e12b10e-d395-4245-9665-e12eed8f113f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/df59f2b8-736e-4647-bec9-c02e7e53487a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c9c944cc-ea02-4a29-8756-d7c5a24d30ef.jpeg" width="200"/>
+
+82955225
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2c13207f-6d52-4994-812c-e987b812bb41.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c75cf51e-f913-4ef2-94f6-f689472f23ad.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8e5f098d-b4a7-4e0a-b528-bf2276b6f0ef.jpeg" width="200"/>
+
+82955226
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ee12a431-3de3-45bb-b873-1d7b43e9e2f6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/95f69f3b-f38e-408c-8db9-6e7e93f38a01.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e4738d95-b6ac-4705-bcb8-7dd0b5da78d0.jpeg" width="200"/>
+
+82955227
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/540876d1-f2fe-4c7e-8139-641fc7082761.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/65df8267-ae1e-4565-81e0-1ea4ae1a654d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f089b7a9-f1eb-4ead-964e-4a23377c5a3c.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022aamc](https://www.wis-tns.org/object/2022aamc)
+score: 0.933886
+
+discovery date: 26 Nov 2022
+
+***'M.T. Mazzucato'*** **'Elisabeth Baeten'** **'B L Goodwin'** 'Akihiro Akai' 'Henryk Krawczyk' 'Tony Hoffman' 'Robert Pickard' 'Salil Dhamankar' 'VIRGILIO GONANO' 
+
+82955360
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ecb1e4cc-19ef-4808-936d-c8d5286a621d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0440daf7-e10d-4b8c-9348-ace5631f6333.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/487bab75-ad6b-4ef6-9293-31739f83dd54.jpeg" width="200"/>
+
+82955361
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/db87d2a8-7f55-4a3a-85be-fb3833858f71.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b73eb919-0d0b-4e25-93c2-517611d29229.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/abd5323a-8459-479a-866c-b8fd6f1fa27b.jpeg" width="200"/>
+
+82955362
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/436b53da-a73c-4b81-a67e-6557354ebb76.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/20b16618-e273-4ca4-b0e6-01dea2c48bf2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e0b05f9d-76c9-4963-bd5c-6f0dd9073a57.jpeg" width="200"/>
+
+82955363
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b7b098a8-e57f-4c83-befc-e5c989695f58.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a0bc2b5f-4753-48b0-9ea9-27a3f88580d2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/366f4c49-bdb4-450b-8097-a40d6398918d.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022aash](https://www.wis-tns.org/object/2022aash)
 score: 0.946446
 
