@@ -8,6 +8,142 @@ categories: discoveries
 
 
 ----------
+### [AT 2022aash](https://www.wis-tns.org/object/2022aash)
+score: 0.946446
+
+discovery date: 26 Nov 2022
+
+***'M.T. Mazzucato'*** **'Pritam Raikar'** **'Henryk Krawczyk'** 'Robert Bankowski' 'B L Goodwin' 'Akihiro Akai' 
+
+82955369
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fba0b066-0791-4ce6-adff-9f070d459554.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0ec835e1-5b20-44a4-b01c-89b5275fd513.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b874f00c-d210-4929-bbf3-7ab3e163a23a.jpeg" width="200"/>
+
+82955370
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a82b5dff-eda8-4f34-8391-b121aa7a3954.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/efbf09be-60f8-4014-bb30-98cb9217d831.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c02906f2-062e-41a5-a715-ee34dde3c5fa.jpeg" width="200"/>
+
+82955371
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1e279399-2d41-43cd-8fe1-dd8e9979e7dc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/07f0e360-0c11-4765-afca-65e020dd962e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4ec71a83-621f-4c51-8cd6-526a37ff8eef.jpeg" width="200"/>
+
+82955372
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c01bafb6-e069-48c9-957d-586010f52378.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0bcd146d-8a7a-45b7-8479-cffea2277500.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/83599207-847e-4107-8612-6ef9da6d0ea3.jpeg" width="200"/>
+
+82955373
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/22201ec9-bb3c-4225-81ce-b661e2f1de77.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2d88731f-f59c-403b-9f9a-357bbc2764e7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/10690d44-ec52-4ba8-99d1-38a5c4a1ed70.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022abom](https://www.wis-tns.org/object/2022abom)
+aka. **PS22luo**
+
+score: 0.914511
+
+discovery date: 26 Nov 2022
+
+*'Benoit ROUSSEAU'* **'M.T. Mazzucato'** **'Henryk Krawczyk'** **'Robert Bankowski'** 'Robert Pickard' 'B L Goodwin' 'Akihiro Akai' 'Pritam Raikar' 
+
+82956404
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6e36bf9e-6cb7-416b-923d-2dec8821fff0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/15767ccb-cd70-449a-b0a1-c6514b5fc644.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/672a4f76-0dd1-450a-8873-17a36a56bc24.jpeg" width="200"/>
+
+82956405
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a2e8be7c-865f-4dc2-8384-608c6c1d9085.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/06fdd7c6-018a-4b07-a34e-5584054f0477.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9d908156-fe17-452c-8a9d-c2945fb9e061.jpeg" width="200"/>
+
+82956406
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cc3664f0-1e2e-4704-8570-7054e83624e9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2acb1c2d-a8c8-4c3e-a3fd-99991e136b19.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1789920a-a36d-4e4b-8dd0-15c52e74b54e.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022aaki](https://www.wis-tns.org/object/2022aaki)
+score: 0.948848
+
+discovery date: 26 Nov 2022
+
+*'Giovanni Colombo'* **'B L Goodwin'** **'Pritam Raikar'** **'Henryk Krawczyk'** 'M.T. Mazzucato' 'Benoit ROUSSEAU' 'Akihiro Akai' 
+
+82956331
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/af0477ee-cce7-42bd-b057-e858aa3bfc06.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3246e21d-13d2-4b61-9d99-2bcbf72d34f9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fa32dbf0-b6c9-4e5e-8455-25c71bebfdfa.jpeg" width="200"/>
+
+82956332
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f5512dbf-a43c-465b-961b-4cf28ccec486.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/452d3af8-dd50-468d-aca0-b56f1ebd48b3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1cf63de0-01d0-4c3c-9e7c-9b3f0ebc366f.jpeg" width="200"/>
+
+82956333
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/216ef744-46e4-42de-9456-8cc365ead778.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6fbf5eea-fdb2-48f9-9173-ac30c1346dd9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ebc3f32a-5c87-4216-8a64-fe701706ac91.jpeg" width="200"/>
+
+82956334
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b24ca1de-c6b6-41d8-9702-f1244acc4a8e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5b9d6a40-1235-4bc3-8692-119aeb27c080.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/676da29d-6b3b-450d-8cde-2d9094a1e37a.jpeg" width="200"/>
+
+82956335
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/78b59b29-683b-49b9-986c-fad1ee540ac1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8b298a7f-a88d-45d4-ace9-dcfdf68a5572.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/63ee7f4a-360c-4f3e-bea2-75903e67f87a.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022aajq](https://www.wis-tns.org/object/2022aajq)
+score: 0.962204
+
+discovery date: 26 Nov 2022
+
+*'Robert Pickard'* **'Giovanni Colombo'** **'Akihiro Akai'** **'M.T. Mazzucato'** 'Henryk Krawczyk' 'Benoit ROUSSEAU' 'Tony Hoffman' 'B L Goodwin' 'Pritam Raikar' 
+
+82955932
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9aa7bc11-6a83-4ace-84c8-88857dae84a5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a9f2d391-c19b-480e-9ea7-4b8684a28ec2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d4b6e7a0-bea2-4199-87a4-241a84de25a1.jpeg" width="200"/>
+
+82955933
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c3511a47-ed7c-4329-8068-aa03e61859e3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6012c737-5aab-4e8d-b073-c6c6522afb38.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9cf00912-1d80-4290-aaac-07627ed1756b.jpeg" width="200"/>
+
+82955934
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f2394dc7-faed-4270-9fc6-d8d2bd343dda.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7247665b-2cc1-4ca4-8947-9f07f3c7bd8a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a9009660-2c75-4b98-81fe-8376e529eb7a.jpeg" width="200"/>
+
+82955935
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a91e6357-5265-4b54-8524-273d622d4c8a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/41a9b8c1-9648-47db-aa0d-4a5a5f44529d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4b3190cf-afee-466b-b88e-51efaf2c4213.jpeg" width="200"/>
+
+82955936
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/db4a3a5b-1e91-4296-b1d4-0918788d617f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ca1cbb48-c3e0-4fed-89af-95fae9f1ac42.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c10fa9b7-a80a-48e9-8bf2-d39693ba2ea0.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022aaog](https://www.wis-tns.org/object/2022aaog)
 score: 0.969007
 
