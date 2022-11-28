@@ -8,6 +8,27 @@ categories: discoveries
 
 
 ----------
+### [AT 2022abvu](https://www.wis-tns.org/object/2022abvu)
+score: 0.92367
+
+discovery date: 28 Nov 2022
+
+*'Celso Pessanha Machado'* **'Henryk Krawczyk'** **'Akihiro Akai'** **'Benoit ROUSSEAU'** 'Giovanni Colombo' 
+
+82975636
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/315bf07f-27d4-4cc4-b622-92caa5618492.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/123fdab2-a3d9-45b8-821c-98b3b3fe4178.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e06f75b9-c6df-4e5e-bfd8-38c37d0938db.jpeg" width="200"/>
+
+82975637
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d7503a21-d5c9-4ec0-ba6d-8c17e75c7748.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7ae4dd1d-2eda-47cb-8495-7b96fd32fea5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4fc3f9dd-6418-493b-bd69-72419f52c186.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2019kvt](https://www.wis-tns.org/object/2019kvt)
 score: 0.929193
 
