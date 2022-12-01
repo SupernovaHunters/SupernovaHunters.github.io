@@ -986,7 +986,10 @@ discovery date: 26 Nov 2022
 
 
 ----------
-### [AT 2022abom](https://www.wis-tns.org/object/2022abom)
+### [SN 2022abom](https://www.wis-tns.org/object/2022abom)
+
+**Spectroscopic type: SN Ia-91bg-like**
+
 aka. **PS22luo**
 
 score: 0.914511
