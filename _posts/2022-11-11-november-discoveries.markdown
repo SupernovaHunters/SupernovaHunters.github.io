@@ -1089,7 +1089,10 @@ discovery date: 26 Nov 2022
 
 
 ----------
-### [AT 2022aaog](https://www.wis-tns.org/object/2022aaog)
+### [SN 2022aaog](https://www.wis-tns.org/object/2022aaog)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.969007
 
 discovery date: 25 Nov 2022
@@ -1382,7 +1385,10 @@ discovery date: 24 Nov 2022
 
 
 ----------
-### [AT 2022aaxr](https://www.wis-tns.org/object/2022aaxr)
+### [SN 2022aaxr](https://www.wis-tns.org/object/2022aaxr)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.978175
 
 discovery date: 24 Nov 2022
@@ -2624,7 +2630,10 @@ discovery date: 16 Nov 2022
 
 
 ----------
-### [AT 2022aacx](https://www.wis-tns.org/object/2022aacx)
+### [SN 2022aacx](https://www.wis-tns.org/object/2022aacx)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.973229
 
 discovery date: 15 Nov 2022
