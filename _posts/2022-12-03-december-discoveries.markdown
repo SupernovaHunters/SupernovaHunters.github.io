@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2022abjt](https://www.wis-tns.org/object/2022abjt)
+score: 0.962444
+
+discovery date: 03 Dec 2022
+
+*'Akihiro Akai'* **'Dennis Richards'** **'Sovan acharya'** **'M.T. Mazzucato'** 'Pritam Raikar' 'Rosemary Billington' 
+
+83191708
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f9844932-b523-432d-9bf3-7ead7e8ebbbc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b14948e4-0242-49ba-9930-26325cf25f6d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/78a1c455-8641-4a92-846f-65699128e58e.jpeg" width="200"/>
+
+83191709
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5896e136-edde-4beb-9194-e653a12b2a04.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a19525ee-fafd-4ca1-acda-fdd3f5f57f31.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/60a75229-b263-43b4-bf4e-b46db401fc68.jpeg" width="200"/>
+
+83191710
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e2d8414b-f3ab-4a60-8c23-029b62e736b6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6fcaadce-50b4-4ce3-b89c-bd071cbce41e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/82f6d3ca-637d-45e6-a1ad-707f9d38278e.jpeg" width="200"/>
+
+83191711
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/24f0729b-8f8b-435a-8802-b6ad6a29352a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/29c9463f-e486-443b-bbf8-4948702212cd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4f555f28-c3ff-4f9f-ad9c-966c9e5133aa.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022abwj](https://www.wis-tns.org/object/2022abwj)
 score: 0.973617
 
