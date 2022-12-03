@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2022-12-03 08:45:02 
+date:   2022-12-03 09:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2017gvb](https://wis-tns.weizmann.ac.il/object/2017gvb)
+**spectroscopic type: SN IIn**
+
+discovery date: 03 Dec 2022
 
 
 ----------

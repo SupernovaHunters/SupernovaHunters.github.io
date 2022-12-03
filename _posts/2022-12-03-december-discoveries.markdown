@@ -8,6 +8,58 @@ categories: discoveries
 
 
 ----------
+### [AT 2022ywh](https://www.wis-tns.org/object/2022ywh)
+score: 0.908307
+
+discovery date: 03 Dec 2022
+
+*'M.T. Mazzucato'* **'Akihiro Akai'** **'Robert Pickard'** **'Dennis Richards'** 'Cledison Marcos da Silva' 'Henryk Krawczyk' 
+
+83190638
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1092fe30-515b-4275-81fc-9f3f5b542772.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/13bf47ca-feea-434f-80c4-9a093cf21652.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2a5cec98-9d96-4ef1-951c-b186c34ec4e0.jpeg" width="200"/>
+
+83190639
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8e6ca78a-61b7-4e38-8277-d2d946610758.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3a0ea2bb-4694-409d-938c-79441890d78d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/33df27c5-38c1-4380-bba8-9ce566ffe52a.jpeg" width="200"/>
+
+83190640
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/01c09fbe-7119-4a20-8922-2bdbf5fdeb0a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a16fe83a-47f3-4873-90b3-a1ba2c4c50bb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4d16eb8c-9159-4000-922b-281fa8454cf8.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022wyn](https://www.wis-tns.org/object/2022wyn)
+score: 0.943224
+
+discovery date: 03 Dec 2022
+
+***'Robert Pickard'*** **'Akihiro Akai'** **'Cledison Marcos da Silva'** 'Dennis Richards' 'Rosemary Billington' 'Pritam Raikar' 'Henryk Krawczyk' 
+
+83190993
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a3398778-0ddd-46ec-a300-b2e52184deae.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4a397b2d-aa5e-4e12-a041-67122cd18f02.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c11c756d-d39a-48c7-a8a4-a7b9d5d2fcaf.jpeg" width="200"/>
+
+83190994
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/18fee222-edc9-43f2-8ab3-0ed3cf6729ae.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8d2b5ab3-2ba7-4d1d-895e-43036f03ca36.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b8eca53c-536b-404e-884a-619f831c721a.jpeg" width="200"/>
+
+83190995
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b1f83f6a-2ab7-4df8-be4b-c7d801ddcb66.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bf0d72f1-32c2-4b50-bc73-0562c7f089f8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3d1be66d-eae0-46ca-9861-3f890417d972.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022abjt](https://www.wis-tns.org/object/2022abjt)
 score: 0.962444
 
