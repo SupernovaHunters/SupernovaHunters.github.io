@@ -134,7 +134,10 @@ discovery date: 15 Oct 2022
 
 
 ----------
-### [AT 2022ued](https://www.wis-tns.org/object/2022ued)
+### [SN 2022ued](https://www.wis-tns.org/object/2022ued)
+
+**Spectroscopic type: SN Ib**
+
 score: 0.943152
 
 discovery date: 15 Oct 2022
