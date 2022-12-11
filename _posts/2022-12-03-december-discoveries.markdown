@@ -8,6 +8,40 @@ categories: discoveries
 
 
 ----------
+### [SN 2022acbw](https://www.wis-tns.org/object/2022acbw)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.98562
+
+discovery date: 11 Dec 2022
+
+*'Benoit ROUSSEAU'* **'Pritam Raikar'** **'Robert Pickard'** **'M.T. Mazzucato'** 'Rosemary Billington' 'Celso Pessanha Machado' 'B L Goodwin' 
+
+83498768
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fedccf3b-1d8d-4b36-9b15-6972c35e006a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/87ec221f-453d-410b-bae1-1ac79649a9b9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4e983d73-2b47-44cb-b65b-4c8f157465b8.jpeg" width="200"/>
+
+83498769
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8d8cbb1e-a192-4823-9455-204e011d307a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/42abe601-c783-4596-88a1-28bb4dcffd8e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/89705688-4232-431b-b3d0-84a3af2983fb.jpeg" width="200"/>
+
+83498770
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/27e7e16a-c98f-4c32-a34b-384eb39335d8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7d9b3a51-f4a3-44bb-9bca-96103b82e1ff.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ba41a9cd-4bad-45a8-933f-92f2cdc3d9dd.jpeg" width="200"/>
+
+83498771
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d5915322-8ade-43e6-8ea5-bae671f8a7e0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/eee632dd-33cc-43b5-9bce-dbe28ca4f0b2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e3679e61-4b72-4db4-b70f-28db1d6c18ca.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022xut](https://www.wis-tns.org/object/2022xut)
 score: 0.992688
 
