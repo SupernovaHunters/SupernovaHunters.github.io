@@ -8,7 +8,10 @@ categories: discoveries
 
 
 ----------
-### [AT 2022aado](https://www.wis-tns.org/object/2022aado)
+### [SN 2022aado](https://www.wis-tns.org/object/2022aado)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.962724
 
 discovery date: 29 Nov 2022
