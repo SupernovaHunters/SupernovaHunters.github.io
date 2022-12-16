@@ -385,7 +385,10 @@ discovery date: 15 Dec 2022
 
 
 ----------
-### [AT 2022acbe](https://www.wis-tns.org/object/2022acbe)
+### [SN 2022acbe](https://www.wis-tns.org/object/2022acbe)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.960712
 
 discovery date: 15 Dec 2022
