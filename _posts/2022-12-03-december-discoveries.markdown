@@ -614,7 +614,10 @@ discovery date: 14 Dec 2022
 
 
 ----------
-### [AT 2022acsf](https://www.wis-tns.org/object/2022acsf)
+### [SN 2022acsf](https://www.wis-tns.org/object/2022acsf)
+
+**Spectroscopic type: SN Ia**
+
 score: 0.989686
 
 discovery date: 14 Dec 2022
