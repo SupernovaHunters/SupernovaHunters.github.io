@@ -8,6 +8,37 @@ categories: discoveries
 
 
 ----------
+### [AT 2022adgj](https://www.wis-tns.org/object/2022adgj)
+score: 0.917048
+
+discovery date: 12 Jan 2023
+
+*'Herbert Gunell'* **'WRSunset'** **'Benoit ROUSSEAU'** **'M.T. Mazzucato'** 'Henryk Krawczyk' 'Rosemary Billington' 'Lukas Bialke' 'B L Goodwin' 'Sovan acharya' 'Tami Lyon' 
+
+84203620
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2647bce5-1598-409f-b2e0-670e8435aaf4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bbe59416-6f55-4f9e-b7e5-00d316ffc399.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ce43995e-3ac3-4367-94f5-c70177beaf66.jpeg" width="200"/>
+
+84203623
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fe78d908-3221-4586-aabf-d26094f3b5a5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/07535f81-ce28-431b-a4e1-39d2e79c3ff8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3a28f183-3a8f-41a7-b21d-4a5c8ad1b37c.jpeg" width="200"/>
+
+84203625
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/53d81217-7e11-45c5-aea6-9bdaca60e110.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/94dc72f6-d0e1-4d57-a822-a287053d9c8a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c04bfbb0-ab48-4f23-8e1f-dd19c8b51397.jpeg" width="200"/>
+
+84203627
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/133ef4c4-15c0-45e1-9fb3-edb47631a18b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2d13e758-5ce3-4f10-a953-973ec94d8ff3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c2cdc787-8e50-4266-9060-2564979cc83a.jpeg" width="200"/>
+
+
+
+
+----------
 ### [SN 2022acyd](https://www.wis-tns.org/object/2022acyd)
 
 **Spectroscopic type: SN II**
