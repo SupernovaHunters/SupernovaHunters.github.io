@@ -8,6 +8,71 @@ categories: discoveries
 
 
 ----------
+### [AT 2022acwx](https://www.wis-tns.org/object/2022acwx)
+score: 0.909896
+
+discovery date: 12 Jan 2023
+
+*'Henryk Krawczyk'* **'Sovan acharya'** **'Cledison Marcos da Silva'** **'Tami Lyon'** 'M.T. Mazzucato' 'Rosemary Billington' 'B L Goodwin' 'Rishabh Jain' 
+
+84204272
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/07b95b10-ecd0-4a49-92f9-0a3ac9ba0f05.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/98f38e3a-abf1-4345-910d-36be0a815998.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5f4a46fd-47df-4b02-9fab-fb4b50ccae81.jpeg" width="200"/>
+
+84204273
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/46848fdb-e1ba-4490-b56c-184819e0f37e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1903f836-6c15-4d2d-9bd7-967f57216fd9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b4fdbb1d-202a-4e2f-927f-f6c4a0c92829.jpeg" width="200"/>
+
+84204274
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/90022ec9-0395-4d90-a7c3-0d53090cb50f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bc7c0bd6-b6ff-4ada-a92f-cf6110ddfc80.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/27aee8a0-96b9-4b32-a159-92e6872f5cfa.jpeg" width="200"/>
+
+84204275
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dbe53b58-266d-4e6b-82f7-93c5952c8bad.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/30e8c176-7429-4857-a4c4-9c77a90342c9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/df2e350a-f5fb-4dc1-8a4a-346dea25ddd5.jpeg" width="200"/>
+
+
+
+
+----------
+### [SN 2022acyi](https://www.wis-tns.org/object/2022acyi)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.936877
+
+discovery date: 12 Jan 2023
+
+*'Henryk Krawczyk'* **'Cledison Marcos da Silva'** **'Sovan acharya'** **'Tami Lyon'** 'M.T. Mazzucato' 'Rosemary Billington' 'B L Goodwin' 'Rishabh Jain' 
+
+84202972
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c7f9112f-b50f-4e44-ba77-7a0d0a341e3d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c5ea8548-9098-422b-bc71-e1e746db431b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0d3ea914-f57d-44ab-b2b9-6fd4361d74e4.jpeg" width="200"/>
+
+84202975
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8df327bf-3686-42cc-aa5b-b98187b93ee3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1a489674-635a-48cf-be4c-e250b46f56de.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/22972e6a-2407-4fb6-83dd-dd3b56e5bf16.jpeg" width="200"/>
+
+84202978
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/af3a549f-1dd4-43d2-95ba-0b15989f0cda.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/33f01d9c-b501-4fe6-9488-b5afafdc2b80.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f5b12ac2-2da4-4afb-b8c3-ca9f02b9fc8f.jpeg" width="200"/>
+
+84202981
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/648b4f39-1f60-4157-8813-890729d4b12b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/187a418d-6a2a-4a42-83ca-f86f95a6dc2e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/977a3fc8-bb50-48be-81bb-b3b56608713a.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022adgj](https://www.wis-tns.org/object/2022adgj)
 score: 0.917048
 
