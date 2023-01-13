@@ -8,6 +8,100 @@ categories: discoveries
 
 
 ----------
+### [SN 2022adfs](https://www.wis-tns.org/object/2022adfs)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.988509
+
+discovery date: 13 Jan 2023
+
+***'Robert Pickard'*** **'Henryk Krawczyk'** **'Cledison Marcos da Silva'** 'VIRGILIO GONANO' 'Giovanni Colombo' 'M.T. Mazzucato' 'Meryl Goulbourne' 'B L Goodwin' 'Benoit ROUSSEAU' 'Daniel Sánchez Solís' 'Rosemary Billington' 
+
+84244421
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d06ba8e9-494e-463c-9c22-7d855d441ee2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f1c50f60-b85c-494c-8578-fe9e6e14f0df.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e41eb448-8478-4f55-a831-d7f76f7e3242.jpeg" width="200"/>
+
+84244422
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e1d67dae-8db9-4425-ad98-2a2da844c96e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fa0ddeb9-3d89-4e09-a04f-ef6b2bdd63ed.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/498b0ebf-4f5c-453a-adb8-ab33324c5514.jpeg" width="200"/>
+
+84244423
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/183666bb-8cbf-4a23-beaa-457acf31cbf9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f68e1ae8-e71b-4b16-8e4a-4256708d4dc1.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/93cfcc5d-833c-47f1-bc47-b8fba93ed426.jpeg" width="200"/>
+
+84244424
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dd4a9d0e-9de4-410a-8434-9e977adc2aa6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9dbfbc56-ffee-4f61-8e6d-6f1dd5774821.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/52522560-5fbd-409e-a9f4-eb4e91493610.jpeg" width="200"/>
+
+84244425
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2b591942-0f79-46c4-b23a-8c4593f3c0b6.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e08c0ad4-6271-4331-a8de-e70b880fde9b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b2d27495-4ccd-427a-98c0-5abdd5b51154.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022rlw](https://www.wis-tns.org/object/2022rlw)
+score: 0.97614
+
+discovery date: 13 Jan 2023
+
+*'Henryk Krawczyk'* **'Robert Pickard'** **'Giovanni Colombo'** **'Rosemary Billington'** 'Cledison Marcos da Silva' 'Meryl Goulbourne' 'M.T. Mazzucato' 'B L Goodwin' 'Daniel Sánchez Solís' 
+
+84244549
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f0ae2bca-5f85-4dc0-b772-cb43b4b7cd75.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3fc52bf2-857d-4979-a875-f50e57e3a6c3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e967b047-8749-4724-9d8a-3647b844950d.jpeg" width="200"/>
+
+84244550
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/59f3622a-d0a8-4e81-bfe6-fa85ac72d8c3.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/520718b1-bbd5-4784-808c-fd18844ddd9b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fd59c985-37d6-429a-a745-2fccd4bdb762.jpeg" width="200"/>
+
+84244551
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e2b66931-0dc9-4e99-9fb9-a81945c0d2bd.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/87bea6e3-cadf-414d-8790-e33a2c9a1951.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d1113486-fa0b-4bdd-89a2-a6b3b71cca9f.jpeg" width="200"/>
+
+84244552
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c52d3be0-79ca-4e40-bc38-a9362faafaf0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/96f7da28-ca40-4dca-9dc6-213e09eafed5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d9d1ed6d-f9a0-46ff-8c94-7e21d1c04819.jpeg" width="200"/>
+
+
+
+
+----------
+### [SN 2022zjt](https://www.wis-tns.org/object/2022zjt)
+
+**Spectroscopic type: SN II**
+
+score: 0.948595
+
+discovery date: 13 Jan 2023
+
+***'Meryl Goulbourne'*** **'VIRGILIO GONANO'** **'M.T. Mazzucato'** 'Henryk Krawczyk' 'Cledison Marcos da Silva' 'Giovanni Colombo' 'B L Goodwin' 'Benoit ROUSSEAU' 
+
+84244563
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fc022547-0d81-4c29-9695-d0f4eec752e4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6acce9ec-b782-4617-9f1e-0fca868a963c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6037b351-3ef3-4783-9d98-29f29985c175.jpeg" width="200"/>
+
+84244564
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/41d5e69e-6c85-451c-bf38-c02c22b306d2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/688a8c06-5ab8-462c-9ad5-a4fae94dcb50.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/847b1e97-b423-4413-b57c-f5d0a116ddff.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022acwx](https://www.wis-tns.org/object/2022acwx)
 score: 0.909896
 
