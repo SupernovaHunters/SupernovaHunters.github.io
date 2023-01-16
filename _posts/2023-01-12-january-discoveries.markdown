@@ -8,6 +8,35 @@ categories: discoveries
 
 
 ----------
+### [SN 2022aegh](https://www.wis-tns.org/object/2022aegh)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.934497
+
+discovery date: 16 Jan 2023
+
+***'Robert Pickard'*** **'Benoit ROUSSEAU'** **'Dennis Richards'** 'M.T. Mazzucato' 'Henryk Krawczyk' 'VIRGILIO GONANO' 'Tony Hoffman' 'Sovan acharya' 'Pritam Raikar' 
+
+84256253
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3cccd7a3-eff6-4367-8c12-31cbc5160b37.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/514c3334-db0c-4589-abfd-69b45f1d2f91.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8e74f0d2-d2bd-4dc9-a6e0-30b4fc5035c4.jpeg" width="200"/>
+
+84256255
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/380cbf33-588b-4307-83da-de9a6772bf8e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bfc0d9df-acbd-4489-bd19-dde91df05f78.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f0fd9a78-b895-4d04-9afa-b0d0ffeb8526.jpeg" width="200"/>
+
+84256256
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/39f21feb-9184-4185-b547-0458d3086105.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3820dc68-8d99-4234-ad0a-69f7dd13c0b2.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e4316c75-ef94-4a1a-8b25-6a81e9decaa7.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022acsl](https://www.wis-tns.org/object/2022acsl)
 score: 0.95088
 
