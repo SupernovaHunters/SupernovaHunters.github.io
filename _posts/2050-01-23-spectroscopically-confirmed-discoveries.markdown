@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2023-01-19 19:45:02 
+date:   2023-01-19 20:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2022acgi](https://wis-tns.weizmann.ac.il/object/2022acgi)
+**spectroscopic type: SN IIn**
+
+discovery date: 19 Jan 2023
 
 
 ----------
