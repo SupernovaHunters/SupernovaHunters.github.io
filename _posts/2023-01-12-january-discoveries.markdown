@@ -8,6 +8,68 @@ categories: discoveries
 
 
 ----------
+### [AT 2023K](https://www.wis-tns.org/object/2023K)
+score: 0.955797
+
+discovery date: 20 Jan 2023
+
+***'Pritam Raikar'*** **'Henryk Krawczyk'** **'Valmir Martins de Morais'** 'M.T. Mazzucato' 'Giovanni Colombo' 'Rosemary Billington' 'Cledison Marcos da Silva' 
+
+84316093
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/3ac10957-eac7-4434-b569-990d1c0ba4bb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/66879576-ab70-4c3d-b78f-17a9733c19ca.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1b19f75c-0202-4174-9ef1-750958584dec.jpeg" width="200"/>
+
+84316094
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fa56c085-924b-42a3-bd34-04bdcc38fdf4.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/688c3d0a-488a-4d9d-965b-954307e88ca5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9294590e-68d3-4881-88df-c0da63bacf86.jpeg" width="200"/>
+
+84316095
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1f67d310-4a1a-438b-a075-ebfd7ddb7786.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/89e7a746-e790-4896-b085-0ba38b474127.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e5394c49-6de3-47d8-9382-8329ddb42b67.jpeg" width="200"/>
+
+84316096
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6c810a41-9505-4a3f-9b53-e8080b1bdbc8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/35e2d096-da98-4e82-af30-72ba454d430d.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/91445b65-5fbe-4ce8-b5a3-91e6c41109df.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2022adzo](https://www.wis-tns.org/object/2022adzo)
+score: 0.94099
+
+discovery date: 20 Jan 2023
+
+*'Pritam Raikar'* **'Rosemary Billington'** **'Valmir Martins de Morais'** **'Henryk Krawczyk'** 'M.T. Mazzucato' 'Giovanni Colombo' 
+
+84315156
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1cd3bd94-6aed-4d16-a0aa-09a11b6881c8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b6eee248-a686-42c2-bb77-b006fc789785.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1ceed091-54e1-49e4-9ba7-ac36cf510813.jpeg" width="200"/>
+
+84315157
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9b4b1a25-e9b3-420b-ba63-e21777d01b81.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f06b81c6-1971-4975-9a68-b9b94e995f9e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/532e236a-e54a-4637-899e-69e3b8135e4d.jpeg" width="200"/>
+
+84315158
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7bf85deb-39a7-48f3-9ef8-4d2026f2c534.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0cdeaa00-c0fe-4617-851f-d8ca18efab31.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2642cb6c-df08-4c81-a8ea-0491895bb157.jpeg" width="200"/>
+
+84315159
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/ad4bb14a-48f2-4484-8a25-5c0f3497c671.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2fa78369-a485-4e96-aad2-bc2f016b382a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/68868d7e-4ae1-4e69-bf32-d170fdda3813.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2023us](https://www.wis-tns.org/object/2023us)
 score: 0.987055
 
