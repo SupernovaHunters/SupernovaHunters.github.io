@@ -8,6 +8,76 @@ categories: discoveries
 
 
 ----------
+### [AT 2022adci](https://www.wis-tns.org/object/2022adci)
+score: 0.934343
+
+discovery date: 21 Jan 2023
+
+*'M.T. Mazzucato'* **'B L Goodwin'** **'Celso Pessanha Machado'** **'KarayanK'** 'Henryk Krawczyk' 'Pritam Raikar' 'Valmir Martins de Morais' 'Rosemary Billington' 'Xmyu' 'Tony Hoffman' 'VIRGILIO GONANO' 'Dennis Richards' 
+
+84316013
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2eab908c-d9dd-457d-aab6-ae7ca49ef67f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d5476950-aac6-473a-80a5-832085f5da25.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f9978bd3-91fd-42fb-a7cb-6089d6733f9c.jpeg" width="200"/>
+
+84316014
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4208139d-6348-49cc-bcc5-22ccd580c6d9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c19f32dd-10b2-41cb-aa14-422a10940790.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5df417b2-e869-4f49-8791-7d746b9419a5.jpeg" width="200"/>
+
+84316015
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/93027d65-1eac-4089-95e0-ce60912dcf2f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/aa7c92e4-a976-4e77-a8f8-e0252e65dfdf.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f972d427-2d34-4440-b2a7-6c01964bf764.jpeg" width="200"/>
+
+84316016
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f9a79a50-c932-4e1a-a98c-ae4271fb575a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fadcfe7b-0166-4535-98d6-8e406f8b9310.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d660eae8-7e41-4b0b-abdf-6c4c26670f94.jpeg" width="200"/>
+
+
+
+
+----------
+### [SN 2023ke](https://www.wis-tns.org/object/2023ke)
+
+**Spectroscopic type: SN Ia**
+
+score: 0.957777
+
+discovery date: 21 Jan 2023
+
+*'Pritam Raikar'* **'Dennis Richards'** **'Henryk Krawczyk'** **'Xmyu'** 'M.T. Mazzucato' 'Valmir Martins de Morais' 'Benoit ROUSSEAU' 'Rosemary Billington' 'Tony Hoffman' 
+
+84315897
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dec0e7b7-6474-45c8-a370-599cd00aa69f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6a967e1e-9459-4356-afa6-ad7795b10fa9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/7ed6ddbc-b537-4d1c-926f-fef7f034c943.jpeg" width="200"/>
+
+84315898
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/1e910dcf-aa77-41b5-ab48-3853107977fc.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/66a211a6-1bc3-42a4-aa92-0c11ffb83026.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8a0892a7-bb50-40f6-b599-286d2b3af4cd.jpeg" width="200"/>
+
+84315899
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d7d87d36-4d96-46cf-932f-2352e2499bae.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/4a51f207-c783-4678-9ab7-771331cadcc7.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/a40dcf81-6421-470d-a5c6-c601f14b6d40.jpeg" width="200"/>
+
+84315900
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/75cff2cf-789f-4df4-a99b-c1ade9d6157a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/b4aa2655-22d0-4a4a-871d-66a5e590892f.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/fb2d220f-64ff-450a-b984-6c5aae047101.jpeg" width="200"/>
+
+84315901
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c98303db-32bb-4cb5-a2c0-9c651eb32540.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/05b7f649-f07f-4e2d-8921-e6b030399574.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c58c45cb-4dfb-4648-97c3-633148549680.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2023L](https://www.wis-tns.org/object/2023L)
 score: 0.910979
 
