@@ -8,6 +8,32 @@ categories: discoveries
 
 
 ----------
+### [AT 2023L](https://www.wis-tns.org/object/2023L)
+score: 0.910979
+
+discovery date: 21 Jan 2023
+
+*'Henryk Krawczyk'* **'Rosemary Billington'** **'Xmyu'** **'Valmir Martins de Morais'** 'M.T. Mazzucato' 'Celso Pessanha Machado' 'Dan Crowson' 'B L Goodwin' 
+
+84315533
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/0e5b5bd8-20b7-4d85-8cee-6fb2ef9a0376.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/17bf168c-b44f-4535-8aa4-667f1b3cabeb.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d3273e5c-b503-45b1-b5a2-b4abc95b1f72.jpeg" width="200"/>
+
+84315534
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/72e55f96-b01c-454b-b14c-410fe7e3c0ce.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2b4b52fc-0d05-4fc6-8043-13624b4b52d0.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/bb822c7f-46fb-4022-ae16-89095b0b6c09.jpeg" width="200"/>
+
+84315535
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8f43ef92-e8b6-454c-a9de-7ee8e367df7e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/afb81aee-2380-444b-9d6c-10dd33e37f83.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9a4f5bbd-7eb2-45bb-b0b6-23784f03ecb6.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2022paw](https://www.wis-tns.org/object/2022paw)
 score: 0.960777
 
