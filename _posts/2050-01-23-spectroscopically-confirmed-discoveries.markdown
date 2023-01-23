@@ -1,9 +1,44 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2023-01-23 09:45:02 
+date:   2023-01-23 10:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2022abjo](https://wis-tns.weizmann.ac.il/object/2022abjo)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 Jan 2023
+
+
+----------
+### [SN 2022adbo](https://wis-tns.weizmann.ac.il/object/2022adbo)
+**spectroscopic type: SN Ia**
+
+discovery date: 23 Jan 2023
+
+
+----------
+### [SN 2023fu](https://wis-tns.weizmann.ac.il/object/2023fu)
+**spectroscopic type: SN II**
+
+discovery date: 21 Jan 2023
+
+
+----------
+### [SN 2022advr](https://wis-tns.weizmann.ac.il/object/2022advr)
+**spectroscopic type: SN II**
+
+discovery date: 21 Jan 2023
+
+
+----------
+### [SN 2023dk](https://wis-tns.weizmann.ac.il/object/2023dk)
+**spectroscopic type: SN Ia-91bg-like**
+
+discovery date: 21 Jan 2023
 
 
 ----------
@@ -56,6 +91,13 @@ discovery date: 16 Jan 2023
 
 
 ----------
+### [SN 2023vd](https://wis-tns.weizmann.ac.il/object/2023vd)
+**spectroscopic type: SN Ia**
+
+discovery date: 16 Jan 2023
+
+
+----------
 ### [SN 2022zjt](https://wis-tns.weizmann.ac.il/object/2022zjt)
 **spectroscopic type: SN II**
 
@@ -64,6 +106,13 @@ discovery date: 13 Jan 2023
 
 ----------
 ### [SN 2022adfs](https://wis-tns.weizmann.ac.il/object/2022adfs)
+**spectroscopic type: SN Ia**
+
+discovery date: 13 Jan 2023
+
+
+----------
+### [SN 2023kr](https://wis-tns.weizmann.ac.il/object/2023kr)
 **spectroscopic type: SN Ia**
 
 discovery date: 13 Jan 2023
