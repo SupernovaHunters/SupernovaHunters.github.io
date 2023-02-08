@@ -1413,7 +1413,10 @@ discovery date: 03 Dec 2022
 
 
 ----------
-### [AT 2022acbf](https://www.wis-tns.org/object/2022acbf)
+### [SN 2022acbf](https://www.wis-tns.org/object/2022acbf)
+
+**Spectroscopic type: SN II**
+
 score: 0.98212
 
 discovery date: 03 Dec 2022
