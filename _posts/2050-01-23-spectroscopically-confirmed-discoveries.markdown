@@ -1,9 +1,23 @@
 ---
 layout: post
 title:  "Spectroscopically Confirmed Discoveries"
-date:   2023-02-24 01:45:06 
+date:   2023-02-24 02:45:02 
 categories: discoveries
 ---
+
+
+----------
+### [SN 2023yu](https://wis-tns.weizmann.ac.il/object/2023yu)
+**spectroscopic type: SN Ib**
+
+discovery date: 24 Feb 2023
+
+
+----------
+### [SN 2022adwv](https://wis-tns.weizmann.ac.il/object/2022adwv)
+**spectroscopic type: SN Ia**
+
+discovery date: 24 Feb 2023
 
 
 ----------
