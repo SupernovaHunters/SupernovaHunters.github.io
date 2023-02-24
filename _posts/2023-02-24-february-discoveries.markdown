@@ -8,6 +8,68 @@ categories: discoveries
 
 
 ----------
+### [AT 2022adsh](https://www.wis-tns.org/object/2022adsh)
+score: 0.966389
+
+discovery date: 24 Feb 2023
+
+*'Henryk Krawczyk'* **'VIRGILIO GONANO'** **'M.T. Mazzucato'** **'Pawel Tluscik'** 'Benoit ROUSSEAU' 'Hassan Zia' 'Virgilio Gonano' 'Elisabeth Baeten' 'Valmir Martins de Morais' 'B L Goodwin' 'Tony Hoffman' 'Erica J Welborn ' 
+
+85045325
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/29b44875-d427-421d-9dca-947644cf3cb5.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/5fbcb02e-5521-4dd9-aed9-5eb675cf1ec8.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/55758379-0d49-4e7a-bded-57f275544f03.jpeg" width="200"/>
+
+85045326
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6dc0b331-357e-4f5f-9e88-3a3b2f34b228.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/9a497ead-850b-488d-b822-f331b3845023.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/80ce5354-4dd0-4f84-9df0-777c720ee96d.jpeg" width="200"/>
+
+85045327
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/469539a8-f020-473a-9606-61ecd47f6bce.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/af151eb0-d794-4620-a959-4765e5a5b80e.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/536d8037-8709-4309-982f-4cac98016e27.jpeg" width="200"/>
+
+85045328
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/6bc39a7c-8cdc-4a5a-8b14-d0d164f0761a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/d2b3a1bc-8ef8-43ee-b6f9-bdb5cedbc526.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/dd86ab7d-a2d0-4aff-a658-b78d0c45df80.jpeg" width="200"/>
+
+
+
+
+----------
+### [AT 2023atr](https://www.wis-tns.org/object/2023atr)
+score: 0.980888
+
+discovery date: 24 Feb 2023
+
+***'Henryk Krawczyk'*** **'Pawel Tluscik'** **'VIRGILIO GONANO'** 'M.T. Mazzucato' 'Hassan Zia' 'Virgilio Gonano' 'Valmir Martins de Morais' 'Benoit ROUSSEAU' 'Elisabeth Baeten' 'Tony Hoffman' 'B L Goodwin' 'Herbert Gunell' 'Mir Mirwais' 'Erica J Welborn ' 
+
+85045313
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/09277158-8b7b-4c66-9cfa-af907971f3a9.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/8dd4362a-7755-433b-a8ad-429ba1078829.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/710b665b-c2e4-4e4c-9d5f-9cfd961b5771.jpeg" width="200"/>
+
+85045314
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/e46c610e-9cbe-4fff-be5f-9789096e089b.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/2f7bb398-f85d-46d9-83d7-21b9ddf76666.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/f88228d3-b5de-4cf1-adad-c6aa214ca939.jpeg" width="200"/>
+
+85045315
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/18056986-18b9-4960-97b5-b41bc8b86908.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/99fce9da-6599-49dd-b852-3b321e06a37a.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/305b9ab7-7d3f-4709-9668-4c7804f9514a.jpeg" width="200"/>
+
+85045316
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/c6878b89-7133-4b26-9c50-7a0b84c42750.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/82b2eff7-9149-493d-a8f9-071bca72409c.jpeg" width="200"/>
+<img src="https://panoptes-uploads.zooniverse.org/subject_location/cdfe63aa-af24-40d5-ae0c-9506e6ace009.jpeg" width="200"/>
+
+
+
+
+----------
 ### [AT 2023caa](https://www.wis-tns.org/object/2023caa)
 score: 0.989793
 
